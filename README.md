@@ -1,97 +1,83 @@
+Absolutely. Here is a **shortened GitHub README under 6,000 characters**, while retaining the important project, technical, evaluation, notebook, and limitation information.
+
+```markdown
 # C10-Team-Kasai
-An ethically guided, RAG-powered Small Language Model (SLM) delivering accurate, transparent, and plain-language legal answers regarding Nigerian tax laws for SMEs and individuals.
 
-
-
+> An ethically guided, RAG-powered Small Language Model (SLM) delivering accurate, transparent, and plain-language legal answers regarding Nigerian tax laws for SMEs and individuals.
 
 # Kasai — Nigerian Tax Law Small Language Model
 
-Kasai is a domain-adapted Small Language Model (SLM) designed to assist with **Nigerian tax-law questions and scenarios**, with particular emphasis on the tax reforms that took effect on **1 January 2026**.
+Kasai is a domain-adapted Small Language Model (SLM) designed to assist with **Nigerian tax-law questions and scenarios**, particularly under the tax reforms that took effect on **1 January 2026**.
 
-The project explores whether a relatively small open-weight language model can be adapted to a specialized legal domain using **Supervised Fine-Tuning (SFT) with LoRA**, while explicitly evaluating problems that are important in legal AI: factual accuracy, citation accuracy, current-law recognition, repealed-law detection, legal reasoning, and appropriate uncertainty.
+The project explores whether a small open-weight model can be specialized for Nigerian tax law using **Supervised Fine-Tuning (SFT) with LoRA**, while evaluating legal AI challenges such as factual accuracy, citations, current-law recognition, repealed-law detection, reasoning, and uncertainty.
 
 > **Research prototype — not legal advice.**  
-> Kasai v0.1 has not been validated to the standard required for professional or production legal/tax advice.
+> Kasai v0.1 is not validated for professional or production legal/tax use.
 
 ---
 
 ## 🎯 Problem
 
-Nigeria's tax system underwent significant reform in 2025, with new legislation taking effect from **1 January 2026**.
-
-A general-purpose LLM may:
+General-purpose LLMs can:
 
 - rely on repealed legislation;
-- confuse old and current tax rules;
+- confuse current and historical tax rules;
 - provide incorrect statutory citations;
-- mix Nigerian law with laws from other jurisdictions;
-- confidently answer questions when the available information is insufficient.
+- mix Nigerian law with other jurisdictions;
+- confidently answer questions when information is insufficient.
 
-Kasai investigates whether domain-specific training can improve a model's alignment with Nigerian tax law and whether that improvement can be measured through a dedicated evaluation framework.
+Kasai investigates whether domain adaptation can improve Nigerian tax-law alignment while providing a framework for measuring these limitations.
 
 ---
 
 ## 🧠 Approach
 
-Kasai v0.1 uses:
-
 ```text
 Nigerian Tax-Law Corpus
-        │
-        ▼
+        ↓
 Data Preprocessing
-        │
-        ▼
+        ↓
 SFT Dataset
-        │
-        ▼
+        ↓
 Gemma 3 4B Instruct
-        │
-        ▼
+        ↓
 LoRA Fine-Tuning
-        │
-        ▼
+        ↓
 Kasai v0.1
-        │
-        ▼
-Legal Evaluation Benchmark
+        ↓
+Legal Evaluation
 ```
 
-### Base Model
+### Model & Training
 
-**Google Gemma 3 4B Instruct**
-
-Kasai uses parameter-efficient fine-tuning rather than modifying the entire model.
-
-### Fine-Tuning
-
-- Method: LoRA
-- Training records: **96**
-- Epochs: **3**
-- Learning rate: `2e-4`
-- Batch size: `1`
-- Gradient accumulation: `8`
-- Trainable parameters: ~**29.8M**
-- Quantization: 4-bit during training
-- Hardware: NVIDIA Tesla T4
+- **Base model:** Google Gemma 3 4B Instruct
+- **Method:** LoRA / SFT
+- **Training records:** 96
+- **Epochs:** 3
+- **Learning rate:** `2e-4`
+- **Batch size:** 1
+- **Gradient accumulation:** 8
+- **Trainable parameters:** ~29.8M
+- **Quantization:** 4-bit NF4
+- **Training hardware:** NVIDIA Tesla T4
 
 ---
 
 ## 📚 Legal Domain
 
-The initial corpus focuses on Nigeria's 2025 tax reform framework, including:
+The initial corpus covers:
 
 - Nigeria Tax Act (NTA)
 - Nigeria Tax Administration Act (NTAA)
 - Nigeria Revenue Service Establishment Act (NRSEA)
 - Joint Revenue Board Establishment Act (JRBA)
 - Nigeria Revenue Service circulars, FAQs and notices
-- Selected repealed legislation for negative/repeal detection tests
+- Selected repealed legislation for negative/repeal testing
 
-The project focuses particularly on:
+Key areas include:
 
 - Company Income Tax
-- Value Added Tax (VAT)
+- VAT
 - PAYE
 - Personal Income Tax
 - SME taxation
@@ -103,241 +89,180 @@ The project focuses particularly on:
 
 ## 🧪 Evaluation
 
-Kasai includes a dedicated legal evaluation benchmark rather than relying only on generic language-model benchmarks.
+Kasai uses a dedicated legal benchmark covering:
 
-The evaluation covers:
-
-| Category | Purpose |
+| Category | Focus |
 |---|---|
-| Factual Accuracy | Can the model retrieve the correct tax-law fact? |
-| Legal Interpretation | Can it correctly interpret a provision? |
-| Legal Reasoning | Can it reason through interacting provisions? |
-| Citation Accuracy | Does it identify the correct statutory provision? |
-| Citation Completeness | Does it provide the necessary supporting provisions? |
-| Current-Law Recognition | Can it identify the legislation currently in force? |
-| Repealed-Law Detection | Can it avoid relying on superseded legislation? |
-| Temporal Reasoning | Can it distinguish rules across different periods? |
-| Scenario/Application | Can it apply tax rules to a realistic scenario? |
-| Abstention | Can it recognize when information is insufficient? |
+| Factual Accuracy | Correct tax-law facts |
+| Legal Interpretation | Interpretation of provisions |
+| Legal Reasoning | Applying interacting provisions |
+| Citation Accuracy | Correct statutory references |
+| Citation Completeness | Supporting provisions |
+| Current-Law Recognition | Identifying legislation in force |
+| Repealed-Law Detection | Rejecting superseded law |
+| Temporal Reasoning | Distinguishing rules by period |
+| Scenario/Application | Applying law to scenarios |
+| Abstention | Recognizing insufficient information |
 
-### Repealed-Law Benchmark
+### Repealed-Law Testing
 
-A core component of Kasai is testing whether the model can recognize questions that deliberately reference **repealed legislation**.
-
-For example:
+A key Kasai feature is testing whether the model can identify questions based on **repealed legislation** rather than blindly applying outdated rules.
 
 ```text
 Question
-   │
-   ▼
-Does the referenced legislation remain in force?
-   │
+   ↓
+Is the referenced law current?
    ├── Yes → Apply current law
-   │
    └── No  → Identify/reject repealed framework
 ```
 
-This is important because a legally fluent answer can still be **legally wrong** if it applies an outdated statute.
-
 ---
 
-## 📊 Kasai v0.1 Results
+## 📊 v0.1 Results
 
-The v0.1 evaluation contains **12 benchmark questions**.
+Kasai v0.1 was evaluated using a **12-question pilot benchmark** and compared against the untuned Gemma 3 4B model.
 
-The model demonstrated improved **Nigerian tax-domain alignment** compared with the untuned Gemma 3 4B model.
+The fine-tuned model demonstrated improved **Nigerian tax-domain alignment**, but the evaluation also revealed limitations in:
 
-However, the evaluation also exposed important limitations:
+- statutory citation accuracy;
+- tax calculations;
+- legal reasoning;
+- repealed-law detection;
+- abstention;
+- generation consistency.
 
-- incorrect statutory citations;
-- incorrect tax calculations in some scenarios;
-- failures to reliably detect repealed legislation;
-- inconsistent legal reasoning;
-- occasional overconfident answers;
-- incomplete abstention behavior;
-- repetitive generation in some responses.
-
-Therefore, Kasai v0.1 should be considered a **research prototype**, rather than a production-ready tax-law system.
-
----
-
-## 🔬 Base Model vs Kasai
-
-One objective of the project is to determine whether domain adaptation provides measurable improvement over the underlying general-purpose model.
-
-The comparison uses the same evaluation questions against:
-
-```text
-Gemma 3 4B Instruct
-        vs.
-Kasai v0.1
-```
-
-The initial comparison showed that Kasai was more consistently oriented toward the **Nigerian tax domain**, while some factual and legal-reasoning errors remained.
-
-This distinction is important:
+Therefore, Kasai v0.1 is a **research prototype**, not a production-ready tax-law system.
 
 > **Domain alignment ≠ legal reliability.**
 
-Kasai's v0.1 results suggest that SFT can improve specialization, but additional grounding and verification mechanisms are required for reliable legal applications.
-
 ---
-
-
 
 ## 🚀 Running Kasai
 
-Kasai v0.1 is distributed as a **LoRA adapter**, rather than a complete standalone model.
+The repository includes the complete Google Colab notebook:
 
-The adapter should be loaded on top of the compatible base model:
+**`Kasai_legal_SLM.ipynb`**
+
+The notebook provides an end-to-end workflow:
+
+```text
+Environment Setup
+↓
+Hugging Face Authentication
+↓
+Gemma 3 4B Loading
+↓
+Dataset Preparation & Validation
+↓
+LoRA Configuration
+↓
+SFT Training
+↓
+Adapter Saving
+↓
+Inference
+↓
+Evaluation
+↓
+Base vs. Kasai Comparison
+↓
+Submission Packaging
+```
+
+### Requirements
+
+The notebook was tested using:
+
+- Google Colab
+- CUDA GPU
+- NVIDIA Tesla T4 (~14.6 GB VRAM)
+- Hugging Face authentication
+
+The model is loaded in 4-bit NF4 quantization to reduce memory requirements.
+
+The Hugging Face token should be stored in Colab Secrets as:
+
+```text
+HF_TOKEN
+```
+
+### Kasai Adapter
+
+Kasai v0.1 is distributed as a **LoRA adapter** and must be loaded on top of:
 
 ```text
 google/gemma-3-4b-it
         +
-Kasai LoRA Adapter
+Kasai v0.1 Adapter
         ↓
 Kasai v0.1
 ```
 
-Example loading workflow:
+The notebook also generates:
 
-```python
-from transformers import AutoTokenizer, AutoModelForCausalLM
-from peft import PeftModel
-
-base_model = AutoModelForCausalLM.from_pretrained(
-    "google/gemma-3-4b-it"
-)
-
-tokenizer = AutoTokenizer.from_pretrained(
-    "path/to/kasai_sft_v0.1"
-)
-
-model = PeftModel.from_pretrained(
-    base_model,
-    "path/to/kasai_sft_v0.1"
-)
+```text
+kasai_sft_v0.1/
+evaluation_dataset.jsonl
+kasai_sft_v0.1_test_results.json
+kasai_v0.1_full_evaluation.json
+Kasai_v0.1_submission.zip
 ```
-
-For the exact training and inference configuration, see the project notebook and model metadata.
-
----
-
-## ⚠️ Limitations
-
-Kasai v0.1 has several known limitations.
-
-### 1. Legal accuracy
-
-The model can produce confident but incorrect legal answers.
-
-### 2. Citation reliability
-
-A response may identify the correct concept while giving an incorrect statutory section.
-
-### 3. Repealed-law detection
-
-The model does not yet reliably recognize every reference to superseded legislation.
-
-### 4. Limited training data
-
-The initial SFT dataset contains only **96 records**, which is insufficient to comprehensively represent Nigerian tax law.
-
-### 5. Evaluation size
-
-The initial benchmark contains **12 questions** and should therefore be considered a pilot evaluation rather than a statistically comprehensive benchmark.
-
-### 6. No production legal verification layer
-
-Kasai v0.1 does not independently verify every generated legal claim against an authoritative, version-controlled legal database.
 
 ---
 
 ## 🔮 Future Work
 
-Future versions can improve reliability through a combination of:
+Future versions will focus on:
 
-### Retrieval-Augmented Generation
+- Larger expert-reviewed datasets
+- Retrieval-Augmented Generation (RAG)
+- Version-aware legal retrieval
+- Citation verification
+- Stronger repealed-law detection
+- Improved legal reasoning
+- Better abstention
+- Human expert evaluation
+- Automated regression testing
+- RAG + SLM architecture
+- Resource-efficient deployment
 
 ```text
 User Question
-     ↓
-Legal Query
-     ↓
-Retrieve authoritative provisions
-     ↓
-Current-law / repeal verification
-     ↓
+      ↓
+Legal Retrieval
+      ↓
+Current-Law / Repeal Verification
+      ↓
 Kasai
-     ↓
-Answer + citations
+      ↓
+Answer + Citations
 ```
-
-### Additional improvements
-
-- Larger and expert-reviewed SFT datasets
-- More comprehensive Nigerian tax-law coverage
-- Stronger repealed-law negative examples
-- Citation verification
-- Temporal/version-aware retrieval
-- Legal reasoning datasets
-- Better abstention training
-- Human expert evaluation
-- Automated regression testing
-- RAG + SLM hybrid architecture
-- Quantized deployment for resource-constrained environments
 
 ---
 
 ## 🛡️ Responsible AI
 
-Kasai is designed around the following principles:
+Kasai is guided by:
 
-- **Accuracy**
-- **Reliability**
-- **Explainability**
-- **Transparency**
-- **Fairness**
-- **Privacy**
-- **Inclusivity**
-- **Safety**
+**Accuracy · Reliability · Explainability · Transparency · Fairness · Privacy · Inclusivity · Safety**
 
-The system should not replace qualified tax professionals or authoritative legal sources.
+Kasai should not replace qualified tax professionals or authoritative legal sources.
 
-When uncertainty is high, a future production version should prefer:
-
-```text
-"I don't have enough verified information to answer this reliably."
-```
-
-over a confident unsupported legal claim.
+Generated answers should always be verified against the latest Nigerian legislation, regulations, and official guidance.
 
 ---
 
-## 📄 Research Disclaimer
+## 📄 Disclaimer
 
-Kasai is an experimental research project.
+**Kasai v0.1 is an experimental research project and is not a legal or tax advisory service.**
 
-**Kasai v0.1 is not a legal or tax advisory service and must not be relied upon for filing decisions, tax compliance, litigation, financial decisions, or other professional legal/tax matters.**
-
-Always verify tax-law answers against the latest authoritative Nigerian legislation, regulations, and official guidance.
-
----
-
-## 👥 Project
-
-**Kasai — Nigerian Tax Law Small Language Model**
-
-Built as an exploration of **domain-specific language models, legal AI, Nigerian tax-law reasoning, and responsible AI evaluation**.
+It must not be relied upon for tax filing, compliance decisions, litigation, financial decisions, or professional legal/tax advice.
 
 ---
 
 ## 📜 License
 
-Add the project's chosen license here, for example:
+Add the project's chosen license here.
 
-```text
-MIT License
+The project license does not override the licensing terms of the underlying Gemma model or source materials.
 ```
-
-> Note: the license for the Kasai project does not override the licensing terms of the underlying Gemma model or the Nigerian legal source materials.
