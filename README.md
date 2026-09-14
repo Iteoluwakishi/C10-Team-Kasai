@@ -1,6 +1,3 @@
-Absolutely. Here is a **shortened GitHub README under 6,000 characters**, while retaining the important project, technical, evaluation, notebook, and limitation information.
-
-```markdown
 # C10-Team-Kasai
 
 > An ethically guided, RAG-powered Small Language Model (SLM) delivering accurate, transparent, and plain-language legal answers regarding Nigerian tax laws for SMEs and individuals.
