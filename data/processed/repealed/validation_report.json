@@ -1,0 +1,189 @@
+{
+  "PITA": {
+    "act": "PITA",
+    "status": "PASS",
+    "issue_count": 0,
+    "issues": {
+      "encoding_errors": [],
+      "empty_chunks": [],
+      "malformed_sections": [],
+      "missing_metadata_fields": [],
+      "incorrect_status": [],
+      "duplicate_chunk_ids": [],
+      "duplicate_text": []
+    },
+    "stats": {
+      "total_chunks": 113,
+      "sections": 104,
+      "schedules": 9,
+      "parts_covered": [
+        "PART I",
+        "PART II",
+        "PART III",
+        "PART IV",
+        "PART IX",
+        "PART V",
+        "PART VI",
+        "PART VII",
+        "PART VIII",
+        "PART X",
+        "PART XI",
+        "PART XII",
+        "PART XIII"
+      ],
+      "avg_text_length_chars": 2057.8,
+      "min_text_length_chars": 148,
+      "max_text_length_chars": 41476
+    }
+  },
+  "CITA": {
+    "act": "CITA",
+    "status": "PASS",
+    "issue_count": 0,
+    "issues": {
+      "encoding_errors": [],
+      "empty_chunks": [],
+      "malformed_sections": [],
+      "missing_metadata_fields": [],
+      "incorrect_status": [],
+      "duplicate_chunk_ids": [],
+      "duplicate_text": []
+    },
+    "stats": {
+      "total_chunks": 94,
+      "sections": 87,
+      "schedules": 7,
+      "parts_covered": [
+        "PART II",
+        "PART III",
+        "PART IV",
+        "PART IX",
+        "PART V",
+        "PART VI",
+        "PART VII",
+        "PART VIII",
+        "PART X",
+        "PART XI",
+        "PART XII",
+        "PART XIII",
+        "PART XIV"
+      ],
+      "avg_text_length_chars": 2456.4,
+      "min_text_length_chars": 136,
+      "max_text_length_chars": 41836
+    }
+  },
+  "VATA": {
+    "act": "VATA",
+    "status": "PASS",
+    "issue_count": 0,
+    "issues": {
+      "encoding_errors": [],
+      "empty_chunks": [],
+      "malformed_sections": [],
+      "missing_metadata_fields": [],
+      "incorrect_status": [],
+      "duplicate_chunk_ids": [],
+      "duplicate_text": []
+    },
+    "stats": {
+      "total_chunks": 45,
+      "sections": 44,
+      "schedules": 1,
+      "parts_covered": [
+        "PART I",
+        "PART II",
+        "PART III",
+        "PART V",
+        "PART VI"
+      ],
+      "avg_text_length_chars": 899.7,
+      "min_text_length_chars": 69,
+      "max_text_length_chars": 12337
+    }
+  },
+  "CGTA": {
+    "act": "CGTA",
+    "status": "PASS",
+    "issue_count": 0,
+    "issues": {
+      "encoding_errors": [],
+      "empty_chunks": [],
+      "malformed_sections": [],
+      "missing_metadata_fields": [],
+      "incorrect_status": [],
+      "duplicate_chunk_ids": [],
+      "duplicate_text": []
+    },
+    "stats": {
+      "total_chunks": 47,
+      "sections": 47,
+      "schedules": 0,
+      "parts_covered": [],
+      "avg_text_length_chars": 1544.8,
+      "min_text_length_chars": 194,
+      "max_text_length_chars": 8028
+    }
+  },
+  "PPTA": {
+    "act": "PPTA",
+    "status": "PASS",
+    "issue_count": 0,
+    "issues": {
+      "encoding_errors": [],
+      "empty_chunks": [],
+      "malformed_sections": [],
+      "missing_metadata_fields": [],
+      "incorrect_status": [],
+      "duplicate_chunk_ids": [],
+      "duplicate_text": []
+    },
+    "stats": {
+      "total_chunks": 66,
+      "sections": 62,
+      "schedules": 4,
+      "parts_covered": [
+        "PART I",
+        "PART II",
+        "PART III",
+        "PART IV",
+        "PART IX",
+        "PART V",
+        "PART VI",
+        "PART VII",
+        "PART VIII",
+        "PART X",
+        "PART XI"
+      ],
+      "avg_text_length_chars": 2034.2,
+      "min_text_length_chars": 75,
+      "max_text_length_chars": 23292
+    }
+  },
+  "SDA": {
+    "act": "SDA",
+    "status": "PASS",
+    "issue_count": 0,
+    "issues": {
+      "encoding_errors": [],
+      "empty_chunks": [],
+      "malformed_sections": [],
+      "missing_metadata_fields": [],
+      "incorrect_status": [],
+      "duplicate_chunk_ids": [],
+      "duplicate_text": []
+    },
+    "stats": {
+      "total_chunks": 118,
+      "sections": 118,
+      "schedules": 0,
+      "parts_covered": [
+        "PART I",
+        "PART III"
+      ],
+      "avg_text_length_chars": 1408.1,
+      "min_text_length_chars": 119,
+      "max_text_length_chars": 43119
+    }
+  }
+}

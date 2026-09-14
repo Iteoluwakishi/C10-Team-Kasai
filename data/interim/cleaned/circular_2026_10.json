@@ -1,0 +1,2990 @@
+{
+ "document_id": "circular_2026_10",
+ "title": "NRS Information Circular No. 2026/10: Taxation of Non-Resident Persons Engaged in Shipping and Air Transport",
+ "document_type": "circular",
+ "legal_weight": "administrative_guidance",
+ "status": "in_force",
+ "source_file": "guidance\\circular_2026_10_shipping_air_transport.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "lines": [
+    {
+     "top": 126.2,
+     "text": "NIGERIA INLAND REVENUE SERVICE"
+    },
+    {
+     "top": 142.5,
+     "text": "PLOT 1241, KUR MOHAMMED AVENUE, CENTRAL AREA, ABUJA, NIGERIA"
+    },
+    {
+     "top": 155.3,
+     "text": "INFORMATION CIRCULAR"
+    },
+    {
+     "top": 171.6,
+     "text": "NO: 2026/10 PUBLICATION DATE: 29TH JUNE, 2026"
+    },
+    {
+     "top": 213.1,
+     "text": "Subject: TAXATION OF NON-RESIDENT PERSONS ENGAGED IN"
+    },
+    {
+     "top": 229.8,
+     "text": "SHIPPING AND AIR TRANSPORT"
+    },
+    {
+     "top": 250.5,
+     "text": "This circular is issued for the information and guidance of taxpayers, tax"
+    },
+    {
+     "top": 267.0,
+     "text": "practitioners and the public in line with the provisions of the relevant tax"
+    },
+    {
+     "top": 283.4,
+     "text": "laws. The circular withdraws and replaces FIRS Information Circular No."
+    },
+    {
+     "top": 299.9,
+     "text": "2023/11 of 29th December 2023."
+    },
+    {
+     "top": 334.0,
+     "text": "1.0 Introduction"
+    },
+    {
+     "top": 353.0,
+     "text": "This Circular explains how the relevant provisions of the Nigeria Tax Act,"
+    },
+    {
+     "top": 369.3,
+     "text": "2025 and the Nigeria Tax Administration Act, 2025 apply to non-resident"
+    },
+    {
+     "top": 385.9,
+     "text": "shipping and airline operators. It sets out the basis for determining"
+    },
+    {
+     "top": 402.4,
+     "text": "assessable and total profits, clarifies the tax treatment of freight and non-"
+    },
+    {
+     "top": 418.8,
+     "text": "freight income, the impact of tax treaties, compliance obligations, and the"
+    },
+    {
+     "top": 435.3,
+     "text": "tax implications of leasing or chartering ships and aircraft. In addition, it"
+    },
+    {
+     "top": 451.9,
+     "text": "provides guidance on ancillary services, employment income exercised"
+    },
+    {
+     "top": 468.2,
+     "text": "aboard ships or aircraft, and the carriage of crude oil from Nigeria. The"
+    },
+    {
+     "top": 484.8,
+     "text": "Circular does not apply to Nigerian resident companies engaged in shipping"
+    },
+    {
+     "top": 501.1,
+     "text": "or air transport."
+    },
+    {
+     "top": 535.4,
+     "text": "2.0 Scope"
+    },
+    {
+     "top": 554.1,
+     "text": "This Circular applies to taxation of income derived from Nigeria by non-"
+    },
+    {
+     "top": 568.8,
+     "text": "resident persons engaged in shipping or air transport and does not apply to"
+    },
+    {
+     "top": 583.5,
+     "text": "Nigerian resident engaged in similar trade or business."
+    },
+    {
+     "top": 612.5,
+     "text": "3.0 Income from shipping and air transport business in Nigeria"
+    },
+    {
+     "top": 649.7,
+     "text": "3.1 Classification of income from shipping and air transport in"
+    },
+    {
+     "top": 666.0,
+     "text": "Nigeria"
+    },
+    {
+     "top": 686.9,
+     "text": "The profits derived by a non-resident company from airline or shipping"
+    },
+    {
+     "top": 703.2,
+     "text": "operation within Nigeria may fall into two categories; freight income or non-"
+    },
+    {
+     "top": 719.8,
+     "text": "freight income."
+    },
+    {
+     "top": 748.1,
+     "text": "(1) Freight income refers to income earned from the carriage of passengers,"
+    },
+    {
+     "top": 762.8,
+     "text": "mails, livestock or goods loaded into an aircraft or ship in Nigeria,"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "excluding transhipment."
+    },
+    {
+     "top": 74.0,
+     "text": "(2) Non-Freight income refers to income earned from other business"
+    },
+    {
+     "top": 90.6,
+     "text": "activities including but not limited to commission, demurrage, container"
+    },
+    {
+     "top": 106.9,
+     "text": "clearing fees, container damage fees, rental of ship or aircraft,"
+    },
+    {
+     "top": 123.5,
+     "text": "stevedoring, etc."
+    },
+    {
+     "top": 148.0,
+     "text": "3.2 Taxation of freight income"
+    },
+    {
+     "top": 168.6,
+     "text": "The following rules govern the taxation of freight income derived by non-"
+    },
+    {
+     "top": 184.9,
+     "text": "resident"
+    },
+    {
+     "top": 213.5,
+     "text": "companies from the operation of ship or air transport businesses in Nigeria:"
+    },
+    {
+     "top": 230.1,
+     "text": "Where a non-resident person carries on the business of transport by sea or"
+    },
+    {
+     "top": 246.4,
+     "text": "air, and any ship or aircraft owned, leased or chattered by it calls at any"
+    },
+    {
+     "top": 263.0,
+     "text": "port in Nigeria, the:"
+    },
+    {
+     "top": 291.3,
+     "text": "(a) profits arising from the carriage of passengers, mails, livestock or"
+    },
+    {
+     "top": 307.9,
+     "text": "goods shipped, or loaded into a ship or an aircraft in Nigeria (freight"
+    },
+    {
+     "top": 324.4,
+     "text": "income) is liable to tax;"
+    },
+    {
+     "top": 352.7,
+     "text": "(b) profits arising from carriage of passengers, mails, livestock or goods,"
+    },
+    {
+     "top": 369.3,
+     "text": "which are brought to Nigeria solely for trans-shipment are not"
+    },
+    {
+     "top": 385.6,
+     "text": "chargeable to tax in Nigeria;"
+    },
+    {
+     "top": 416.8,
+     "text": "(c) tax is levied on the profits attributable to such Nigerian operations,"
+    },
+    {
+     "top": 433.2,
+     "text": "irrespective of the company’s country of incorporation; and"
+    },
+    {
+     "top": 461.7,
+     "text": "(d) tax base for the taxation of freight income of foreign airline or shipping"
+    },
+    {
+     "top": 478.3,
+     "text": "companies is the “total profits” computed based on the relevant"
+    },
+    {
+     "top": 494.6,
+     "text": "provisions of the law."
+    },
+    {
+     "top": 525.6,
+     "text": "3.2.1 Determination of total profits where there is similar tax"
+    },
+    {
+     "top": 540.2,
+     "text": "treatment"
+    },
+    {
+     "top": 554.9,
+     "text": "Where the Service is satisfied that the tax jurisdiction of residence of a"
+    },
+    {
+     "top": 569.5,
+     "text": "non-resident shipping or air transport company computes and assesses"
+    },
+    {
+     "top": 584.2,
+     "text": "tax on a basis not materially different from that of Nigeria, the total profits"
+    },
+    {
+     "top": 598.6,
+     "text": "of the non-resident company will be determined as follows:"
+    },
+    {
+     "top": 627.9,
+     "text": "(a) The profits or losses attributable to Nigerian operations are"
+    },
+    {
+     "top": 642.5,
+     "text": "calculated using the following ratios:"
+    },
+    {
+     "top": 674.0,
+     "text": "(i) “Global Adjusted Profit Ratio”: The ratio of the company’s profits"
+    },
+    {
+     "top": 690.5,
+     "text": "or losses (before depreciation allowances) for an accounting"
+    },
+    {
+     "top": 707.1,
+     "text": "period to its gross revenue derived from the carriage of"
+    },
+    {
+     "top": 723.4,
+     "text": "passengers, mails, livestock, or goods."
+    },
+    {
+     "top": 742.4,
+     "text": "Global Adjusted Profit Ratio = Adjusted Profits or losses"
+    },
+    {
+     "top": 761.3,
+     "text": "Gross revenue from carriage activities"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "lines": [
+    {
+     "top": 78.3,
+     "text": "(ii) “Global Depreciation Ratio” The ratio of the company’s"
+    },
+    {
+     "top": 94.9,
+     "text": "depreciation allowances for an accounting period to its gross"
+    },
+    {
+     "top": 111.5,
+     "text": "revenue from the carriage of passengers, mails, livestock, or"
+    },
+    {
+     "top": 127.8,
+     "text": "goods."
+    },
+    {
+     "top": 163.1,
+     "text": "Global Depreciation Ratio = Depreciation allowances"
+    },
+    {
+     "top": 180.1,
+     "text": "Gross revenue from carriage activities"
+    },
+    {
+     "top": 208.7,
+     "text": "(b) Total profits will be determined as follows:"
+    },
+    {
+     "top": 241.6,
+     "text": "(i) “Assessable Profit” is calculated by applying the global adjusted"
+    },
+    {
+     "top": 258.2,
+     "text": "profit ratio to the freight revenue (total income derived from the"
+    },
+    {
+     "top": 274.5,
+     "text": "carriage of passengers, mails, livestock, or goods shipped or"
+    },
+    {
+     "top": 291.0,
+     "text": "loaded in Nigeria)."
+    },
+    {
+     "top": 319.4,
+     "text": "(ii) “Depreciation Allowance” is determined by applying the global"
+    },
+    {
+     "top": 335.7,
+     "text": "depreciation ratio to the Nigerian-sourced freight revenue."
+    },
+    {
+     "top": 364.1,
+     "text": "(iii) “Total Profit” is derived by deducting the depreciation allowance"
+    },
+    {
+     "top": 380.6,
+     "text": "from the assessable profits."
+    },
+    {
+     "top": 397.6,
+     "text": "Note:"
+    },
+    {
+     "top": 414.7,
+     "text": "To provide the required satisfaction to the Service, the non-resident company"
+    },
+    {
+     "top": 431.0,
+     "text": "should submit to the Service, a copy of its published account and a statement"
+    },
+    {
+     "top": 447.6,
+     "text": "containing the following information and certified by the tax authority of its"
+    },
+    {
+     "top": 463.9,
+     "text": "country of residence:"
+    },
+    {
+     "top": 492.2,
+     "text": "(i) Gross revenue from carriage activities,"
+    },
+    {
+     "top": 509.7,
+     "text": "(ii) Computation of the Adjusted Profits or losses, showing the addition"
+    },
+    {
+     "top": 526.1,
+     "text": "of depreciation back to the accounting profits and other tax"
+    },
+    {
+     "top": 542.4,
+     "text": "adjustment to the profits,"
+    },
+    {
+     "top": 559.4,
+     "text": "(iii) Depreciation Allowance, and"
+    },
+    {
+     "top": 577.0,
+     "text": "(iv) Declaration or an attestation stating that the information contained"
+    },
+    {
+     "top": 593.1,
+     "text": "in the certificate is true and correct."
+    },
+    {
+     "top": 621.9,
+     "text": "3.2.2 Situation of non-similar tax treatment"
+    },
+    {
+     "top": 638.4,
+     "text": "Where the provisions of paragraph 3.2.1 cannot be satisfactorily"
+    },
+    {
+     "top": 654.7,
+     "text": "applied, the total profit to be subject to tax in Nigeria will be determined"
+    },
+    {
+     "top": 671.3,
+     "text": "by applying the ratio of Earnings Before Interest and Tax (EBIT) to total"
+    },
+    {
+     "top": 687.9,
+     "text": "income or revenue (profit margin) to the turnover attributable to"
+    },
+    {
+     "top": 704.2,
+     "text": "Nigeria."
+    },
+    {
+     "top": 732.3,
+     "text": "NOTE:"
+    },
+    {
+     "top": 748.9,
+     "text": "(i) the information required for the computation of the ratio of EBIT to total"
+    },
+    {
+     "top": 765.2,
+     "text": "income or revenue is as disclosed in the company’s audited financial"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "statements,"
+    },
+    {
+     "top": 87.5,
+     "text": "(ii) where the company does not have published financial statements for the"
+    },
+    {
+     "top": 104.0,
+     "text": "relevant period, or is not required to publish such statements, the profit"
+    },
+    {
+     "top": 120.6,
+     "text": "margin will be determined by the Service by reference to the published"
+    },
+    {
+     "top": 136.9,
+     "text": "financial statements of a comparable company."
+    },
+    {
+     "top": 165.0,
+     "text": "3.2.3 Deemed total profit"
+    },
+    {
+     "top": 181.6,
+     "text": "Where at the time of assessment, the total profit cannot, for any reason,"
+    },
+    {
+     "top": 197.9,
+     "text": "be ascertained using any of the approaches described in paragraphs"
+    },
+    {
+     "top": 214.5,
+     "text": "3.2.1 and 3.2.2, the Service will determine the total profit by applying"
+    },
+    {
+     "top": 231.0,
+     "text": "a fair percentage to the gross revenue derived from the carriage of"
+    },
+    {
+     "top": 247.4,
+     "text": "passengers, mail, livestock, and goods shipped from or loaded in"
+    },
+    {
+     "top": 263.9,
+     "text": "Nigeria."
+    },
+    {
+     "top": 292.2,
+     "text": "3.3 Minimum tax"
+    },
+    {
+     "top": 306.9,
+     "text": "Notwithstanding the approaches described in paragraph 3.2 above, the tax"
+    },
+    {
+     "top": 321.5,
+     "text": "payable should not be less than 2% of the total revenue from the carriage of"
+    },
+    {
+     "top": 336.2,
+     "text": "passengers, mails, livestock or goods shipped or loaded in Nigeria."
+    },
+    {
+     "top": 368.3,
+     "text": "Where the tax computed is less than 2% of the total revenue receivable from"
+    },
+    {
+     "top": 384.7,
+     "text": "the carriage of passengers, mails, livestock or goods shipped or loaded in"
+    },
+    {
+     "top": 401.0,
+     "text": "Nigeria, the tax payable will be the 2% of the total revenue receivable from"
+    },
+    {
+     "top": 417.3,
+     "text": "the carriage of passengers, mails, livestock or goods shipped or loaded in"
+    },
+    {
+     "top": 433.4,
+     "text": "Nigeria."
+    },
+    {
+     "top": 449.7,
+     "text": "Illustration 1"
+    },
+    {
+     "top": 474.7,
+     "text": "The global income statement of NAM Airways Inc., a foreign airline which"
+    },
+    {
+     "top": 491.3,
+     "text": "operates into Nigeria for the year ended 31st December 2026 shows the"
+    },
+    {
+     "top": 507.8,
+     "text": "following:"
+    },
+    {
+     "top": 524.6,
+     "text": "$’000 $’000"
+    },
+    {
+     "top": 541.9,
+     "text": "Income from passengers, cargo and mails:"
+    },
+    {
+     "top": 558.2,
+     "text": "Outside Nigerian Sales 3,100,000"
+    },
+    {
+     "top": 573.9,
+     "text": "Nigerian sales 100,000"
+    },
+    {
+     "top": 603.9,
+     "text": "Global Transportation Revenue 3,200,000"
+    },
+    {
+     "top": 618.5,
+     "text": "Transportation Expenses:"
+    },
+    {
+     "top": 642.5,
+     "text": "Salaries and other expenses 2,300,000"
+    },
+    {
+     "top": 680.9,
+     "text": "Depreciation 320,000"
+    },
+    {
+     "top": 719.6,
+     "text": "Other disallowable expenses 180,000 (2,800,000)"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "Net Transportation Profit 400,000"
+    },
+    {
+     "top": 74.0,
+     "text": "Other Income:"
+    },
+    {
+     "top": 98.0,
+     "text": "Income from Properties (net) 25,000"
+    },
+    {
+     "top": 136.5,
+     "text": "Income from operating maintenance 50,000"
+    },
+    {
+     "top": 151.1,
+     "text": "hanger (net)"
+    },
+    {
+     "top": 175.1,
+     "text": "Income from duty-free shops (net) 50,000"
+    },
+    {
+     "top": 213.8,
+     "text": "Income from catering (net) 75,000 200,000"
+    },
+    {
+     "top": 252.2,
+     "text": "Net profit 600,000"
+    },
+    {
+     "top": 290.8,
+     "text": "NAM Airways has two ground staff in Nigeria and 5% of the ‘other income’ is"
+    },
+    {
+     "top": 306.9,
+     "text": "attributable to the operation of the Airline in Nigeria. Assume that the"
+    },
+    {
+     "top": 323.0,
+     "text": "provisions in the tax law of the home country of NAM Airways Inc is similar to"
+    },
+    {
+     "top": 339.1,
+     "text": "that of Nigeria with respect to the computation of assessable profits."
+    },
+    {
+     "top": 372.9,
+     "text": "Treatment"
+    },
+    {
+     "top": 395.5,
+     "text": "a. To determine the Nigerian tax payable on freight income"
+    },
+    {
+     "top": 410.1,
+     "text": "i. calculate the profit on the transportation business: $’000"
+    },
+    {
+     "top": 448.0,
+     "text": "Net transportation Profit as per account 400,000"
+    },
+    {
+     "top": 465.1,
+     "text": "Add Depreciation 320,000"
+    },
+    {
+     "top": 481.9,
+     "text": "Other disallowed expenses 180,000"
+    },
+    {
+     "top": 497.7,
+     "text": "Global Transportation Assessable Profits 900,000"
+    },
+    {
+     "top": 533.0,
+     "text": "ii. Compute relevant statutory ratios:"
+    },
+    {
+     "top": 550.1,
+     "text": "(a) Global Adjusted Profit ratio:"
+    },
+    {
+     "top": 567.1,
+     "text": "900,000 x 100%"
+    },
+    {
+     "top": 590.7,
+     "text": "3,200,000 = 28%"
+    },
+    {
+     "top": 624.3,
+     "text": "(b) Global Depreciation ratio: 320,000 x 100%"
+    },
+    {
+     "top": 648.3,
+     "text": "3,200,000 = 10%"
+    },
+    {
+     "top": 671.6,
+     "text": "iii Compute the tax payable on the freight income:"
+    },
+    {
+     "top": 697.5,
+     "text": "Nigerian freight income as above"
+    },
+    {
+     "top": 737.8,
+     "text": "100,000"
+    },
+    {
+     "top": 755.6,
+     "text": "Total Assessable Profits 28% of $100,000 ="
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "28,000"
+    },
+    {
+     "top": 79.8,
+     "text": "Less: Depreciation Allowance 10% of $100,000 ="
+    },
+    {
+     "top": 97.3,
+     "text": "10,000"
+    },
+    {
+     "top": 114.8,
+     "text": "Total Profit 18,000"
+    },
+    {
+     "top": 149.4,
+     "text": "Tax at 30% = 5,400"
+    },
+    {
+     "top": 182.8,
+     "text": "(iv) Minimum tax (2% of the Nigerian sales) = 100,000 X 2% = 2,000"
+    },
+    {
+     "top": 198.6,
+     "text": "Therefore, Tax Payable on freight income = 5,400"
+    },
+    {
+     "top": 234.9,
+     "text": "Note:"
+    },
+    {
+     "top": 251.4,
+     "text": "Depreciation allowance is in lieu of capital allowance granted under the First"
+    },
+    {
+     "top": 268.0,
+     "text": "Schedule to NTA."
+    },
+    {
+     "top": 300.9,
+     "text": "b. To determine the Nigerian tax payable on non-freight income"
+    },
+    {
+     "top": 317.0,
+     "text": "$’000"
+    },
+    {
+     "top": 332.6,
+     "text": "Total or global non-freight income (net) 200,000"
+    },
+    {
+     "top": 347.9,
+     "text": "Amount attributable to Nigeria (5% X 200,000) = 10,000"
+    },
+    {
+     "top": 363.5,
+     "text": "Tax @ 30% (30% X 10,000) = 3,000"
+    },
+    {
+     "top": 392.1,
+     "text": "Note:"
+    },
+    {
+     "top": 406.5,
+     "text": "For non-freight income, the tax payable will be 4%"
+    },
+    {
+     "top": 420.2,
+     "text": "of the non-freight income generated from Nigeria,"
+    },
+    {
+     "top": 433.6,
+     "text": "except where WHT above 4% has been applied. In"
+    },
+    {
+     "top": 447.3,
+     "text": "such case, the WHT will be the final tax."
+    },
+    {
+     "top": 479.7,
+     "text": "C. To determine the Total Tax Liability in Nigeria:"
+    },
+    {
+     "top": 495.8,
+     "text": "Tax payable on freight income 5,400"
+    },
+    {
+     "top": 511.7,
+     "text": "Tax payable on non-freight income 3,000"
+    },
+    {
+     "top": 526.8,
+     "text": "Total Tax Liability in Nigeria 8,400"
+    },
+    {
+     "top": 573.1,
+     "text": "Illustration 2: Alternative Profit Computation"
+    },
+    {
+     "top": 587.8,
+     "text": "Consider Transco Cargo Inc., a US-based shipping company, which generates"
+    },
+    {
+     "top": 602.2,
+     "text": "$20 million in revenue from transporting goods loaded in Nigeria. The ratio of"
+    },
+    {
+     "top": 616.8,
+     "text": "EBIT to total income derived from the company’s financial statement is 10%."
+    },
+    {
+     "top": 631.5,
+     "text": "The global adjusted profit and depreciation ratios could not be applied because"
+    },
+    {
+     "top": 646.1,
+     "text": "the rules applicable by the US tax authority in computing and assessing the"
+    },
+    {
+     "top": 660.8,
+     "text": "profit of the non-resident company to tax are different from that of Nigeria."
+    },
+    {
+     "top": 689.1,
+     "text": "Treatment:"
+    },
+    {
+     "top": 703.7,
+     "text": "The taxable profit is calculated as follows:"
+    },
+    {
+     "top": 727.2,
+     "text": " Nigerian revenue: $20 million."
+    },
+    {
+     "top": 741.8,
+     "text": " Profit margin: 10%."
+    },
+    {
+     "top": 756.5,
+     "text": " Total profit = $20 million × 10% = $2m"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "lines": [
+    {
+     "top": 61.0,
+     "text": " Tax @ 30% = $600,000.00"
+    },
+    {
+     "top": 92.0,
+     "text": "3.4 Tax Treaty Situation"
+    },
+    {
+     "top": 114.6,
+     "text": "The existing Articles on Shipping and Air Transport in the Double Taxation"
+    },
+    {
+     "top": 131.2,
+     "text": "Agreements (DTAs) between Nigeria and other countries deals with the"
+    },
+    {
+     "top": 147.5,
+     "text": "sharing of taxing right between Nigeria and the treaty partners. The Articles"
+    },
+    {
+     "top": 164.1,
+     "text": "moderate the provision of Section 18 of NTA as regards sum receivable from"
+    },
+    {
+     "top": 180.6,
+     "text": "the international carriage of passengers, mails, livestock or goods shipped or"
+    },
+    {
+     "top": 196.9,
+     "text": "loaded in Nigeria. The scope of the Articles covers only international traffic"
+    },
+    {
+     "top": 213.5,
+     "text": "(i.e. the place of departure is Nigeria, while the place of arrival is outside"
+    },
+    {
+     "top": 229.8,
+     "text": "Nigeria or vice versa). Consequently, the Articles do not deal with profits"
+    },
+    {
+     "top": 246.4,
+     "text": "derived by a non-resident company from domestic routes (i.e. where place"
+    },
+    {
+     "top": 263.0,
+     "text": "of departure and arrival are in Nigeria). The explanations in this paragraph"
+    },
+    {
+     "top": 279.3,
+     "text": "are applicable regardless of whether the vessel or aircraft is owned, leased or"
+    },
+    {
+     "top": 295.8,
+     "text": "otherwise at the disposal of the Non-resident company."
+    },
+    {
+     "top": 328.0,
+     "text": "There are two broad categories of Nigerian DTAs as regards the treatment of"
+    },
+    {
+     "top": 344.6,
+     "text": "companies engaged in shipping or air transport. These are DTAs that grant"
+    },
+    {
+     "top": 361.1,
+     "text": "unconditional tax exemption to shipping companies or airlines of tax treaty"
+    },
+    {
+     "top": 377.5,
+     "text": "partners and those that provide only conditional (based on reciprocity)"
+    },
+    {
+     "top": 394.0,
+     "text": "exemption."
+    },
+    {
+     "top": 430.8,
+     "text": "3.4.1 Unconditional tax exemption"
+    },
+    {
+     "top": 450.9,
+     "text": "With respect to tax treaties that grant unconditional tax exemption, the"
+    },
+    {
+     "top": 467.5,
+     "text": "companies engaged in shipping or air transport are exempt from"
+    },
+    {
+     "top": 483.8,
+     "text": "Nigerian income tax if they are residents (as defined by the DTA) of the"
+    },
+    {
+     "top": 500.1,
+     "text": "treaty partner and have submitted a Certificate of Residence, issued by"
+    },
+    {
+     "top": 516.2,
+     "text": "the treaty partner, to the Service."
+    },
+    {
+     "top": 552.9,
+     "text": "3.4.2 Conditional tax exemption"
+    },
+    {
+     "top": 569.3,
+     "text": "With respect to DTAs that grant conditional tax exemption, treaty"
+    },
+    {
+     "top": 585.9,
+     "text": "benefits are granted in either of the following ways:"
+    },
+    {
+     "top": 618.7,
+     "text": "(a) Where there is Reciprocity:"
+    },
+    {
+     "top": 641.3,
+     "text": "Reciprocity clause, in the Article dealing with shipping and air transport,"
+    },
+    {
+     "top": 657.9,
+     "text": "means that ships operated in international traffic by Nigerian companies"
+    },
+    {
+     "top": 674.4,
+     "text": "call at the seaports of a treaty partner and ships operated in"
+    },
+    {
+     "top": 690.8,
+     "text": "international traffic by companies of the treaty partner also call at"
+    },
+    {
+     "top": 707.3,
+     "text": "Nigerian seaports. Similarly, it may also mean aircrafts operated in"
+    },
+    {
+     "top": 723.6,
+     "text": "international traffic by Nigerian companies call at the airports of a treaty"
+    },
+    {
+     "top": 740.2,
+     "text": "partner and aircrafts operated in international traffic by companies of the"
+    },
+    {
+     "top": 756.8,
+     "text": "treaty partner also call at Nigerian airports in a given year of assessment."
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "Therefore, reciprocity applies only where profits as meant in the Article,"
+    },
+    {
+     "top": 76.2,
+     "text": "are derived by companies or other persons of both countries from the"
+    },
+    {
+     "top": 93.0,
+     "text": "operation of ships or aircraft in international traffic to or from each"
+    },
+    {
+     "top": 109.8,
+     "text": "other."
+    },
+    {
+     "top": 134.8,
+     "text": "As such, “Reciprocity” in international traffic will occur only where a"
+    },
+    {
+     "top": 151.6,
+     "text": "company of Nigeria derives profits from the operation of ships in"
+    },
+    {
+     "top": 168.4,
+     "text": "international traffic to a treaty partner, and a company of a treaty"
+    },
+    {
+     "top": 185.2,
+     "text": "partner similarly derives profits from the operation of ships; or a"
+    },
+    {
+     "top": 202.0,
+     "text": "company of Nigeria derives profits from the operation of aircraft in"
+    },
+    {
+     "top": 218.8,
+     "text": "international traffic to a treaty partner, and a company of a treaty"
+    },
+    {
+     "top": 235.6,
+     "text": "partner similarly derives profits from the operation of aircraft in"
+    },
+    {
+     "top": 252.4,
+     "text": "international traffic to Nigeria."
+    },
+    {
+     "top": 276.4,
+     "text": "In such a case, the foreign company will not pay tax in Nigeria, and the"
+    },
+    {
+     "top": 293.2,
+     "text": "Nigerian company will not pay tax in the other country. The profits of"
+    },
+    {
+     "top": 309.8,
+     "text": "the companies will only be taxable in their respective home countries."
+    },
+    {
+     "top": 343.9,
+     "text": "(b) Where there is no Reciprocity:"
+    },
+    {
+     "top": 366.7,
+     "text": "This is where a company of Nigeria’s tax treaty partner operates a ship"
+    },
+    {
+     "top": 383.2,
+     "text": "or aircraft in international traffic calling at a Nigerian port in a given year"
+    },
+    {
+     "top": 399.6,
+     "text": "of assessment, without any corresponding operation of any ship or"
+    },
+    {
+     "top": 416.1,
+     "text": "aircraft of a Nigerian company in international traffic calling at a port of"
+    },
+    {
+     "top": 432.4,
+     "text": "that treaty partner."
+    },
+    {
+     "top": 461.0,
+     "text": "In determining reciprocity, payment made to the government of Nigeria"
+    },
+    {
+     "top": 476.8,
+     "text": "or any instrumentality thereof, by way of a commercial or other"
+    },
+    {
+     "top": 492.7,
+     "text": "agreement that does not deal with tax issues, will not be considered as"
+    },
+    {
+     "top": 508.5,
+     "text": "profits derived by an enterprise of Nigeria from the operation of ships"
+    },
+    {
+     "top": 524.4,
+     "text": "or aircrafts in international traffic, for the purpose of satisfying the"
+    },
+    {
+     "top": 540.5,
+     "text": "condition of reciprocity."
+    },
+    {
+     "top": 568.3,
+     "text": "Consequently, the foreign company of the treaty partner is assessable"
+    },
+    {
+     "top": 584.7,
+     "text": "to tax in Nigeria in respect of income arising from such operations."
+    },
+    {
+     "top": 601.7,
+     "text": "However, Nigerian tax shall be at the rate specified in the respective DTAs."
+    },
+    {
+     "top": 637.2,
+     "text": "NOTE:"
+    },
+    {
+     "top": 661.7,
+     "text": "(i) The treatment agreed in the DTAs (i.e. full exemption of the foreign"
+    },
+    {
+     "top": 677.8,
+     "text": "company from income tax or taxation at treaty rate) is limited to the"
+    },
+    {
+     "top": 693.9,
+     "text": "activities specified in the tax treaty. Profits from all other activities of"
+    },
+    {
+     "top": 710.2,
+     "text": "the foreign company (not listed in the tax treaty) shall fall under the"
+    },
+    {
+     "top": 726.3,
+     "text": "Article on Business Profits in the Agreement and be taxable in Nigeria"
+    },
+    {
+     "top": 742.4,
+     "text": "as provided by the relevant domestic tax law."
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "(ii) for the purposes of reciprocity, ships and aircrafts are not"
+    },
+    {
+     "top": 75.9,
+     "text": "interchangeable, i.e. ship for ship and aircraft for aircraft."
+    },
+    {
+     "top": 101.1,
+     "text": "Illustration 3:"
+    },
+    {
+     "top": 119.9,
+     "text": "XYZ Airlines Ltd., a foreign company resident in Utopia a treaty partner of"
+    },
+    {
+     "top": 136.2,
+     "text": "Nigeria, carries passengers from Abuja Nigeria to Utopia with three flights"
+    },
+    {
+     "top": 152.8,
+     "text": "per week."
+    },
+    {
+     "top": 188.1,
+     "text": "Treatment:"
+    },
+    {
+     "top": 207.0,
+     "text": "This trip would be regarded as falling within the definition of international"
+    },
+    {
+     "top": 223.4,
+     "text": "traffic."
+    },
+    {
+     "top": 258.2,
+     "text": "Illustration 4:"
+    },
+    {
+     "top": 277.1,
+     "text": "XYZ Airlines Ltd., a foreign company resident in Utopia, a treaty partner of"
+    },
+    {
+     "top": 293.4,
+     "text": "Nigeria, carries passengers from Abuja Nigeria to Utopia with three flights"
+    },
+    {
+     "top": 309.8,
+     "text": "per week. XYZ Airlines as part of the same voyage to Utopia, first flies"
+    },
+    {
+     "top": 325.9,
+     "text": "between Abuja to Lagos to pick up passengers and then continues to Utopia."
+    },
+    {
+     "top": 359.9,
+     "text": "Treatment:"
+    },
+    {
+     "top": 378.9,
+     "text": "The first and second legs of that trip, Abuja to Lagos and Lagos to Utopia will"
+    },
+    {
+     "top": 395.7,
+     "text": "both be part of a voyage regarded as falling within the definition of"
+    },
+    {
+     "top": 412.5,
+     "text": "international traffic, because the trip of the passengers carried from Abuja did"
+    },
+    {
+     "top": 429.1,
+     "text": "not end in Lagos but continues to Utopia."
+    },
+    {
+     "top": 462.7,
+     "text": "Illustration 5:"
+    },
+    {
+     "top": 479.5,
+     "text": "XYZ Airlines Ltd., a foreign company resident in Utopia, a treaty partner of"
+    },
+    {
+     "top": 496.3,
+     "text": "Nigeria, carries passengers from Abuja Nigeria to Utopia with three flights per"
+    },
+    {
+     "top": 513.1,
+     "text": "week. XYZ Airlines as part of the same voyage to Utopia, first flies between"
+    },
+    {
+     "top": 529.9,
+     "text": "Abuja to Lagos to pick up more passengers and then continues to Utopia. The"
+    },
+    {
+     "top": 546.7,
+     "text": "airline also has license to operate domestic routes on the days it is not carrying"
+    },
+    {
+     "top": 563.3,
+     "text": "passengers to Utopia, and to disembark in Lagos, some of the passengers it"
+    },
+    {
+     "top": 580.1,
+     "text": "carries from Abuja to Lagos in its flight enroute Utopia."
+    },
+    {
+     "top": 615.9,
+     "text": "Treatment:"
+    },
+    {
+     "top": 634.8,
+     "text": "Income from the operation of domestic routes on the days it is not carrying"
+    },
+    {
+     "top": 651.1,
+     "text": "passengers to Utopia, as well as that from Abuja passengers disembarked in"
+    },
+    {
+     "top": 667.7,
+     "text": "Lagos would not be regarded as falling within the definition of"
+    },
+    {
+     "top": 684.0,
+     "text": "international traffic."
+    },
+    {
+     "top": 709.2,
+     "text": "Illustration 6:"
+    },
+    {
+     "top": 728.0,
+     "text": "XYZ Airlines Ltd., a foreign company resident in Utopia a treaty partner of"
+    },
+    {
+     "top": 744.5,
+     "text": "Nigeria, jointly operates flights in domestic routes with ABC Nigeria Ltd. XYZ"
+    },
+    {
+     "top": 760.9,
+     "text": "Airlines Ltd provides the aircrafts and pilots, ABC provides the other crews"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "and other logistics."
+    },
+    {
+     "top": 82.7,
+     "text": "Treatment:"
+    },
+    {
+     "top": 101.6,
+     "text": "Income derived from Nigeria by XYZ Airlines Ltd from a pool or joint operation"
+    },
+    {
+     "top": 117.9,
+     "text": "of flight in domestic routes would not be regarded as falling within the"
+    },
+    {
+     "top": 134.5,
+     "text": "definition of international traffic."
+    },
+    {
+     "top": 168.9,
+     "text": "4.0 Tax Returns"
+    },
+    {
+     "top": 187.6,
+     "text": "A non-resident company involved in the carriage of passengers, mails, livestock"
+    },
+    {
+     "top": 202.2,
+     "text": "or goods loaded into ships or aircrafts in Nigeria is required to file monthly"
+    },
+    {
+     "top": 216.6,
+     "text": "returns with the Service and pay the tax computed for its operation that"
+    },
+    {
+     "top": 231.3,
+     "text": "month. The monthly returns shall be filed not later than the 21st day of the"
+    },
+    {
+     "top": 245.9,
+     "text": "following month in respect to the freight income earned from Nigeria with"
+    },
+    {
+     "top": 260.6,
+     "text": "evidence of payment. In addition, an annual return shall be filed with the"
+    },
+    {
+     "top": 275.0,
+     "text": "Service with respect to freight and non-freight income earned from Nigeria in"
+    },
+    {
+     "top": 289.6,
+     "text": "line with the process and procedure for filing annual income tax returns in"
+    },
+    {
+     "top": 304.3,
+     "text": "Nigeria."
+    },
+    {
+     "top": 336.7,
+     "text": "4.1 Monthly Tax Returns"
+    },
+    {
+     "top": 359.2,
+     "text": "The monthly returns shall contain the following;"
+    },
+    {
+     "top": 383.7,
+     "text": "(a) Detailed statement of the Nigerian operations for that month showing"
+    },
+    {
+     "top": 400.3,
+     "text": "the amount of gross revenue;"
+    },
+    {
+     "top": 424.8,
+     "text": "(b) Tax Computation schedule, for tax charged at the rate of 2% of gross"
+    },
+    {
+     "top": 441.3,
+     "text": "revenue or at the rate specified in an applicable tax treaty;"
+    },
+    {
+     "top": 465.6,
+     "text": "(c) Evidence of tax payment on income derived from the carriage of"
+    },
+    {
+     "top": 482.1,
+     "text": "passengers, mail, livestock, or goods loaded in Nigeria."
+    },
+    {
+     "top": 506.6,
+     "text": "NOTE:"
+    },
+    {
+     "top": 522.9,
+     "text": "The 2% on gross revenue paid is not the final tax. The payment of the 2%"
+    },
+    {
+     "top": 539.5,
+     "text": "of monthly revenue only enables the companies to fulfill the requirement for"
+    },
+    {
+     "top": 556.1,
+     "text": "repatriation of ticket sales pending the conclusion of the tax matters for the"
+    },
+    {
+     "top": 572.4,
+     "text": "relevant year of assessment."
+    },
+    {
+     "top": 596.9,
+     "text": "4.2 Annual Tax Returns"
+    },
+    {
+     "top": 613.5,
+     "text": "The contents of the annual tax returns of non-resident shipping and airline"
+    },
+    {
+     "top": 629.8,
+     "text": "company are:"
+    },
+    {
+     "top": 646.3,
+     "text": "(a) the company's full audited financial statements;"
+    },
+    {
+     "top": 662.7,
+     "text": "(b) the financial statement of the Nigerian operations, attested to by"
+    },
+    {
+     "top": 679.0,
+     "text": "an independent, qualified or certified accountant in Nigeria;"
+    },
+    {
+     "top": 695.3,
+     "text": "(c) where a separate financial statement of the Nigerian operations"
+    },
+    {
+     "top": 711.6,
+     "text": "cannot be provided, the company is required to provide detailed"
+    },
+    {
+     "top": 728.0,
+     "text": "gross revenue statements of its Nigerian operations, certified by"
+    },
+    {
+     "top": 744.0,
+     "text": "one of its directors and its external auditors, and supported with"
+    },
+    {
+     "top": 760.4,
+     "text": "the contract agreements;"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "(d) tax computation schedules based on the profits attributable to"
+    },
+    {
+     "top": 76.4,
+     "text": "its Nigerian operations;"
+    },
+    {
+     "top": 93.5,
+     "text": "(e) a true and correct statement, in writing, containing the profits"
+    },
+    {
+     "top": 110.5,
+     "text": "from each and every source in Nigeria;"
+    },
+    {
+     "top": 127.6,
+     "text": "(f) duly completed Income Tax Self-Assessment forms;"
+    },
+    {
+     "top": 142.2,
+     "text": "(g) a computation of the effective tax rate and additional tax payable,"
+    },
+    {
+     "top": 158.5,
+     "text": "where applicable; and"
+    },
+    {
+     "top": 174.9,
+     "text": "(h) evidence of payment of the tax due."
+    },
+    {
+     "top": 211.6,
+     "text": "Note:"
+    },
+    {
+     "top": 229.8,
+     "text": "(i) ’’Full audited financial statement’’ implies the global or consolidated"
+    },
+    {
+     "top": 244.5,
+     "text": "account of the foreign entity,"
+    },
+    {
+     "top": 259.1,
+     "text": "(ii) Financial statement of the Nigerian operations should include"
+    },
+    {
+     "top": 275.4,
+     "text": "necessary details required under the relevant domestic legislation,"
+    },
+    {
+     "top": 292.0,
+     "text": "(iii) Capital Allowances computation is limited to qualified capital"
+    },
+    {
+     "top": 308.6,
+     "text": "expenditures incurred for Nigerian operations only,"
+    },
+    {
+     "top": 324.7,
+     "text": "(iv) Information contained in the financial statement of the Nigerian"
+    },
+    {
+     "top": 341.0,
+     "text": "operations will form the basis for computing the assessable profits,"
+    },
+    {
+     "top": 357.1,
+     "text": "capital allowances, total profits and tax due,"
+    },
+    {
+     "top": 373.4,
+     "text": "(v)Income Tax self-assessment forms are available at"
+    },
+    {
+     "top": 390.0,
+     "text": "https://www.firs.gov.ng/TaxForms/FIRSTaxForms."
+    },
+    {
+     "top": 415.2,
+     "text": "4.2.1 Computation details for Annual Returns"
+    },
+    {
+     "top": 439.6,
+     "text": "(a) Tax computation - the tax computation under paragraph 3.2.1 of this"
+    },
+    {
+     "top": 455.7,
+     "text": "Circular should disclose the following details:"
+    },
+    {
+     "top": 471.8,
+     "text": "(i) Global revenue (i.e. total revenue receivable worldwide from the"
+    },
+    {
+     "top": 488.4,
+     "text": "carriage of passengers, mails, livestock or goods),"
+    },
+    {
+     "top": 506.6,
+     "text": "(ii) The global net profit from the business of carriage of passengers,"
+    },
+    {
+     "top": 523.4,
+     "text": "mails, livestock or goods,"
+    },
+    {
+     "top": 542.1,
+     "text": "(iii) Tax adjustments carried out on the accounting net profit to arrive at"
+    },
+    {
+     "top": 558.9,
+     "text": "the adjusted profit from the business of carriage of passengers,"
+    },
+    {
+     "top": 575.3,
+     "text": "mails, livestock or goods,"
+    },
+    {
+     "top": 593.3,
+     "text": "(iv) The adjusted profit ratio from the business of carriage of"
+    },
+    {
+     "top": 609.9,
+     "text": "passengers, mails, livestock or goods (i.e. the ratio of the adjusted"
+    },
+    {
+     "top": 626.4,
+     "text": "profits to global earnings (revenue) for the period),"
+    },
+    {
+     "top": 644.7,
+     "text": "(v) The amount of global depreciation in respect of the business of"
+    },
+    {
+     "top": 661.5,
+     "text": "carriage of passengers, mails, livestock or goods for the period,"
+    },
+    {
+     "top": 680.4,
+     "text": "(vi) The depreciation ratio (i.e. the ratio of the annual global"
+    },
+    {
+     "top": 697.2,
+     "text": "depreciation to global earnings (revenue) of the business of"
+    },
+    {
+     "top": 714.0,
+     "text": "carriage of passengers, mails, livestock or goods for the period),"
+    },
+    {
+     "top": 731.3,
+     "text": "(vii) Earnings (revenue) of the company derived from the carriage of"
+    },
+    {
+     "top": 747.9,
+     "text": "passengers, mails, livestock or goods shipped or loaded into"
+    },
+    {
+     "top": 764.5,
+     "text": "aircrafts in Nigeria during the period,"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "(viii) Assessable profits of the company derived from Nigeria (i.e."
+    },
+    {
+     "top": 76.2,
+     "text": "revenue of the company from Nigeria specified in (vii) above"
+    },
+    {
+     "top": 93.0,
+     "text": "multiplied by the adjusted profit ratio determined in (iv) above),"
+    },
+    {
+     "top": 111.5,
+     "text": "(ix) Capital allowance deducted (i.e. revenue of the company from"
+    },
+    {
+     "top": 128.5,
+     "text": "Nigeria specified in (vii) above multiplied by depreciation ratio"
+    },
+    {
+     "top": 145.6,
+     "text": "determined in (v) above),"
+    },
+    {
+     "top": 162.6,
+     "text": "(x) Total profits or full profits taxable in Nigeria (i.e. the Assessable"
+    },
+    {
+     "top": 179.4,
+     "text": "profits of the company computed in (viii) above less Capital"
+    },
+    {
+     "top": 196.2,
+     "text": "allowance computed in (ix) above),"
+    },
+    {
+     "top": 213.5,
+     "text": "(xi) Tax computed, which is the total profits or ‘full profits’ computed in"
+    },
+    {
+     "top": 230.1,
+     "text": "(x) above multiplied by 30%, and"
+    },
+    {
+     "top": 248.6,
+     "text": "(xii) Computation of minimum tax; and"
+    },
+    {
+     "top": 275.2,
+     "text": "(b) Tax payable in Nigeria, which is the higher of tax computed in (xi) and"
+    },
+    {
+     "top": 289.8,
+     "text": "minimum tax computed in (xii). Capital Allowances Computation – this"
+    },
+    {
+     "top": 304.3,
+     "text": "should contain details of depreciation charged into the global account, the"
+    },
+    {
+     "top": 318.9,
+     "text": "computation of depreciation ratio and capital allowances deductible in"
+    },
+    {
+     "top": 333.5,
+     "text": "Nigeria (computed using the depreciation ratio)."
+    },
+    {
+     "top": 362.1,
+     "text": "5.0 Role of Regulatory Agencies in Ensuring Tax Compliance"
+    },
+    {
+     "top": 376.7,
+     "text": "Regulatory agencies in the shipping, air transport, and related sectors are"
+    },
+    {
+     "top": 391.2,
+     "text": "required to request non-resident persons engaged in shipping and airline"
+    },
+    {
+     "top": 405.8,
+     "text": "operations to provide evidence of tax compliance as a pre-requisite for"
+    },
+    {
+     "top": 420.4,
+     "text": "conducting business or obtaining approvals or permits in Nigeria. Acceptable"
+    },
+    {
+     "top": 435.1,
+     "text": "evidence includes:"
+    },
+    {
+     "top": 463.6,
+     "text": "(i) Proof of income tax filing for the preceding tax year;"
+    },
+    {
+     "top": 490.3,
+     "text": "(ii) Tax Clearance Certificates demonstrating income tax payments for the"
+    },
+    {
+     "top": 504.7,
+     "text": "three preceding tax years; or"
+    },
+    {
+     "top": 531.3,
+     "text": "(iii) Evidence of tax declaration and payment for the specific carriage or"
+    },
+    {
+     "top": 546.0,
+     "text": "shipment activity."
+    },
+    {
+     "top": 574.6,
+     "text": "Note:"
+    },
+    {
+     "top": 589.2,
+     "text": "A foreign airline or shipping company that carries out operation in Nigeria shall"
+    },
+    {
+     "top": 603.9,
+     "text": "register for tax and may obtain a TCC from the Service to meet the regulatory"
+    },
+    {
+     "top": 618.3,
+     "text": "requirement in paragraph (ii) above."
+    },
+    {
+     "top": 650.7,
+     "text": "6.0 Income from Leasing or Charter of Ships and Aircraft"
+    },
+    {
+     "top": 669.6,
+     "text": "One of the common features of the Shipping and Air Transport business is"
+    },
+    {
+     "top": 684.0,
+     "text": "leasing of vessels, ships or aircraft. The lease may be on “time or voyage"
+    },
+    {
+     "top": 698.7,
+     "text": "basis”, or “demise or bare-boat basis” in the case of ships; and dry or wet"
+    },
+    {
+     "top": 713.3,
+     "text": "lease in the case of aircraft."
+    },
+    {
+     "top": 734.9,
+     "text": "(a) A voyage or time charter: This is an arrangement in which the"
+    },
+    {
+     "top": 749.3,
+     "text": "charterer (or lessee) charters the ship (or part of it) for a particular"
+    },
+    {
+     "top": 763.7,
+     "text": "voyage in which the route and ports have been pre-determined or for"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "lines": [
+    {
+     "top": 59.1,
+     "text": "an agreed period of time of which they are free to sail to any port and"
+    },
+    {
+     "top": 73.5,
+     "text": "transport any cargo."
+    },
+    {
+     "top": 95.1,
+     "text": "Voyage or time charter of ships is similar to wet lease or leasing"
+    },
+    {
+     "top": 109.5,
+     "text": "arrangements of aircraft. Depending on the charter arrangement, the"
+    },
+    {
+     "top": 124.0,
+     "text": "charterer or lessee may direct where the ship or aircraft will go but"
+    },
+    {
+     "top": 138.4,
+     "text": "the owner of the ship retains possession of the ship, and maintenance"
+    },
+    {
+     "top": 152.8,
+     "text": "of the vessel still falls under the purview of the owner. It is the owner"
+    },
+    {
+     "top": 167.2,
+     "text": "of the ship that remains responsible for the employment of the master"
+    },
+    {
+     "top": 181.6,
+     "text": "and crew and responsible for the technical operation of the vessel."
+    },
+    {
+     "top": 210.6,
+     "text": "The charterer or lessee pays hire (rental fee) to the owner of the"
+    },
+    {
+     "top": 225.3,
+     "text": "vessel and may sometimes pay for the fuel the vessel consumes, port"
+    },
+    {
+     "top": 239.9,
+     "text": "charges, demurrage, commissions etc. (especially for time charter)"
+    },
+    {
+     "top": 254.3,
+     "text": "but does not retain ownership, while the owner will handle all"
+    },
+    {
+     "top": 269.0,
+     "text": "maintenance-related costs. In a time charter the commercial control"
+    },
+    {
+     "top": 283.6,
+     "text": "of the vessel is not handled by the owner, while in a voyage charter,"
+    },
+    {
+     "top": 298.2,
+     "text": "both the technical and commercial control is retained by the owner."
+    },
+    {
+     "top": 312.7,
+     "text": "A voyage or time charter of ship or wet lease of aircraft mostly"
+    },
+    {
+     "top": 327.3,
+     "text": "constitutes an operating lease."
+    },
+    {
+     "top": 356.6,
+     "text": "(b) Bareboat or demise charter: Bareboat or demise charter"
+    },
+    {
+     "top": 373.4,
+     "text": "arrangement has similar features as dry lease or leasing arrangement"
+    },
+    {
+     "top": 390.2,
+     "text": "of an aircraft. In a dry lease or bare-boat or demise charter, the"
+    },
+    {
+     "top": 407.0,
+     "text": "owner gives possession of the ship to the charterer, and the charterer"
+    },
+    {
+     "top": 423.8,
+     "text": "hires its own master, crew and ground staff. The charterer or lessee"
+    },
+    {
+     "top": 440.4,
+     "text": "obtains possession and full operational control of the vessel along"
+    },
+    {
+     "top": 457.2,
+     "text": "with the legal and financial responsibility for it. The charterer or lessee"
+    },
+    {
+     "top": 474.0,
+     "text": "pays for all operating expenses, including fuel, crew, port expenses"
+    },
+    {
+     "top": 490.8,
+     "text": "and insurance. A bareboat charter of ship or dry lease of aircraft is in"
+    },
+    {
+     "top": 507.6,
+     "text": "effect a financing arrangement and mostly constitutes a finance lease."
+    },
+    {
+     "top": 542.4,
+     "text": "6.1 Treatment of Income from Leasing or Charter of Ships and"
+    },
+    {
+     "top": 558.5,
+     "text": "Aircraft under the Domestic Law"
+    },
+    {
+     "top": 579.4,
+     "text": "Income from leasing or charter of ships and aircraft will, in most cases, not"
+    },
+    {
+     "top": 595.7,
+     "text": "constitute freight income. As such, section 18 of the NTA and Section 21 of"
+    },
+    {
+     "top": 612.3,
+     "text": "the NTAA will not apply to income arising from the lease or charter of ships"
+    },
+    {
+     "top": 628.8,
+     "text": "or aircraft, being non-freight income. Accordingly, such income will be"
+    },
+    {
+     "top": 645.1,
+     "text": "taxed in accordance with the normal taxation rules in the tax laws, including"
+    },
+    {
+     "top": 661.7,
+     "text": "WHT deduction. However, where a tax treaty is in force, the tax treatment"
+    },
+    {
+     "top": 678.0,
+     "text": "of this category of income will be determined in accordance with the"
+    },
+    {
+     "top": 694.6,
+     "text": "applicable treaty provisions, as explained in the following paragraphs."
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "6.2 Treatment of Income from Leasing or Charter of Ships and"
+    },
+    {
+     "top": 75.5,
+     "text": "Aircraft where there is Tax Treaty"
+    },
+    {
+     "top": 101.9,
+     "text": "6.2.1. Wet Lease, Time or Voyage Charter"
+    },
+    {
+     "top": 120.3,
+     "text": "The profits of a company, resident in the jurisdiction of a treaty partner with"
+    },
+    {
+     "top": 137.2,
+     "text": "Nigeria, accruing from the charter or leasing of aircrafts or ships on time or"
+    },
+    {
+     "top": 153.5,
+     "text": "voyage basis, or wet lease arrangement will constitute profits from air and"
+    },
+    {
+     "top": 170.1,
+     "text": "shipping transportation, provided that the charter is incidental to"
+    },
+    {
+     "top": 186.4,
+     "text": "international traffic. Such profits will be treated in line with the Article on"
+    },
+    {
+     "top": 202.9,
+     "text": "shipping and air transport in that treaty, so far as such charter is solely for"
+    },
+    {
+     "top": 219.5,
+     "text": "international traffic."
+    },
+    {
+     "top": 239.7,
+     "text": "In this regard, the income of the non-resident company will be subject to tax"
+    },
+    {
+     "top": 256.2,
+     "text": "on the basis of the following instances, depending on the provisions of the"
+    },
+    {
+     "top": 272.8,
+     "text": "specific tax treaty:"
+    },
+    {
+     "top": 301.1,
+     "text": "(a) Where the treaty does not allow for source State taxation: the non-"
+    },
+    {
+     "top": 315.8,
+     "text": "resident company will be taxable only in its home country."
+    },
+    {
+     "top": 342.4,
+     "text": "(b) Where the treaty allows for source State taxation but there is"
+    },
+    {
+     "top": 359.0,
+     "text": "reciprocity in international traffic in a year of assessment: the foreign"
+    },
+    {
+     "top": 375.3,
+     "text": "airline or shipping company will not be subject to tax in Nigeria in that"
+    },
+    {
+     "top": 391.9,
+     "text": "year of assessment. In such a case, each country will tax its own airline"
+    },
+    {
+     "top": 408.4,
+     "text": "or shipping company."
+    },
+    {
+     "top": 436.8,
+     "text": "(c) Where the treaty allows for source State taxation and there is no"
+    },
+    {
+     "top": 453.1,
+     "text": "reciprocity in international traffic in a year of assessment: the tax"
+    },
+    {
+     "top": 469.4,
+     "text": "payable by the non-resident in Nigeria shall be at the rate specified in"
+    },
+    {
+     "top": 485.7,
+     "text": "the respective tax treaty. However, where the income is derived from"
+    },
+    {
+     "top": 502.1,
+     "text": "only domestic routes within Nigeria, such profits will not be considered"
+    },
+    {
+     "top": 518.1,
+     "text": "profits derived from international traffic and would be treated as"
+    },
+    {
+     "top": 534.5,
+     "text": "‘business profits’ under Article 7 of the treaty. Consequently, the lease"
+    },
+    {
+     "top": 550.8,
+     "text": "or rental income will be assessed to tax under the relevant provision of"
+    },
+    {
+     "top": 567.1,
+     "text": "the domestic tax law."
+    },
+    {
+     "top": 607.9,
+     "text": "Illustration 7"
+    },
+    {
+     "top": 628.6,
+     "text": "The Super Eagle of Nigeria has qualified for the 2026 World Cup holding in"
+    },
+    {
+     "top": 645.1,
+     "text": "USA and the Nigeria Football Federation has chartered the British Airways to"
+    },
+    {
+     "top": 661.5,
+     "text": "airlift the team to and from the USA."
+    },
+    {
+     "top": 681.9,
+     "text": "Treatment:"
+    },
+    {
+     "top": 702.3,
+     "text": "This is a voyage charter and will qualify as international traffic under the"
+    },
+    {
+     "top": 718.8,
+     "text": "treaty between Nigeria and United Kingdom."
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "Illustration 8"
+    },
+    {
+     "top": 79.8,
+     "text": "Company A is a courier and logistic company in Nigeria. Company A has"
+    },
+    {
+     "top": 96.3,
+     "text": "contracted Company B, a company engaged in international shipping"
+    },
+    {
+     "top": 112.9,
+     "text": "transportation and a resident of the Netherlands, to transport and deliver its"
+    },
+    {
+     "top": 129.3,
+     "text": "goods and mails in year 2026 at various ports across the world."
+    },
+    {
+     "top": 149.7,
+     "text": "Treatment:"
+    },
+    {
+     "top": 170.1,
+     "text": "This is a time charter and will qualify as international traffic under the tax"
+    },
+    {
+     "top": 186.6,
+     "text": "treaty between Nigeria and the Netherlands. This will be the case even"
+    },
+    {
+     "top": 203.2,
+     "text": "where, under the terms of the contract, a vessel is specifically dedicated to"
+    },
+    {
+     "top": 219.5,
+     "text": "the carriage of goods and mails of Company A."
+    },
+    {
+     "top": 242.3,
+     "text": "NOTE:"
+    },
+    {
+     "top": 263.0,
+     "text": "1. Where Company B is not a company engaged in international shipping"
+    },
+    {
+     "top": 277.6,
+     "text": "transportation, the contract with company A will not be incidental to an"
+    },
+    {
+     "top": 292.2,
+     "text": "international traffic business. In that instance, income derived from the"
+    },
+    {
+     "top": 306.7,
+     "text": "contract will not be treated as income from international traffic but rent."
+    },
+    {
+     "top": 327.5,
+     "text": "2. Issues are treated on cases-by-case basis, depending on the express"
+    },
+    {
+     "top": 342.2,
+     "text": "provisions of the particular tax treaty."
+    },
+    {
+     "top": 377.5,
+     "text": "6.2.2. Dry Lease or Bareboat Basis"
+    },
+    {
+     "top": 396.2,
+     "text": "Profits of companies derived from the charter or leasing of an aircraft or ship"
+    },
+    {
+     "top": 412.8,
+     "text": "on bareboat basis or dry lease arrangement shall not constitute income from"
+    },
+    {
+     "top": 429.1,
+     "text": "air and shipping transportation (except the Agreement specifically provides"
+    },
+    {
+     "top": 445.6,
+     "text": "otherwise). The profits are taxed as “business profits” under relevant article"
+    },
+    {
+     "top": 462.2,
+     "text": "of the DTA. Consequently, the lease or rental income shall be assessed to"
+    },
+    {
+     "top": 478.5,
+     "text": "tax under the relevant provision of the domestic tax law, including"
+    },
+    {
+     "top": 495.1,
+     "text": "withholding tax and value added tax."
+    },
+    {
+     "top": 511.4,
+     "text": "The lessee in Nigeria may claim capital allowance in respect of the asset."
+    },
+    {
+     "top": 544.5,
+     "text": "Illustration 9:"
+    },
+    {
+     "top": 563.3,
+     "text": "YBM Airlines, an incorporated company in Nigeria, wants to expand its air"
+    },
+    {
+     "top": 579.6,
+     "text": "transport operations and has taken a wet lease of one aircraft from ADK"
+    },
+    {
+     "top": 596.2,
+     "text": "Airways, a resident of Fantasia, for a period of 5 years to increase its daily"
+    },
+    {
+     "top": 612.7,
+     "text": "flights between Abuja and Lagos routes. YBM would be required to pay ADK"
+    },
+    {
+     "top": 629.1,
+     "text": "at quarterly intervals based on agreed daily rates for the duration of the"
+    },
+    {
+     "top": 645.6,
+     "text": "lease."
+    },
+    {
+     "top": 676.6,
+     "text": "YBM is also required to take on the insurance on passengers, baggage, cargo"
+    },
+    {
+     "top": 693.2,
+     "text": "or mail, all operating costs in connection to the aircraft (or reimburse ADK for"
+    },
+    {
+     "top": 709.7,
+     "text": "it if incurred by ADK) which includes the fuel and lubricants, landing and"
+    },
+    {
+     "top": 726.0,
+     "text": "parking fees, ground handling, carbon emission charges, passenger and crew"
+    },
+    {
+     "top": 742.6,
+     "text": "in-flight catering etc., and pay a security deposit before the lease starts, by"
+    },
+    {
+     "top": 758.9,
+     "text": "virtue of the terms of the agreement. YBM in addition will ensure that the"
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "Aircraft is free and clear of all liens, charges and encumbrances that have"
+    },
+    {
+     "top": 75.9,
+     "text": "arisen during the wet lease period."
+    },
+    {
+     "top": 109.5,
+     "text": "However, ADK will take care of crew expenses and any cost relating to loss"
+    },
+    {
+     "top": 126.1,
+     "text": "or damage to the aircraft including replacement of the aircraft so far as it is"
+    },
+    {
+     "top": 142.7,
+     "text": "not from gross negligence or willful misconduct by YBM. Fantasia does not"
+    },
+    {
+     "top": 159.0,
+     "text": "have a treaty with Nigeria."
+    },
+    {
+     "top": 193.8,
+     "text": "Treatment:"
+    },
+    {
+     "top": 212.8,
+     "text": "ADK establishes a permanent establishment (PE) in Nigeria through the"
+    },
+    {
+     "top": 229.1,
+     "text": "provision of its aircraft and crew, thereby creating a taxable presence, which"
+    },
+    {
+     "top": 245.7,
+     "text": "will make it liable for corporate income tax on profits attributable to the PE."
+    },
+    {
+     "top": 262.2,
+     "text": "The income earned by ADK will constitute non-freight lease income, which"
+    },
+    {
+     "top": 278.6,
+     "text": "will not be classified as income from air transport operations. The taxation"
+    },
+    {
+     "top": 295.1,
+     "text": "rules for non-resident shipping and air transport under the NTA and NTAA"
+    },
+    {
+     "top": 311.7,
+     "text": "will not apply to this arrangement, and ADK will be required to render returns"
+    },
+    {
+     "top": 328.0,
+     "text": "as a non-resident deriving income from Nigeria."
+    },
+    {
+     "top": 360.9,
+     "text": "WHT applies to all payments made by YBM to ADK, which when remitted to"
+    },
+    {
+     "top": 377.5,
+     "text": "the Service, is advance payment of its income tax liability, and will not be"
+    },
+    {
+     "top": 394.0,
+     "text": "considered a final tax."
+    },
+    {
+     "top": 428.1,
+     "text": "Illustration 10:"
+    },
+    {
+     "top": 447.1,
+     "text": "Fantasia is a treaty partner of Nigeria and one of its resident companies,"
+    },
+    {
+     "top": 463.4,
+     "text": "ADK, flies purely international routes between Nigeria and Fantasia. The"
+    },
+    {
+     "top": 480.0,
+     "text": "treaty between Nigeria and Fantasia allows for source State taxation where"
+    },
+    {
+     "top": 496.3,
+     "text": "there is no reciprocity. In its efforts to expand its operations to international"
+    },
+    {
+     "top": 512.9,
+     "text": "routes between Nigeria and Fantasia, YBM Airlines, a Nigerian company"
+    },
+    {
+     "top": 529.4,
+     "text": "entered into a of 5-year joint operation agreement with ADK. All other facts"
+    },
+    {
+     "top": 545.7,
+     "text": "and conditions stated in Illustration 7 above are assumed to be the same."
+    },
+    {
+     "top": 580.1,
+     "text": "Treatment:"
+    },
+    {
+     "top": 598.8,
+     "text": "Both ADK and YBM derives income from international traffic under the joint"
+    },
+    {
+     "top": 615.4,
+     "text": "arrangement. As such, the conditions for reciprocity under the tax treaties"
+    },
+    {
+     "top": 631.9,
+     "text": "of Nigeria is met."
+    },
+    {
+     "top": 652.1,
+     "text": "Consequently, each country will tax its airlines and the profits of ADK will not"
+    },
+    {
+     "top": 668.7,
+     "text": "be taxable in Nigeria, although the treaty allows for source State taxation."
+    },
+    {
+     "top": 703.0,
+     "text": "Illustration 11:"
+    },
+    {
+     "top": 721.7,
+     "text": "Fantasia is a treaty partner of Nigeria and one of its resident companies, ADK"
+    },
+    {
+     "top": 738.3,
+     "text": "flies purely international routes between Nigeria and Fantasia. The treaty"
+    },
+    {
+     "top": 754.9,
+     "text": "between Nigeria and Fantasia allows for source State taxation where there is"
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "no reciprocity. In its efforts to expand its domestic operations, especially in"
+    },
+    {
+     "top": 75.9,
+     "text": "the routes between Abuja and Enugu, YBM Airlines, a Nigerian company"
+    },
+    {
+     "top": 92.5,
+     "text": "entered into a wet lease agreement with ADK for a period of 5 years. All"
+    },
+    {
+     "top": 108.8,
+     "text": "other facts and conditions stated in Illustration 7 above are assumed to be"
+    },
+    {
+     "top": 125.4,
+     "text": "the same."
+    },
+    {
+     "top": 159.7,
+     "text": "Treatment:"
+    },
+    {
+     "top": 178.5,
+     "text": "ADK derives income from international traffic while YBM does not. As such,"
+    },
+    {
+     "top": 195.0,
+     "text": "the conditions for reciprocity under the tax treaties of Nigeria has not been"
+    },
+    {
+     "top": 211.4,
+     "text": "met. Consequently, Nigeria will tax the profits of ADK at the rate specified in"
+    },
+    {
+     "top": 227.9,
+     "text": "the relevant tax treaty, if the treaty allows for source State taxation. While"
+    },
+    {
+     "top": 244.2,
+     "text": "the income of YBM will be subject to tax in Nigeria in accordance with the"
+    },
+    {
+     "top": 260.8,
+     "text": "relevant tax law. The income of ADK taxable in Nigeria will include the income"
+    },
+    {
+     "top": 277.4,
+     "text": "from wet lease of aircraft, which will be treated as non-freight income, and"
+    },
+    {
+     "top": 293.7,
+     "text": "not income from international traffic"
+    },
+    {
+     "top": 328.3,
+     "text": "7.0 Income from employment exercised aboard a ship or"
+    },
+    {
+     "top": 344.6,
+     "text": "aircraft"
+    },
+    {
+     "top": 365.2,
+     "text": "Income covered under this paragraph includes income from employment"
+    },
+    {
+     "top": 381.5,
+     "text": "exercised aboard a ship or aircraft as part of the crew or in the course of"
+    },
+    {
+     "top": 398.1,
+     "text": "usual operation of the ship or aircraft. Examples of such activities include"
+    },
+    {
+     "top": 414.7,
+     "text": "disc jockeys, expedition leaders, hosts and hostesses, shore excursion"
+    },
+    {
+     "top": 431.0,
+     "text": "managers, water sports instructors, fitness directors, medical staff,"
+    },
+    {
+     "top": 447.6,
+     "text": "bartenders, information technology staff, casino staff, entertainers etc."
+    },
+    {
+     "top": 463.9,
+     "text": "exercised aboard a cruise ship."
+    },
+    {
+     "top": 498.5,
+     "text": "7.1 Tax Treatment of Income from employment under the"
+    },
+    {
+     "top": 514.8,
+     "text": "Domestic Law"
+    },
+    {
+     "top": 535.5,
+     "text": "7.1.1 Resident individual"
+    },
+    {
+     "top": 552.5,
+     "text": "An individual who is a resident of Nigeria, whether a master, pilot, crew or"
+    },
+    {
+     "top": 568.8,
+     "text": "ground-staff is liable to tax in Nigeria on all income derived from within and"
+    },
+    {
+     "top": 585.4,
+     "text": "outside Nigeria. Employment income, including compensations, bonuses,"
+    },
+    {
+     "top": 601.9,
+     "text": "premiums and benefits, irrespective of where the income is earned or the"
+    },
+    {
+     "top": 618.3,
+     "text": "employment is exercised and whether or not the income is brought into or"
+    },
+    {
+     "top": 634.8,
+     "text": "received in Nigeria will be liable to tax in Nigeria. This is regardless of where"
+    },
+    {
+     "top": 651.1,
+     "text": "the employer is tax resident."
+    },
+    {
+     "top": 685.5,
+     "text": "7.1.2 Non-resident individual"
+    },
+    {
+     "top": 704.4,
+     "text": "Employment income of a non-resident individual, including a master, pilot,"
+    },
+    {
+     "top": 720.8,
+     "text": "member of the crew or ground staff, is not liable to tax in Nigeria except"
+    },
+    {
+     "top": 737.3,
+     "text": "where the employment is wholly or partly exercised in Nigeria, and the"
+    },
+    {
+     "top": 753.7,
+     "text": "income is not taxable in the country of tax residence of the employee."
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "Where the payer is a resident person, tax will be deducted when the"
+    },
+    {
+     "top": 75.9,
+     "text": "payment of the emolument is made, but subject to refund upon"
+    },
+    {
+     "top": 92.5,
+     "text": "presentation of evidence of taxation in country of tax residence."
+    },
+    {
+     "top": 126.9,
+     "text": "7.2 Tax treatment of income from employment where there is tax"
+    },
+    {
+     "top": 143.2,
+     "text": "treaty"
+    },
+    {
+     "top": 178.5,
+     "text": "7.2.1 Where the ship or aircraft operates in international traffic"
+    },
+    {
+     "top": 195.0,
+     "text": "Where an individual exercises employment aboard a ship or aircraft in"
+    },
+    {
+     "top": 211.6,
+     "text": "international traffic or serves as a member of the regular complement"
+    },
+    {
+     "top": 227.9,
+     "text": "on that vessel, the income may be subject to tax in Nigeria. Such profits"
+    },
+    {
+     "top": 244.5,
+     "text": "will be treated in line with the Article on dependent personal service or"
+    },
+    {
+     "top": 260.8,
+     "text": "income from employment."
+    },
+    {
+     "top": 277.8,
+     "text": "The tax treatment may defer, depending on the treaty provisions. The"
+    },
+    {
+     "top": 294.4,
+     "text": "following are possible treatments:"
+    },
+    {
+     "top": 322.7,
+     "text": "(i) Shared taxation that allows for taxation in the resident state of the"
+    },
+    {
+     "top": 338.8,
+     "text": "operator of the ship or aircraft (residence of employer) or the place of"
+    },
+    {
+     "top": 355.1,
+     "text": "effective management of the ship or aircraft: Nigeria will tax in"
+    },
+    {
+     "top": 371.2,
+     "text": "accordance with its domestic law if the ship or aircraft is operated or"
+    },
+    {
+     "top": 387.3,
+     "text": "effectively managed by a resident of Nigeria, as the case may be."
+    },
+    {
+     "top": 403.6,
+     "text": "Nigeria will also have taxing right if the employee is its resident."
+    },
+    {
+     "top": 432.0,
+     "text": "(ii) Exclusive taxation which allows for taxation only in the country of"
+    },
+    {
+     "top": 448.5,
+     "text": "residence of employee: Nigeria will be able to tax its residence and will not"
+    },
+    {
+     "top": 464.8,
+     "text": "have a taxing right in respect of non-residents."
+    },
+    {
+     "top": 493.4,
+     "text": "(iii) Exclusive taxation which allows for taxation only in the country of"
+    },
+    {
+     "top": 509.7,
+     "text": "residence of employer or the place of effective management of the ship"
+    },
+    {
+     "top": 526.3,
+     "text": "or aircraft: Nigeria will have taxing right only if the ship or aircraft is"
+    },
+    {
+     "top": 542.9,
+     "text": "operated or effectively managed by a resident of Nigeria, as the case"
+    },
+    {
+     "top": 559.2,
+     "text": "may be."
+    },
+    {
+     "top": 593.8,
+     "text": "7.2.2 Where the ship or aircraft does not operate in international"
+    },
+    {
+     "top": 609.9,
+     "text": "traffic"
+    },
+    {
+     "top": 630.7,
+     "text": "The income from employment will be treated in accordance with the rules"
+    },
+    {
+     "top": 647.1,
+     "text": "stated in paragraph 7.1 above, except that in the case of non-resident, the"
+    },
+    {
+     "top": 663.6,
+     "text": "condition for source state taxation under the Article on income from"
+    },
+    {
+     "top": 680.2,
+     "text": "employment must be met before Nigeria can exercise a right of taxation"
+    },
+    {
+     "top": 696.5,
+     "text": "under the domestic law."
+    },
+    {
+     "top": 731.1,
+     "text": "8.0 Taxation of Foreign Ships or Vessels Lifting Crude Oil from"
+    },
+    {
+     "top": 747.2,
+     "text": "Nigerian Territorial Waters"
+    },
+    {
+     "top": 767.8,
+     "text": "One of the common features of the oil industry in Nigeria is that crude oil is"
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "often sold to foreign buyers “Free on Board” origin (“FOB origin”), also"
+    },
+    {
+     "top": 74.0,
+     "text": "sometimes phrased as \"FOB shipping\" or \"FOB shipping point\". This means"
+    },
+    {
+     "top": 88.7,
+     "text": "that the foreign or non-resident buyers are responsible for the arrangement"
+    },
+    {
+     "top": 103.3,
+     "text": "and payment for vessels for the transportation of the crude oil from Nigeria."
+    },
+    {
+     "top": 117.7,
+     "text": "Usually, the shipping companies contracted for the transportation of the"
+    },
+    {
+     "top": 132.4,
+     "text": "crude are non-residents and payments to them are made by the non-"
+    },
+    {
+     "top": 147.0,
+     "text": "resident buyers of the crude oil."
+    },
+    {
+     "top": 173.7,
+     "text": "The tax treatment of income derived from the carriage of crude oil from"
+    },
+    {
+     "top": 188.1,
+     "text": "Nigeria follows the same principles applicable to non-resident companies"
+    },
+    {
+     "top": 202.7,
+     "text": "engaged in shipping operations."
+    },
+    {
+     "top": 217.4,
+     "text": "Consequently, a vessel that carries crude oil, gas, petroleum products or any"
+    },
+    {
+     "top": 233.9,
+     "text": "other item from Nigeria is liable to tax in Nigeria, irrespective of where or"
+    },
+    {
+     "top": 250.2,
+     "text": "with whom the carriage contract was executed, subject to the application"
+    },
+    {
+     "top": 266.8,
+     "text": "of the respective tax treaty rules, where applicable."
+    },
+    {
+     "top": 299.7,
+     "text": "8.1 Income from Ancillary Services"
+    },
+    {
+     "top": 334.7,
+     "text": "8.1.1 Under the Domestic Law"
+    },
+    {
+     "top": 357.3,
+     "text": "The special provisions governing the taxation of shipping and air transport"
+    },
+    {
+     "top": 373.9,
+     "text": "operations do not extend to non-freight income, including income arising"
+    },
+    {
+     "top": 390.2,
+     "text": "from demurrage and detention, local charges, stevedoring, clearing and"
+    },
+    {
+     "top": 406.8,
+     "text": "forwarding, cargo handling, container leasing, storage, agency services,"
+    },
+    {
+     "top": 423.1,
+     "text": "and similar activities. Where a foreign shipping or air transport company"
+    },
+    {
+     "top": 439.6,
+     "text": "carries on any of these non-freight activities in Nigeria, the profits derived"
+    },
+    {
+     "top": 456.2,
+     "text": "therefrom are subject to tax in Nigeria in accordance with the general"
+    },
+    {
+     "top": 472.5,
+     "text": "provisions applicable to income derived from Nigeria by non-resident"
+    },
+    {
+     "top": 489.1,
+     "text": "companies."
+    },
+    {
+     "top": 523.2,
+     "text": "These ancillary services are liable to Value Added Tax (VAT). The non-"
+    },
+    {
+     "top": 539.3,
+     "text": "resident airline or shipping company must therefore include VAT in the"
+    },
+    {
+     "top": 555.3,
+     "text": "invoice and a Nigerian resident to whom the services are provided are"
+    },
+    {
+     "top": 571.7,
+     "text": "required to withhold the VAT and remit it to the Service in accordance with"
+    },
+    {
+     "top": 587.8,
+     "text": "the extant tax laws. Where the Service has appointed a non-resident"
+    },
+    {
+     "top": 603.9,
+     "text": "shipping or airline as an agent for the collection of VAT, the taxable person"
+    },
+    {
+     "top": 620.2,
+     "text": "will not be required to withhold the VAT except when the appointed agent"
+    },
+    {
+     "top": 636.3,
+     "text": "has failed to collect the VAT."
+    },
+    {
+     "top": 668.9,
+     "text": "9.0 Remittance of funds out of Nigeria"
+    },
+    {
+     "top": 685.7,
+     "text": "Remittance of funds out of Nigeria, by a foreign company engaged in shipping"
+    },
+    {
+     "top": 702.3,
+     "text": "or airline business, requires a Clearance Certificate issued by the Service. The"
+    },
+    {
+     "top": 719.1,
+     "text": "certificate is to show that relevant tax has been paid on the income from which"
+    },
+    {
+     "top": 735.9,
+     "text": "the fund is generated or that the income is not liable to Nigerian tax."
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "lines": [
+    {
+     "top": 59.4,
+     "text": "It is an offence to make remittance without obtaining the relevant Clearance"
+    },
+    {
+     "top": 74.0,
+     "text": "Certificate, which is liable to penalty under the provisions of section 127 of the"
+    },
+    {
+     "top": 88.7,
+     "text": "NTAA."
+    },
+    {
+     "top": 117.2,
+     "text": "10.0 Amendment or Revision of the Circular"
+    },
+    {
+     "top": 131.9,
+     "text": "The Nigeria Revenue Service reserves the right to withdraw, replace, or amend"
+    },
+    {
+     "top": 146.3,
+     "text": "this Circular at any time, or issue updated versions as necessary to reflect"
+    },
+    {
+     "top": 160.9,
+     "text": "changes in legislation or administrative practices."
+    },
+    {
+     "top": 189.5,
+     "text": "11.0 Enquiries"
+    },
+    {
+     "top": 204.1,
+     "text": "For further information or clarification regarding this Information Circular,"
+    },
+    {
+     "top": 218.8,
+     "text": "please contact:"
+    },
+    {
+     "top": 247.8,
+     "text": "The Executive Chairman"
+    },
+    {
+     "top": 262.5,
+     "text": "Nigeria Revenue Service"
+    },
+    {
+     "top": 277.1,
+     "text": "Revenue House, Plot 1241,"
+    },
+    {
+     "top": 291.8,
+     "text": "Kur Mohammed Avenue,"
+    },
+    {
+     "top": 306.2,
+     "text": "Central Area, Abuja, Nigeria."
+    },
+    {
+     "top": 335.5,
+     "text": "Or"
+    },
+    {
+     "top": 364.5,
+     "text": "The Director,"
+    },
+    {
+     "top": 379.1,
+     "text": "Competent Authority Department"
+    },
+    {
+     "top": 393.8,
+     "text": "Nigeria Revenue Service, Plot 1241,"
+    },
+    {
+     "top": 408.4,
+     "text": "Kur Mohammed Avenue,"
+    },
+    {
+     "top": 423.1,
+     "text": "Central Area, Abuja, Nigeria."
+    },
+    {
+     "top": 437.5,
+     "text": "Or"
+    },
+    {
+     "top": 466.8,
+     "text": "Email: cad@nrs.gov.ng"
+    }
+   ]
+  }
+ ]
+}

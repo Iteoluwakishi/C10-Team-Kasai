@@ -1,0 +1,497 @@
+{
+ "document_id": "nrs_faq_2026",
+ "title": "NRS Frequently Asked Questions (nrs.gov.ng)",
+ "document_type": "faq",
+ "legal_weight": "administrative_guidance",
+ "status": "in_force",
+ "source_file": "guidance\\nrs_faq_snapshot.json",
+ "source_url": "https://www.nrs.gov.ng/help--support/faq",
+ "retrieved": "2026-08-25T12:43:10.717Z",
+ "faq_items": [
+  {
+   "question": "What is the Nigeria Revenue Service (NRS)?",
+   "answer": "The Nigeria Revenue Service (NRS) is the successor institution to the Federal Inland Revenue Service (FIRS), as established under the Nigeria Revenue Service (Establishment) Act, 2025. It is established to modernise Nigeria’s domestic revenue administration, strengthen governance, expand the use of digital systems, and improve efficiency, transparency, and taxpayer service delivery.",
+   "topic": "Transition"
+  },
+  {
+   "question": "Why did FIRS transition to NRS?",
+   "answer": "The transition was completed to establish the Nigerian Revenue Service (NRS) as a unified, modern revenue authority that aligns Nigeria’s revenue administration with global best practices, strengthens accountability, broadens the revenue base, and supports sustainable national development.",
+   "topic": "Transition"
+  },
+  {
+   "question": "What are the core differences in mandate, scope, and structure between FIRS and NRS?",
+   "answer": "- Mandate: While FIRS focused primarily on tax administration, NRS has a broader mandate covering tax administration, non-tax revenues, digital compliance systems, and enhanced coordination across the revenue ecosystem, in line with the applicable Acts.\n- Scope: NRS integrates tax administration with data analytics, e-invoicing, third-party information reporting, and stronger inter-agency collaboration.\n- Structure: NRS operates under an enhanced and service-oriented governance framework, with clearer accountability and taxpayer protection mechanisms.",
+   "topic": "Transition"
+  },
+  {
+   "question": "How will intergovernmental coordination be affected?",
+   "answer": "Coordination with Ministries, Departments and Agencies (MDAs), State Governments, and other public institutions will continue seamlessly. Under NRS, collaboration frameworks are strengthened to promote harmonisation, information sharing, and the reduction of multiple taxation.",
+   "topic": "Transition"
+  },
+  {
+   "question": "Do taxpayers need to re-register or obtain new Tax Identification Numbers (TINs)?",
+   "answer": "No.\n\nAll existing taxpayer registrations, TINs, and records issued under FIRS remain valid and will migrate seamlessly to NRS systems.",
+   "topic": "Registration"
+  },
+  {
+   "question": "Will there be disruptions to tax filing, payment, audits, or refunds?",
+   "answer": "No significant disruption is anticipated. Extensive transition planning, systems testing, and phased implementation arrangements are in place to ensure business continuity before, during, and after the transition.",
+   "topic": "Filing"
+  },
+  {
+   "question": "What benefits should taxpayers expect under NRS?",
+   "answer": "Taxpayers should expect improved service delivery, upgraded and more reliable digital platforms, enhanced guidance and public notices, and improved processing refunds mechanisms.",
+   "topic": "Transition"
+  },
+  {
+   "question": "How will taxpayer rights be protected under NRS?",
+   "answer": "Taxpayer rights, confidentiality, and due process remain fundamental principles. These are reinforced through stronger governance arrangements, improved data protection standards, clearer procedures, and the establishment of an independent Tax Ombudsman Office.",
+   "topic": "Transition"
+  },
+  {
+   "question": "Will existing audits, rulings, objections, and disputes remain valid?",
+   "answer": "Yes. All ongoing audits, advance rulings, objections, appeals, and dispute resolution processes continue uninterrupted and are assumed by NRS, pursuant to statutory succession and savings provisions, without restart or revalidation.",
+   "topic": "Deadlines And Disputes"
+  },
+  {
+   "question": "Will engagement channels with tax practitioners change?",
+   "answer": "Engagement channels will be enhanced rather than diminished. NRS will continue structured consultations, issue public notices and guidance, and maintain professional forums for dialogue.",
+   "topic": "Technical"
+  },
+  {
+   "question": "Will compliance procedures change?",
+   "answer": "Any procedural enhancements will be communicated clearly and in advance, with appropriate transition periods to allow taxpayers and practitioners to adjust.",
+   "topic": "Filing"
+  },
+  {
+   "question": "Will tax collection, remittance, and reporting processes change as a result of the transition?",
+   "answer": "Existing processes remain valid at transition. Any system or process enhancements will be introduced gradually and communicated well in advance.",
+   "topic": "Transition"
+  },
+  {
+   "question": "Will existing payment platforms and system integrations remain operational?",
+   "answer": "Yes. All current integrations and payment platforms will continue, subject to controlled upgrades, cybersecurity safeguards, and system optimisation.",
+   "topic": "Third Party Filing And Payments"
+  },
+  {
+   "question": "How does NRS align with international best practices?",
+   "answer": "NRS is designed to reflect international standards in governance, transparency, digitalisation, risk-based compliance, and institutional autonomy.",
+   "topic": "Transition"
+  },
+  {
+   "question": "Will existing Memoranda of Understanding (MoUs) and partnerships remain valid?",
+   "answer": "Yes. Existing agreements, MoUs, and partnerships remain valid in accordance with their terms, and applicable legal and regulatory frameworks.",
+   "topic": "Transition"
+  },
+  {
+   "question": "How does NRS handle data protection, confidentiality, and sovereignty?",
+   "answer": "NRS applies strict data protection, confidentiality, and cybersecurity standards consistent with Nigerian law, including the Nigeria Data Protection Regulation (NDPR), and aligned with international norms.",
+   "topic": "Transition"
+  },
+  {
+   "question": "How does the transition promote transparency and accountability?",
+   "answer": "NRS is structured to strengthen transparency, accountability, and public trust through improved governance, clearer reporting, and enhanced public communication.",
+   "topic": "Transition"
+  },
+  {
+   "question": "Will the public experience service disruption?",
+   "answer": "No significant disruption is expected, and contingency measures are in place to address any operational issues that may arise during the transition.",
+   "topic": "Transition"
+  },
+  {
+   "question": "How will stakeholders and the public be kept informed?",
+   "answer": "Through official announcements, media briefings, stakeholder engagements, public notices, and digital communication platforms.",
+   "topic": "Support"
+  },
+  {
+   "question": "What happens on 1 January 2026?",
+   "answer": "On this date, NRS formally takes over operational responsibility for federation revenue administration in line with the expanded mandate. All statutory functions continue without interruption, in accordance with the commencement and transitional provisions of the relevant Acts.",
+   "topic": "Transition"
+  },
+  {
+   "question": "What should stakeholders expect after transition?",
+   "answer": "•\tOperational continuity\n\n•\tImproved taxpayer engagement and service delivery\n\n•\tGradual system and process enhancements\n\n•\tOngoing consultation with stakeholders",
+   "topic": "Transition"
+  },
+  {
+   "question": "What should stakeholders do if they experience transition-related challenges?",
+   "answer": "Stakeholders may engage the NRS through official communication channels, tax offices, helpdesks, or stakeholder engagement platforms, and any disputes or grievances shall be addressed in accordance with the relevant Acts.",
+   "topic": "Transition"
+  },
+  {
+   "question": "Will there be new procurement opportunities under NRS?",
+   "answer": "All procurement activities will continue to comply strictly with the Public Procurement Act and Bureau of Public Procurement guidelines. Over time, new opportunities may arise in line with NRS’s modernisation agenda, following due process.",
+   "topic": "Transition"
+  },
+  {
+   "question": "What is the Nigeria Tax Act 2025?",
+   "answer": "The Nigeria Tax Act 2025 is a unified tax legislation that consolidates and repeals multiple pre-existing tax laws, providing a single legal framework for the taxation of income, transactions, and financial instruments in Nigeria. It aims to simplify tax administration, enhance compliance, and align with modern fiscal policies.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "Why was this Act necessary?",
+   "answer": "Historically, Nigeria’s tax system has been governed by multiple standalone laws that were frequently and inconsistently amended, resulting in overlaps, contradictions, and duplications. The Nigeria Tax Act 2025 establishes a single definitive reference point for all taxation rules. By incorporating provisions that are responsive to the growing digital economy, the Act also ensures that taxation is applied fairly and uniformly across all industries, without discrimination.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "When does the Act take effect?",
+   "answer": "The Act commences on 1st January 2026.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "Which previous tax laws are repealed by this Act?",
+   "answer": "The Act repeals several laws including the Capital Gains Tax Act, Companies Income Tax Act, Personal Income Tax Act, Value Added Tax Act, Stamp Duties Act, Petroleum Profits Tax Act, and others listed in Section 196.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "Which previous tax laws are not repealed by this Act?",
+   "answer": "Laws governing administration, institutions, customs, sector-specific levies, and subnational taxation.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "Who is subject to tax under this Act?",
+   "answer": "The Act applies to any person required to comply with tax laws in Nigeria, whether personally or on behalf of another, including individuals, companies, partnerships, trustees, and non-residents with economic presence in Nigeria.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is considered taxable income?",
+   "answer": "Taxable income includes profits from trade or business, employment income, dividends, interest, royalties, gains from disposal of assets (including digital assets), and income from trusts, estates, and partnerships (Section 4).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How are non-residents taxed?",
+   "answer": "Non-residents are taxed on income derived from Nigeria, especially if they have a permanent establishment or significant economic presence in Nigeria (e.g., digital services, e-commerce). Withholding tax may apply as a final tax in some cases.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is “Significant Economic Presence”?",
+   "answer": "A non-resident is deemed to have a significant economic presence if they transmit signals, sounds, messages, images, or data to Nigeria for activities such as e-commerce, digital content, online advertising, cloud computing, etc., and profit is attributable to such activities (Section 17(9)(b)).\n\nProfits or gains from transactions in digital or virtual assets (cryptocurrencies etc) are taxable under the Act (Section 4(1)(j)).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is the tax rate for individuals?",
+   "answer": "Individual income tax rates are specified in the Fourth Schedule and apply to chargeable income after allowable deductions (Section 58).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How is employment income defined?",
+   "answer": "Employment income includes salaries, wages, allowances, bonuses, benefits-in-kind, and other perquisites (Section 13).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What are the tax rates for companies?",
+   "answer": "\tSmall companies: 0%\n\n\tOther companies: 30% (to be reduced to 25% by presidential order)\n\n\tMinimum effective tax rate of 15% for certain large companies (Sections 56–57).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is the Development Levy?",
+   "answer": "A 4% development levy is imposed on assessable profits of companies (excluding small and non-resident companies). Proceeds are allocated to funds such as Tertiary Education Trust Fund, Nigerian Education Loan, Cybersecurity Fund, etc. (Section 59).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is the tax treatment of benefits-in-kind?",
+   "answer": "Benefits-in-kind are valued at 5% of the employer’s acquisition cost or market value, or the annual rent/hire cost, and are taxable in the hands of the employee (Section 14).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What incentives are available for priority sectors?",
+   "answer": "Priority sectors listed in the Tenth Schedule may qualify for Economic Development Tax Incentives, including tax credits and exemptions for up to 5 years (Sections 166–184).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is the VAT rate under the new Act?",
+   "answer": "VAT is charged at 7.5% on taxable supplies, with exemptions and zero-rating for certain items (Sections 148, 186–187).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What VAT supplies are zero-rated?",
+   "answer": "Zero-rated supplies include basic food items, medical and pharmaceutical products, educational materials, agricultural equipment, and exported goods and services (except oil and gas) (Sections 186–187).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "Who is required to register for a Taxpayer Identification Number (Tax ID)?",
+   "answer": "Every taxable person, including individuals, companies, ministries, departments, agencies (MDAs), and non-residents supplying goods or services in Nigeria, must register with the relevant tax authority and obtain a Tax ID.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What taxes are administered by the Nigeria Revenue Service (NRS)?",
+   "answer": "The NRS administers taxes on companies, non-resident persons, petroleum operations, value-added tax (VAT), surcharge on fossil fuels, stamp duties, and certain other taxes as specified in Section 3 of the Act.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What are the penalties for failing to register for tax?",
+   "answer": "A taxable person who fails to register may face an administrative penalty of ₦50,000 for the first month and ₦25,000 for each subsequent month of default.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "When must companies file their annual tax returns?",
+   "answer": "Companies must file self-assessment returns within six months after the end of their accounting year. Newly incorporated companies must file within 18 months of incorporation or six months after their first accounting period, whichever is earlier.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "Are there special filing requirements for Virtual Asset Service Providers (VASPs)?",
+   "answer": "Yes. VASPs must submit monthly returns detailing transactions, customer information, and asset values to the relevant tax authority, in addition to standard annual returns.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What happens if I fail to file a tax return on time?",
+   "answer": "Late filing may result in penalties, interest on unpaid tax, and possible prosecution. Specific penalties vary by tax type and duration of default.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "Can tax assessments be disputed?",
+   "answer": "Yes. Taxpayers may object to an assessment within 30 days of receiving the notice by submitting a written objection to the relevant tax authority, stating the grounds for dispute.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What is the role of the State Internal Revenue Service (SIRS)?",
+   "answer": "The SIRS assesses and collects taxes from individuals, estates, trusts, and businesses within the state, in accordance with the Act and state laws.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What is the National Single Window Portal?",
+   "answer": "It is a digital platform established by the Law to streamline import/export processes, enhance revenue assurance, and improve transparency in trade and tax administration.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "How are VAT revenues distributed among governments?",
+   "answer": "VAT revenue is distributed as follows: 10% to the Federal Government, 55% to State Governments and the FCT, and 35% to Local Governments, based on equality, population, and consumption.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What are the penalties for non-remittance of withheld taxes?",
+   "answer": "Failure to remit deducted taxes may result in a penalty of 10% per annum on the amount not remitted, plus interest at the prevailing Central Bank monetary policy rate.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "Can a tax agent represent a taxpayer?",
+   "answer": "Yes, but the agent must be accredited by the relevant tax authority. Returns filed by unaccredited agents may not be considered duly filed.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What is an Advance Ruling and how can it be obtained?",
+   "answer": "An Advance Ruling is a binding decision issued by the tax authority on the interpretation of tax laws for a specific transaction. Taxpayers may apply in the prescribed form and receive a response within 21 days.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What records must be kept for tax purposes?",
+   "answer": "Taxpayers must maintain books of account in English or with a certified translation, and retain them for at least six years after the relevant assessment year.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What powers do tax authorities have during investigations?",
+   "answer": "Authorized officers may access premises, inspect records, remove documents, and with a warrant, enter private dwellings. They may also seek police assistance for enforcement.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What constitutes a “small business” under the Act?",
+   "answer": "A small business is one with an annual turnover of ₦100 million or less and total fixed assets below ₦250 million, excluding professional service providers.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "Are there special tax rules for the petroleum and mining sectors?",
+   "answer": "Yes. The Act includes specific return, assessment, and payment rules for upstream petroleum operations, LNG operations, and mineral royalty payments, with  penalties for non-compliance.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What is the penalty for obstructing a tax officer?",
+   "answer": "Obstruction of an authorized officer may result in an administrative penalty of ₦1 million and/or imprisonment for up to three years.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "How are tax refunds processed?",
+   "answer": "Refunds may be claimed within six years of the relevant assessment year. VAT refunds must be claimed within 12 months of the transaction. Refunds are typically processed within 90 days of approval.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "Is there a special return for those in the informal sector?",
+   "answer": "Yes, they are allowed to file simplified returns based on the guideline provided by the relevant tax authority.",
+   "topic": "Nigeria Tax Administration Act, No: 5, 2025"
+  },
+  {
+   "question": "What is the Nigeria Revenue Service (NRS)?",
+   "answer": "The Nigeria Revenue Service (NRS) is a statutory body established by the NRS (Establishment) Act, 2025, to replace the Federal Inland Revenue Service (FIRS). It is responsible for the assessment, collection, and accounting of revenues due to the Government of the federation.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "How are chargeable gains computed?",
+   "answer": "Chargeable gains are computed as disposal proceeds less acquisition cost and incidental expenses, with specific rules for part-disposals, losses, and replacements (Sections 33–55).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "Are gifts subject to tax?",
+   "answer": "Gifts are generally not subject to tax, except where the asset was acquired by way of gift and disposed of for consideration (Section 54).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How is rental income taxed?",
+   "answer": "Rental income is included in taxable income and may be subject to deductions for repairs, interest, and other expenses (Section 4).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is the tax treatment of collective investment schemes?",
+   "answer": "Collective investment schemes are treated as companies for tax purposes, with income taxable at the scheme level and distributions taxed in the hands of unit holders (Section 63).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How are exports taxed?",
+   "answer": "Profits from exported goods and services are exempt from income tax if proceeds are repatriated through official channels (Section 163).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is the tax credit for research and development?",
+   "answer": "Companies may deduct up to 5% of turnover for research and development expenses incurred in Nigeria (Section 165).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How does the Act address double taxation?",
+   "answer": "The Act provides for unilateral relief and recognition of double taxation agreements to avoid double taxation on foreign-sourced income (Sections 120–123).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How is unilateral relief of double taxation claimed?",
+   "answer": "A Nigeria resident whose income has been subject to tax in a foreign land may claim a relief for such tax to the limit of the applicable tax rate in Nigeria and within the time frame allowed under the law (Sections 120–123).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How are digital service providers taxed?",
+   "answer": "Non-resident digital service providers with significant economic presence in Nigeria are subject to income tax and VAT on Nigerian-sourced income (Sections 17, 151).",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What records must be maintained for tax purposes?",
+   "answer": "Taxable persons must maintain accurate records, including invoices, receipts, contracts, and financial statements, as required under the Nigeria Tax Administration Act 2025.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "How are disputes with tax authorities resolved?",
+   "answer": "Disputes may be resolved through objections, appeals, and other administrative processes as provided in the Nigeria Tax Administration Act 2025 and referenced in various sections of this Act.",
+   "topic": "Nigeria Tax Act, No: 6 2025"
+  },
+  {
+   "question": "What is the purpose of the Joint Revenue Board (JRB) of Nigeria Act, 2025?",
+   "answer": "The Act establishes the Joint Revenue Board, the Tax Appeal Tribunal, and the Office of the Tax Ombud to harmonize, coordinate, and settle disputes arising from revenue administration in Nigeria.",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "Which previous tax laws are repealed by the JRB Establishment Act",
+   "answer": "Section 86 of the Personal Income Tax Act.",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "What are the key institutions established under the Act?",
+   "answer": "•\tThe Joint Revenue Board (JRB)\n\n•\tThe Tax Appeal Tribunal (TAT)\n\n•\tThe Office of the Tax Ombud",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "Who chairs the Joint Revenue Board?",
+   "answer": "The Chairman is the Executive Chairman of the Nigeria Revenue Service.",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "Who are the members of the Joint Revenue Board?",
+   "answer": "Members include:\n\n\tChairmen of all State Internal Revenue Services and the FCT IRS\n\n\tRepresentatives from:\n\n\tMinistry of Finance\n\n\tNational Identity Management Commission\n\n\tRevenue Mobilisation, Allocation and Fiscal Commission\n\n\tNigerian Immigration Service\n\n\tFederal Road Safety Corps\n\n\tNigeria Customs Service\n\n\tNigeria Revenue Service",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "What are the main functions of the Joint Revenue Board?",
+   "answer": "Key functions include:\n\n\tMaintaining a national taxpayer database\n\n\tResolving disputes between tax authorities\n\n\tAdvising on double taxation and tax policy\n\n\tPromoting tax harmonization across Nigeria\n\n\tPublishing tax revenue and expenditure data",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "Where is the head office of the Joint Revenue Board located?",
+   "answer": "The head office is in the Federal Capital Territory, Abuja.",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "Who appoints members of the Tax Appeal Tribunal?",
+   "answer": "Members (Tax Appeal Commissioners) are appointed by the Minister of Finance.",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "How long is the term of a Tax Appeal Commissioner?",
+   "answer": "The term is three years, renewable for another three years only.",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "What is the Office of the Tax Ombud?   Drag",
+   "answer": "It is an independent office that reviews and resolves complaints from taxpayers regarding actions or decisions of tax authorities.",
+   "topic": "Joint Revenue Board (Establishment) Act, No 6, 2025"
+  },
+  {
+   "question": "Why was the FIRS replaced with the NRS?",
+   "answer": "The change aims to modernize and strengthen Nigeria's revenue administration framework, expand the scope of revenue collection, improve efficiency, and align with current economic realities and international best practices.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "What are the key functions of the NRS?",
+   "answer": "Key functions include tax assessment, collection, enforcement, taxpayer education, policy review, international collaboration, data management, fraud detection, and administering all federal revenues.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "Can the NRS collect taxes for states and local governments?",
+   "answer": "Yes, the NRS may, upon request, assist states, the Federal Capital Territory, or local governments in collecting taxes they are legally empowered to administer, subject to agreed terms.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "Who governs the NRS?",
+   "answer": "The NRS is governed by a Governing Board comprising the Executive Chairman, Executive Directors of the Service, representatives from key ministries and agencies, and appointed members representing Nigeria’s geopolitical zones",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "How is the Executive Chairman appointed?",
+   "answer": "The Executive Chairman is appointed by the President, subject to confirmation by the Senate, and serves as the chief executive and accounting officer of the Service.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "What happens to FIRS staff and assets?",
+   "answer": "All staff, assets, rights, obligations, and pending matters of the FIRS are transferred to the NRS under terms not less favorable than before.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "Is the NRS tax-exempt?",
+   "answer": "Yes, the NRS is exempt from income tax but must still deduct and remit taxes as required by law.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "How does the NRS ensure taxpayer confidentiality?",
+   "answer": "The Act imposes strict confidentiality obligations on NRS officials. Unauthorized disclosure of taxpayer information is a criminal offence punishable by fine or imprisonment.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "How does the NRS handle international tax agreements?",
+   "answer": "The NRS implements agreements for avoiding double taxation and providing administrative assistance with other countries, including collecting taxes on behalf of foreign governments.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "What penalties exist for non-compliance with tax laws?",
+   "answer": "The NRS may impose penalties for non-compliance, including fines, prosecution, and seizure of assets derived from tax fraud or evasion.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "How are disputes against the NRS handled?",
+   "answer": "Suits against the NRS must be filed within three months of the incident and require one month’s prior written notice. The Public Officers Protection Act applies to such cases.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "What is the role of the NRS Technical Committee?",
+   "answer": "The Technical Committee advises the Board on professional and technical tax matters and reviews complex tax issues.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "How does the NRS promote tax compliance?",
+   "answer": "The NRS must submit annual reports and audited accounts to the Minister, who presents them to the Federal Executive Council and National Assembly.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "What is the process for recovering unremitted revenue?",
+   "answer": "The Accountant-General of the Federation may deduct unremitted revenues from allocations due to any government agency upon receipt of a warrant from the NRS Executive Chairman and a judicial officer.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  },
+  {
+   "question": "Where can I get more information about the NRS?",
+   "answer": "Official information will be available through the NRS website, public notices, and designated offices once the Service becomes operational.",
+   "topic": "Nigeria Revenue Service (Establishment) Act, No: 4 2025"
+  }
+ ]
+}

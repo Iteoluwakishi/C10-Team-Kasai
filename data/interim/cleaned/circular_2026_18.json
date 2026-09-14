@@ -1,0 +1,622 @@
+{
+ "document_id": "circular_2026_18",
+ "title": "NRS Information Circular No. 2026/18: Guidelines on the Withholding of Value Added Tax",
+ "document_type": "circular",
+ "legal_weight": "administrative_guidance",
+ "status": "in_force",
+ "source_file": "guidance\\circular_2026_18_vat_withholding_guidelines.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "lines": [
+    {
+     "top": 105.2,
+     "text": "NIGERIA REVENUE SERVICE"
+    },
+    {
+     "top": 119.7,
+     "text": "REVENUE HOUSE, PLOT 1241, KUR MOHAMMED AVENUE, CENTRAL AREA, ABUJA,"
+    },
+    {
+     "top": 132.2,
+     "text": "NIGERIA"
+    },
+    {
+     "top": 150.7,
+     "text": "INFORMATION CIRCULAR"
+    },
+    {
+     "top": 177.7,
+     "text": "NO: 2026/18 PUBLICATION DATE: 29TH JUNE, 2026"
+    },
+    {
+     "top": 211.5,
+     "text": "Subject: GUIDELINES ON THE WITHHOLDING OF VALUE ADDED"
+    },
+    {
+     "top": 227.6,
+     "text": "TAX"
+    },
+    {
+     "top": 247.6,
+     "text": "1.0 Introduction"
+    },
+    {
+     "top": 267.2,
+     "text": "These Guidelines are issued by the Nigeria Revenue Service (“the Service”)"
+    },
+    {
+     "top": 283.2,
+     "text": "to provide clarity on the implementation of the provisions relating to"
+    },
+    {
+     "top": 298.7,
+     "text": "Withholding of Value Added Tax (VAT). They set out the obligations,"
+    },
+    {
+     "top": 314.7,
+     "text": "procedures and compliance requirements for all relevant stakeholders"
+    },
+    {
+     "top": 330.2,
+     "text": "including non-resident suppliers, taxable persons, appointed agents, and"
+    },
+    {
+     "top": 346.2,
+     "text": "government entities in respect of the deduction, remittance, and reporting"
+    },
+    {
+     "top": 361.7,
+     "text": "of VAT on taxable supplies. This circular withdraws and replaces the earlier"
+    },
+    {
+     "top": 377.2,
+     "text": "FIRS Information Circular No: 2023/14 of 29th December, 2023"
+    },
+    {
+     "top": 407.2,
+     "text": "2.0 Legal Framework"
+    },
+    {
+     "top": 422.2,
+     "text": "The Nigeria Tax Act (NTA), 2025 provides as follows:"
+    },
+    {
+     "top": 446.3,
+     "text": "Section 150 (3) empowers the Service to appoint any person including a"
+    },
+    {
+     "top": 462.3,
+     "text": "non-resident supplier of taxable goods to deduct or withhold VAT; and the"
+    },
+    {
+     "top": 477.8,
+     "text": "person so appointed is required to remit the VAT deducted or withheld to"
+    },
+    {
+     "top": 493.8,
+     "text": "the Service in the currency of transaction."
+    },
+    {
+     "top": 519.8,
+     "text": "Section 150(4) provides that where a person appointed as an agent for the"
+    },
+    {
+     "top": 535.3,
+     "text": "collection of VAT makes a taxable supply to a person in Nigeria, the taxable"
+    },
+    {
+     "top": 551.3,
+     "text": "person shall not have the obligation to withhold, except where the"
+    },
+    {
+     "top": 566.8,
+     "text": "appointed agent fails to collect the VAT."
+    },
+    {
+     "top": 596.8,
+     "text": "Section 154 (1) mandates all Federal, State, Local Government and their"
+    },
+    {
+     "top": 613.4,
+     "text": "respective Ministries, Department & Agencies (MDAs) to collect or withhold"
+    },
+    {
+     "top": 629.4,
+     "text": "VAT on taxable supplies (all payments) made to contractors and remit same"
+    },
+    {
+     "top": 644.9,
+     "text": "to the Service."
+    },
+    {
+     "top": 671.4,
+     "text": "Section 154 (3) requires the persons obligated to withhold VAT to submit"
+    },
+    {
+     "top": 687.4,
+     "text": "returns, accompanied with a schedule showing the name, Tax ID and"
+    },
+    {
+     "top": 702.9,
+     "text": "address of the contractor or supplier, invoice number, gross amount of"
+    },
+    {
+     "top": 718.9,
+     "text": "invoice, amount of the VAT and the month to which the return relates."
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "lines": [
+    {
+     "top": 38.0,
+     "text": "3.0 Withholding of VAT on Taxable Supplies Received"
+    },
+    {
+     "top": 53.5,
+     "text": "An appointed agent having the obligation to withhold the VAT charged on"
+    },
+    {
+     "top": 70.0,
+     "text": "invoices of taxable supplies received (including works, services, goods,"
+    },
+    {
+     "top": 86.0,
+     "text": "etc.) shall withhold and remit same to the Service in line with these"
+    },
+    {
+     "top": 102.1,
+     "text": "Guidelines. This is in addition to their existing obligation to collect and remit"
+    },
+    {
+     "top": 118.1,
+     "text": "VAT on their taxable supplies."
+    },
+    {
+     "top": 143.1,
+     "text": "The suppliers (service providers, contractors, vendors, etc.) must state"
+    },
+    {
+     "top": 159.6,
+     "text": "separately, the gross amount of taxable supplies, VAT rate, and the amount"
+    },
+    {
+     "top": 175.6,
+     "text": "of VAT charged on each invoice (including bill, debit note or any such"
+    },
+    {
+     "top": 191.1,
+     "text": "document employed to record the transaction)."
+    },
+    {
+     "top": 223.6,
+     "text": "4.0 Obligation to Withhold VAT from Suppliers"
+    },
+    {
+     "top": 239.6,
+     "text": "An appointed agent shall have the following obligations:"
+    },
+    {
+     "top": 268.2,
+     "text": "a. deduct or withhold VAT stated on the invoice issued by their suppliers,"
+    },
+    {
+     "top": 282.7,
+     "text": "vendors or contractors (the VAT shall not be paid to the supplier);"
+    },
+    {
+     "top": 309.7,
+     "text": "b. prepare a schedule showing the name, Tax ID, and address of the"
+    },
+    {
+     "top": 324.2,
+     "text": "contractor or supplier, invoice number, gross amount of invoice,"
+    },
+    {
+     "top": 338.2,
+     "text": "amount of the VAT, and the month to which the return relates;"
+    },
+    {
+     "top": 365.2,
+     "text": "c. remit the amount withheld to the Service on or before the 14th day"
+    },
+    {
+     "top": 379.7,
+     "text": "of the month immediately following the month of the transaction; and"
+    },
+    {
+     "top": 406.2,
+     "text": "d. file the returns of VAT withheld using the appropriate fields in NRS"
+    },
+    {
+     "top": 420.7,
+     "text": "tax administration solution."
+    },
+    {
+     "top": 446.8,
+     "text": "4.1 Taxable supplies between companies having obligations to"
+    },
+    {
+     "top": 462.8,
+     "text": "withhold VAT"
+    },
+    {
+     "top": 478.8,
+     "text": "Where a company having the obligation to withhold VAT makes taxable"
+    },
+    {
+     "top": 495.3,
+     "text": "supplies to another company having a similar obligation to withhold VAT,"
+    },
+    {
+     "top": 511.3,
+     "text": "the recipient of the supplies (the purchaser) shall account for the VAT on"
+    },
+    {
+     "top": 526.8,
+     "text": "the transaction in line with these Guidelines."
+    },
+    {
+     "top": 553.8,
+     "text": "Where a non-resident supplier, appointed pursuant to Section 150(3) of the"
+    },
+    {
+     "top": 569.8,
+     "text": "NTA, makes a taxable supply to an appointed agent in Nigeria, the"
+    },
+    {
+     "top": 585.8,
+     "text": "appointed non-resident supplier shall have the primary responsibility to"
+    },
+    {
+     "top": 602.4,
+     "text": "collect the tax due and remit same to the Service. However, where the"
+    },
+    {
+     "top": 618.4,
+     "text": "appointed non-resident person fails to collect the tax, the Nigerian"
+    },
+    {
+     "top": 634.4,
+     "text": "appointed agent shall withhold the VAT in line with these Guidelines and"
+    },
+    {
+     "top": 650.4,
+     "text": "remit same to the Service."
+    },
+    {
+     "top": 672.4,
+     "text": "In the case of supply by a non-resident person not appointed, the taxable"
+    },
+    {
+     "top": 688.4,
+     "text": "person to whom the supply is made in Nigeria, including an appointed agent"
+    },
+    {
+     "top": 704.9,
+     "text": "in Nigeria, shall have the obligation to withhold the tax in line with these"
+    },
+    {
+     "top": 720.4,
+     "text": "Guidelines."
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "lines": [
+    {
+     "top": 38.0,
+     "text": "5.0 Accounting for VAT Withheld"
+    },
+    {
+     "top": 53.0,
+     "text": "A taxable person having the obligation to withhold VAT shall:"
+    },
+    {
+     "top": 78.0,
+     "text": "a. maintain an account, referred to as “VAT Withheld Account” in its"
+    },
+    {
+     "top": 93.0,
+     "text": "book or ledger, separate from its VAT Accounts;"
+    },
+    {
+     "top": 117.1,
+     "text": "b. record to the credit of the “VAT Withheld Account” all VAT withheld"
+    },
+    {
+     "top": 131.6,
+     "text": "from suppliers;"
+    },
+    {
+     "top": 156.1,
+     "text": "c. record to the debit of the “VAT Withheld Account” all sums remitted"
+    },
+    {
+     "top": 170.6,
+     "text": "to the Service, being VAT withheld from suppliers; and"
+    },
+    {
+     "top": 195.1,
+     "text": "d. make the statement of the “VAT Withheld Account” available for"
+    },
+    {
+     "top": 209.1,
+     "text": "audit, from time to time, as may be required by the Service."
+    },
+    {
+     "top": 240.6,
+     "text": "6.0 Error or omission on remittance schedule"
+    },
+    {
+     "top": 256.1,
+     "text": "A taxable person having obligation to withhold VAT shall ensure that the"
+    },
+    {
+     "top": 272.7,
+     "text": "field to be populated on the schedules of suppliers to be uploaded on the"
+    },
+    {
+     "top": 288.7,
+     "text": "NRS tax administration solution are done accurately and correctly, to avoid"
+    },
+    {
+     "top": 304.7,
+     "text": "giving unintended credit to a wrong person (i.e. suppliers)."
+    },
+    {
+     "top": 329.2,
+     "text": "A taxable person or appointed agent can revisit the uploaded schedule of"
+    },
+    {
+     "top": 345.7,
+     "text": "suppliers to effect corrections where necessary."
+    },
+    {
+     "top": 373.7,
+     "text": "7.0 VAT Returns"
+    },
+    {
+     "top": 393.7,
+     "text": "7.1 Filing Obligation"
+    },
+    {
+     "top": 409.7,
+     "text": "An appointed agent shall file a separate VAT return in respect of the VAT"
+    },
+    {
+     "top": 425.7,
+     "text": "withheld to the Service on or before the 14th day of the following month in"
+    },
+    {
+     "top": 441.8,
+     "text": "the currency of the transaction."
+    },
+    {
+     "top": 467.8,
+     "text": "7.2 Mode of Filing Returns"
+    },
+    {
+     "top": 483.3,
+     "text": "The returns for VAT withheld should be filed using the relevant module on"
+    },
+    {
+     "top": 499.8,
+     "text": "the NRS tax administration solution or any format as may be prescribed by"
+    },
+    {
+     "top": 515.3,
+     "text": "the Service."
+    },
+    {
+     "top": 544.3,
+     "text": "Taxpayers are to be on-boarded on the VAT e-invoicing when required by"
+    },
+    {
+     "top": 559.8,
+     "text": "the Service."
+    },
+    {
+     "top": 587.3,
+     "text": "7.3 Remittance of VAT withheld"
+    },
+    {
+     "top": 602.9,
+     "text": "a. VAT withheld should be remitted separately from VAT collected on"
+    },
+    {
+     "top": 619.4,
+     "text": "supplies; and"
+    },
+    {
+     "top": 634.9,
+     "text": "b. VAT should be remitted in the currency in which it was assessed."
+    },
+    {
+     "top": 667.4,
+     "text": "8.0 Input Tax of Withheld Output Tax"
+    },
+    {
+     "top": 683.4,
+     "text": "lnput VAT incurred on taxable supplies can be deducted from the output"
+    },
+    {
+     "top": 698.9,
+     "text": "VAT or tax payable in line with the provisions of Section 155 (5) of NTA."
+    },
+    {
+     "top": 714.9,
+     "text": "In the event that the output tax has been withheld by a company covered"
+    },
+    {
+     "top": 730.4,
+     "text": "under paragraph 2.0 of this Guideline, the supplier:"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "lines": [
+    {
+     "top": 38.0,
+     "text": "a. shall disclose the total output tax collectible on all its supplies in the"
+    },
+    {
+     "top": 52.5,
+     "text": "VAT returns for the relevant month;"
+    },
+    {
+     "top": 78.0,
+     "text": "b. shall deduct output tax withheld at source from the total output tax"
+    },
+    {
+     "top": 92.5,
+     "text": "reported in its VAT return for the relevant month to arrive at a net"
+    },
+    {
+     "top": 107.1,
+     "text": "output tax (i.e., output tax collected);"
+    },
+    {
+     "top": 132.6,
+     "text": "c. shall, in arriving at the VAT payable, deduct input tax on all supplies"
+    },
+    {
+     "top": 147.6,
+     "text": "from the net output tax, including input tax relating to the supplies"
+    },
+    {
+     "top": 162.1,
+     "text": "for which output tax was withheld; and"
+    },
+    {
+     "top": 184.1,
+     "text": "d. where the input VAT exceeds the net output VAT, may utilise the"
+    },
+    {
+     "top": 198.6,
+     "text": "amount refundable to offset future VAT liability or request for a"
+    },
+    {
+     "top": 212.6,
+     "text": "refund."
+    },
+    {
+     "top": 244.1,
+     "text": "9.0 Refund of Input Tax"
+    },
+    {
+     "top": 260.1,
+     "text": "Where a taxpayer covered under paragraph 2.0 of this Guideline requests"
+    },
+    {
+     "top": 276.2,
+     "text": "for a refund, the Service shall treat the request in accordance with the"
+    },
+    {
+     "top": 292.2,
+     "text": "Guidelines on Tax Refund."
+    },
+    {
+     "top": 324.7,
+     "text": "10.0 Offences and Penalties"
+    },
+    {
+     "top": 340.7,
+     "text": "The penalties stipulated under the relevant provisions of the Nigeria Tax"
+    },
+    {
+     "top": 356.7,
+     "text": "Administration Act shall apply to any person who fails to comply with the"
+    },
+    {
+     "top": 372.2,
+     "text": "obligations set out in these Guidelines."
+    },
+    {
+     "top": 402.7,
+     "text": "10.0 Amendment or Revision of the Circular"
+    },
+    {
+     "top": 417.7,
+     "text": "The Service may, at any time, withdraw, amend or update this Guideline."
+    },
+    {
+     "top": 443.8,
+     "text": "11.0 Enquiries"
+    },
+    {
+     "top": 458.3,
+     "text": "All Enquiries on any aspect of this publication should be directed to:"
+    },
+    {
+     "top": 480.3,
+     "text": "Executive Chairman,"
+    },
+    {
+     "top": 496.8,
+     "text": "Nigeria Revenue Service,"
+    },
+    {
+     "top": 513.3,
+     "text": "Revenue House,"
+    },
+    {
+     "top": 529.8,
+     "text": "Plot 1241 Kur Mohammed Avenue,"
+    },
+    {
+     "top": 546.3,
+     "text": "Central Area, Abuja."
+    },
+    {
+     "top": 578.8,
+     "text": "Or"
+    },
+    {
+     "top": 607.4,
+     "text": "Director,"
+    },
+    {
+     "top": 623.4,
+     "text": "Tax Policy and Advisory Department,"
+    },
+    {
+     "top": 639.9,
+     "text": "Nigeria Revenue Service,"
+    },
+    {
+     "top": 656.4,
+     "text": "Revenue House,"
+    },
+    {
+     "top": 672.9,
+     "text": "Plot 1241 Kur Mohammed Avenue,"
+    },
+    {
+     "top": 689.4,
+     "text": "Central Area, Abuja."
+    },
+    {
+     "top": 705.9,
+     "text": "Or"
+    },
+    {
+     "top": 721.9,
+     "text": "Email: tpad@firs.gov.ng"
+    },
+    {
+     "top": 738.9,
+     "text": "Or"
+    },
+    {
+     "top": 754.9,
+     "text": "Email: tpld@firs.gov"
+    }
+   ]
+  }
+ ]
+}

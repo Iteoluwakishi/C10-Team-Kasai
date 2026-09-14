@@ -1,0 +1,3910 @@
+{
+ "document_id": "circular_2026_21",
+ "title": "NRS Information Circular No. 2026/21: Guidelines on the Taxation of Virtual Assets",
+ "document_type": "circular",
+ "legal_weight": "administrative_guidance",
+ "status": "in_force",
+ "source_file": "guidance\\circular_2026_21_virtual_assets_guidelines.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "lines": [
+    {
+     "top": 132.5,
+     "text": "NIGERIA REVENUE SERVICE"
+    },
+    {
+     "top": 147.0,
+     "text": "PLOT 1241, KUR MOHAMMED AVENUE, CENTRAL AREA, ABUJA, NIGERIA"
+    },
+    {
+     "top": 175.4,
+     "text": "INFORMATION CIRCULAR"
+    },
+    {
+     "top": 196.9,
+     "text": "NO. 2026/21 PUBLICATION DATE: 31st July 2026"
+    },
+    {
+     "top": 235.8,
+     "text": "SUBJECT: GUIDELINES ON THE TAXATION OF VIRTUAL ASSETS"
+    },
+    {
+     "top": 260.8,
+     "text": "These Guidelines are issued for the information and guidance of taxpayers, Virtual"
+    },
+    {
+     "top": 277.6,
+     "text": "Asset Service Providers (VASPs), Peer-to-Peer (P2P) marketplace operators, tax"
+    },
+    {
+     "top": 294.3,
+     "text": "consultants, financial institutions, and all persons engaged in Virtual Assets (VA)"
+    },
+    {
+     "top": 311.1,
+     "text": "activities."
+    },
+    {
+     "top": 335.8,
+     "text": "1.0 Introduction"
+    },
+    {
+     "top": 360.6,
+     "text": "These Guidelines have been developed to establish a clear and standardised"
+    },
+    {
+     "top": 377.4,
+     "text": "framework for the tax administration of VA and VA transactions in Nigeria."
+    },
+    {
+     "top": 402.1,
+     "text": "2.0 Purpose"
+    },
+    {
+     "top": 426.9,
+     "text": "The purpose of these guidelines is to provide an administrative guide on the taxation"
+    },
+    {
+     "top": 443.9,
+     "text": "of VAs in Nigeria, including -"
+    },
+    {
+     "top": 468.6,
+     "text": "(a) the tax obligations of persons engaged in VAs transactions;"
+    },
+    {
+     "top": 485.4,
+     "text": "(b) the registration, reporting, filing and record keeping obligations applicable to"
+    },
+    {
+     "top": 502.1,
+     "text": "taxpayers and VAs service providers;"
+    },
+    {
+     "top": 518.9,
+     "text": "(c) the valuation and computation of taxable income arising from VAs transactions;"
+    },
+    {
+     "top": 535.6,
+     "text": "and"
+    },
+    {
+     "top": 552.4,
+     "text": "(d) clarity in the administration and enforcement of the tax laws relating to VA."
+    },
+    {
+     "top": 577.2,
+     "text": "3.0 Legal Framework"
+    },
+    {
+     "top": 601.9,
+     "text": "(a) Section 4 of the Nigeria Revenue Service Establishment Act, 2025;"
+    },
+    {
+     "top": 618.9,
+     "text": "(b) Ninth Schedule to the Nigeria Tax Act, 2025 (the “NTA”);"
+    },
+    {
+     "top": 635.7,
+     "text": "(c) Section 79 and the Fifth Schedule to the Nigeria Tax Administration Act, 2025"
+    },
+    {
+     "top": 652.4,
+     "text": "(the “NTAA”); and"
+    },
+    {
+     "top": 669.2,
+     "text": "(d) Any relevant provision under the above-mentioned Acts relating to VAs."
+    },
+    {
+     "top": 693.9,
+     "text": "4.0 Scope of application"
+    },
+    {
+     "top": 718.7,
+     "text": "These Guidelines apply to any person who -"
+    },
+    {
+     "top": 743.5,
+     "text": "(a) acquires, disposes of, exchanges or otherwise deals in VA;"
+    },
+    {
+     "top": 779.9,
+     "text": "1 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(b) receives income or any payment in the form of VA;"
+    },
+    {
+     "top": 91.3,
+     "text": "(c) operates as a VASP and P2P marketplace;"
+    },
+    {
+     "top": 108.0,
+     "text": "(d) derives income, profits or gains from VAs that is liable to tax in Nigeria; or"
+    },
+    {
+     "top": 124.8,
+     "text": "(e) provides services relating to VA."
+    },
+    {
+     "top": 149.5,
+     "text": "5.0 Classification and Tax Treatment of Virtual Assets"
+    },
+    {
+     "top": 174.5,
+     "text": "For the purposes of these Guidelines, VA are classified into six categories each with"
+    },
+    {
+     "top": 191.3,
+     "text": "its own tax treatment -"
+    },
+    {
+     "top": 220.6,
+     "text": "Category Characteristics Examples Tax treatment"
+    },
+    {
+     "top": 246.8,
+     "text": "Category 1 — • Functions as a medium of Bitcoin, Ether, • Income tax on gains"
+    },
+    {
+     "top": 262.3,
+     "text": "Cryptocurrencies exchange, store of value, or unit Solana, BNB, arising from the disposal"
+    },
+    {
+     "top": 278.1,
+     "text": "and exchange of account. etc. of VA;"
+    },
+    {
+     "top": 293.8,
+     "text": "tokens • Not pegged to any fiat currency • Stamp duty on eligible"
+    },
+    {
+     "top": 309.6,
+     "text": "or asset. token transfers."
+    },
+    {
+     "top": 325.4,
+     "text": "• Value determined by market"
+    },
+    {
+     "top": 341.1,
+     "text": "supply and demand."
+    },
+    {
+     "top": 367.3,
+     "text": "Category 2 — • Designed to maintain a stable USDT, USDC, • Income tax on gains"
+    },
+    {
+     "top": 382.9,
+     "text": "Stablecoins and value by reference to a fiat BUSD, DAI, arising from the disposal"
+    },
+    {
+     "top": 398.6,
+     "text": "payment tokens currency. PYUSD etc. of VA;"
+    },
+    {
+     "top": 414.5,
+     "text": "• Functions as a payment and • Stamp duty on eligible"
+    },
+    {
+     "top": 430.1,
+     "text": "settlement instrument. token transfers."
+    },
+    {
+     "top": 465.6,
+     "text": "Note: stablecoins offering"
+    },
+    {
+     "top": 481.1,
+     "text": "yield or an investment"
+    },
+    {
+     "top": 496.9,
+     "text": "return are assessed under"
+    },
+    {
+     "top": 512.6,
+     "text": "Category 4 in respect of"
+    },
+    {
+     "top": 528.4,
+     "text": "that yield component."
+    },
+    {
+     "top": 554.4,
+     "text": "Category 3 — Represents ownership of Tokenised • Income tax on gains"
+    },
+    {
+     "top": 570.2,
+     "text": "Security and economic interest in an underlying equity, revenue- arising from the disposal"
+    },
+    {
+     "top": 585.9,
+     "text": "investment asset, enterprise, or cash flow, sharing tokens, of VA;"
+    },
+    {
+     "top": 601.7,
+     "text": "tokens regulated as securities under the asset-backed • Stamp duty on eligible"
+    },
+    {
+     "top": 617.4,
+     "text": "Investments and Securities Act, tokens, token transfers."
+    },
+    {
+     "top": 632.9,
+     "text": "2025. tokenised"
+    },
+    {
+     "top": 648.7,
+     "text": "bonds, and"
+    },
+    {
+     "top": 652.9,
+     "text": "The exemption under"
+    },
+    {
+     "top": 664.4,
+     "text": "other tokenised"
+    },
+    {
+     "top": 668.4,
+     "text": "section 184(h) NTA on"
+    },
+    {
+     "top": 680.2,
+     "text": "assets."
+    },
+    {
+     "top": 684.2,
+     "text": "stocks and shares applies"
+    },
+    {
+     "top": 699.9,
+     "text": "to tokenised Nigerian"
+    },
+    {
+     "top": 715.7,
+     "text": "stocks and shares"
+    },
+    {
+     "top": 731.2,
+     "text": "specifically; it does not"
+    },
+    {
+     "top": 779.9,
+     "text": "2 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "Category Characteristics Examples Tax treatment"
+    },
+    {
+     "top": 105.3,
+     "text": "apply to all Category 3"
+    },
+    {
+     "top": 121.0,
+     "text": "tokens."
+    },
+    {
+     "top": 147.0,
+     "text": "Category 4 — Provides access to a specific Gaming tokens, • Income tax on gains on"
+    },
+    {
+     "top": 162.8,
+     "text": "Utility and product, platform or protocol. access tokens, disposal. Staking rewards,"
+    },
+    {
+     "top": 178.5,
+     "text": "governance Includes tokens that generate DAO DeFi yield, and liquidity"
+    },
+    {
+     "top": 194.3,
+     "text": "tokens yield, staking rewards, or DeFi governance rewards taxable as income"
+    },
+    {
+     "top": 209.8,
+     "text": "returns. votes, staking at receipt — (see"
+    },
+    {
+     "top": 225.6,
+     "text": "derivative paragraphs 9.5 and 9.6)."
+    },
+    {
+     "top": 241.3,
+     "text": "tokens, receipt"
+    },
+    {
+     "top": 257.1,
+     "text": "tokens etc."
+    },
+    {
+     "top": 283.1,
+     "text": "Category 5 — Unique digital assets. Digital art, Tax treatment depends on"
+    },
+    {
+     "top": 300.8,
+     "text": "NFTs music NFTs, economic substance and"
+    },
+    {
+     "top": 314.6,
+     "text": "collectibles, creator/investor/trader"
+    },
+    {
+     "top": 330.3,
+     "text": "property NFTs status. see paragraph 9.5"
+    },
+    {
+     "top": 345.8,
+     "text": "etc."
+    },
+    {
+     "top": 372.1,
+     "text": "Category 6 — A digital form of central bank eNaira; foreign Same treatment applicable"
+    },
+    {
+     "top": 387.9,
+     "text": "Sovereign digital money, denominated in the CBDCs held by to fiat currencies; no VA tax"
+    },
+    {
+     "top": 403.6,
+     "text": "currency national unit of account, issued by Nigerian obligations arise."
+    },
+    {
+     "top": 419.4,
+     "text": "and constituting a direct claim by residents."
+    },
+    {
+     "top": 434.9,
+     "text": "the central bank of the issuing"
+    },
+    {
+     "top": 450.6,
+     "text": "jurisdiction."
+    },
+    {
+     "top": 497.6,
+     "text": "6.0 Applicable Taxes"
+    },
+    {
+     "top": 522.4,
+     "text": "VA transactions shall be subject to the applicable taxes imposed under the NTA. A"
+    },
+    {
+     "top": 539.1,
+     "text": "single transaction may give rise to more than one tax liability such as income tax, VAT"
+    },
+    {
+     "top": 555.9,
+     "text": "or stamp duty, where different taxable events arise from the same transaction."
+    },
+    {
+     "top": 580.7,
+     "text": "6.1 Income tax"
+    },
+    {
+     "top": 605.7,
+     "text": "6.1.1 Income Tax of Individuals"
+    },
+    {
+     "top": 630.4,
+     "text": "(1) A resident individual who derives income, profits or gains from VA transactions"
+    },
+    {
+     "top": 647.2,
+     "text": "shall be liable to income tax of individuals in accordance with the provisions of the"
+    },
+    {
+     "top": 663.9,
+     "text": "NTA."
+    },
+    {
+     "top": 680.7,
+     "text": "(2) Income liable to tax includes —"
+    },
+    {
+     "top": 697.4,
+     "text": "(a) gains realised on the disposal of VA;"
+    },
+    {
+     "top": 714.2,
+     "text": "(b) employment income received in VA;"
+    },
+    {
+     "top": 731.0,
+     "text": "(c) professional or consultancy fees received in VA;"
+    },
+    {
+     "top": 747.7,
+     "text": "(d) business income received in VA;"
+    },
+    {
+     "top": 779.9,
+     "text": "3 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(e) mining rewards;"
+    },
+    {
+     "top": 91.3,
+     "text": "(f) staking rewards;"
+    },
+    {
+     "top": 108.0,
+     "text": "(g) decentralised finance (DeFi) rewards;"
+    },
+    {
+     "top": 124.8,
+     "text": "(h) yield on investment;"
+    },
+    {
+     "top": 141.5,
+     "text": "(i) liquidity mining incentives;"
+    },
+    {
+     "top": 158.5,
+     "text": "(j) protocol rewards;"
+    },
+    {
+     "top": 175.3,
+     "text": "(k) royalties received in VA;"
+    },
+    {
+     "top": 192.0,
+     "text": "(l) airdrops and hard fork distributions that constitute taxable income; and"
+    },
+    {
+     "top": 208.8,
+     "text": "(m) every other income arising from VA activities that is chargeable to tax under"
+    },
+    {
+     "top": 225.6,
+     "text": "the NTA."
+    },
+    {
+     "top": 242.3,
+     "text": "(3) Income shall be recognised at the FMV of the VA on the date the taxpayer acquires"
+    },
+    {
+     "top": 259.1,
+     "text": "unrestricted ownership or control of the asset."
+    },
+    {
+     "top": 275.8,
+     "text": "(4) Taxpayers shall declare such income in their annual income tax returns together"
+    },
+    {
+     "top": 292.6,
+     "text": "with any supporting documentation prescribed by the relevant tax authority."
+    },
+    {
+     "top": 309.6,
+     "text": "(5) Where VA are received as employment income or emoluments, the employer shall"
+    },
+    {
+     "top": 326.3,
+     "text": "report the remuneration in VA and the quantity paid, together with its FMV in USD"
+    },
+    {
+     "top": 343.1,
+     "text": "as at the date of payment, in accordance with section 14 of the NTAA."
+    },
+    {
+     "top": 392.6,
+     "text": "6.1.2 Income Tax of Companies"
+    },
+    {
+     "top": 417.4,
+     "text": "(1) A company that derives profits from VA transactions shall be liable to income"
+    },
+    {
+     "top": 434.1,
+     "text": "tax of companies under the NTA."
+    },
+    {
+     "top": 450.9,
+     "text": "(2) Taxable profits include all income and gains derived from VA, including income"
+    },
+    {
+     "top": 467.6,
+     "text": "and gains from—"
+    },
+    {
+     "top": 484.6,
+     "text": "(a) trading in VA;"
+    },
+    {
+     "top": 501.4,
+     "text": "(b) operation of VA exchanges;"
+    },
+    {
+     "top": 518.1,
+     "text": "(c) transaction fees charged by VASPs;"
+    },
+    {
+     "top": 534.9,
+     "text": "(d) brokerage commissions;"
+    },
+    {
+     "top": 551.7,
+     "text": "(e) custody services;"
+    },
+    {
+     "top": 568.4,
+     "text": "(f) wallet administration services;"
+    },
+    {
+     "top": 585.2,
+     "text": "(g) token issuance activities;"
+    },
+    {
+     "top": 601.9,
+     "text": "(h) mining operations;"
+    },
+    {
+     "top": 618.7,
+     "text": "(i) staking activities;"
+    },
+    {
+     "top": 635.7,
+     "text": "(j) decentralised finance activities;"
+    },
+    {
+     "top": 652.4,
+     "text": "(k) investment gains; and"
+    },
+    {
+     "top": 669.2,
+     "text": "(l) any other income or profit arising from VA business activities."
+    },
+    {
+     "top": 702.7,
+     "text": "(3) The taxable profits of a company shall be computed in accordance with the"
+    },
+    {
+     "top": 719.5,
+     "text": "relevant provisions of the NTA."
+    },
+    {
+     "top": 779.9,
+     "text": "4 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(4) VASPs, like every other company, shall bear their own corporate income tax"
+    },
+    {
+     "top": 91.3,
+     "text": "liability on their revenues. This is separate from their deduction of tax at source"
+    },
+    {
+     "top": 108.0,
+     "text": "obligations."
+    },
+    {
+     "top": 132.8,
+     "text": "6.1.3 Non-resident"
+    },
+    {
+     "top": 157.5,
+     "text": "(1) A non-resident person that derives income, profits or gains from VA activities in"
+    },
+    {
+     "top": 174.5,
+     "text": "Nigeria shall be liable to tax in accordance with the relevant provisions of the NTA and"
+    },
+    {
+     "top": 191.3,
+     "text": "the NTAA."
+    },
+    {
+     "top": 216.1,
+     "text": "(2) The provisions relating to Significant Economic Presence (SEP) and Nigerian-source"
+    },
+    {
+     "top": 232.8,
+     "text": "income shall apply to VA activities in the same manner as they apply to any other"
+    },
+    {
+     "top": 249.6,
+     "text": "taxable business."
+    },
+    {
+     "top": 274.3,
+     "text": "(3) The tax liability and other obligations of non-resident persons in Nigeria are set"
+    },
+    {
+     "top": 291.1,
+     "text": "out in the Information Circular on Taxation of Non-Resident Persons and Guidelines"
+    },
+    {
+     "top": 307.8,
+     "text": "for Filing Income Tax Returns by Foreign Companies, both at"
+    },
+    {
+     "top": 324.6,
+     "text": "www.nrs.gov.ng/resources."
+    },
+    {
+     "top": 349.6,
+     "text": "6.2 Value Added Tax (VAT)"
+    },
+    {
+     "top": 374.4,
+     "text": "(1) The transfer of ownership of a VA shall not, of itself, constitute a taxable supply"
+    },
+    {
+     "top": 391.1,
+     "text": "for VAT purposes."
+    },
+    {
+     "top": 415.9,
+     "text": "(2) VAT shall, however, apply to taxable supplies connected with VA transactions"
+    },
+    {
+     "top": 432.6,
+     "text": "including—"
+    },
+    {
+     "top": 457.4,
+     "text": "(a) exchange fees charged by VASPs;"
+    },
+    {
+     "top": 474.1,
+     "text": "(b) brokerage commissions;"
+    },
+    {
+     "top": 490.9,
+     "text": "(c) custody fees;"
+    },
+    {
+     "top": 507.6,
+     "text": "(d) wallet management fees;"
+    },
+    {
+     "top": 524.6,
+     "text": "(e) listing fees;"
+    },
+    {
+     "top": 541.4,
+     "text": "(f) transaction facilitation fees;"
+    },
+    {
+     "top": 558.2,
+     "text": "(g) advisory services;"
+    },
+    {
+     "top": 574.9,
+     "text": "(h) digital platform service fees;"
+    },
+    {
+     "top": 591.7,
+     "text": "(i) professional services rendered in connection with VA; and"
+    },
+    {
+     "top": 608.4,
+     "text": "(j) every other taxable service supplied for consideration."
+    },
+    {
+     "top": 633.2,
+     "text": "(3) Where VAs are used as consideration for taxable goods or services, VAT shall apply"
+    },
+    {
+     "top": 649.9,
+     "text": "to the underlying supply in the same manner as if payment had been made in fiat"
+    },
+    {
+     "top": 666.7,
+     "text": "currency."
+    },
+    {
+     "top": 691.7,
+     "text": "(4) The supplier shall account for and remit VAT in accordance with the applicable tax"
+    },
+    {
+     "top": 708.4,
+     "text": "laws."
+    },
+    {
+     "top": 779.9,
+     "text": "5 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(5) Where a non-resident VASP supplies taxable digital services to persons in Nigeria,"
+    },
+    {
+     "top": 91.3,
+     "text": "the provider shall comply with the registration and compliance obligations applicable"
+    },
+    {
+     "top": 108.0,
+     "text": "to non-resident suppliers."
+    },
+    {
+     "top": 132.8,
+     "text": "(6) Where a non-resident supplier does not charge VAT, the resident company is"
+    },
+    {
+     "top": 149.5,
+     "text": "required to self-charge."
+    },
+    {
+     "top": 174.5,
+     "text": "(7) All VAT liabilities shall be computed using the FMV of the VA at the time of"
+    },
+    {
+     "top": 191.3,
+     "text": "transaction and remitted in the currency of transaction."
+    },
+    {
+     "top": 216.1,
+     "text": "6.3 Stamp Duties"
+    },
+    {
+     "top": 240.8,
+     "text": "(1) Stamp duty applies to TOKEN to FIAT and FIAT to TOKEN transfers under item 33"
+    },
+    {
+     "top": 257.6,
+     "text": "of the Ninth Schedule to the NTA."
+    },
+    {
+     "top": 282.3,
+     "text": "(2) Where the transaction is facilitated through a VASP or other recognised"
+    },
+    {
+     "top": 299.1,
+     "text": "intermediary, the VASP or intermediary shall deduct and remit the applicable stamp"
+    },
+    {
+     "top": 315.8,
+     "text": "duty in accordance with procedures prescribed by the Service."
+    },
+    {
+     "top": 340.6,
+     "text": "(3) Where a VA is used to settle a transaction that independently attracts stamp duty"
+    },
+    {
+     "top": 357.6,
+     "text": "under the NTA, the applicable duty on the underlying instrument shall remain payable."
+    },
+    {
+     "top": 382.4,
+     "text": "(4) Nothing in these Guidelines shall be construed as exempting any dutiable"
+    },
+    {
+     "top": 399.1,
+     "text": "instrument from stamp duty merely because settlement is effected through a VA."
+    },
+    {
+     "top": 423.9,
+     "text": "(5) Payments for goods or services using VA are not dutiable except where the"
+    },
+    {
+     "top": 440.6,
+     "text": "underlying transaction is independently dutiable under the instruments listed in the"
+    },
+    {
+     "top": 457.4,
+     "text": "Ninth Schedule to the NTA."
+    },
+    {
+     "top": 482.1,
+     "text": "(6) Where a transaction is settled using VA, the applicable duty on the underlying"
+    },
+    {
+     "top": 498.9,
+     "text": "instrument under the Ninth Schedule shall be chargeable on the instrument."
+    },
+    {
+     "top": 523.6,
+     "text": "(7) The stamp duty applicable on VA transfers and any other duty under the Ninth"
+    },
+    {
+     "top": 540.6,
+     "text": "Schedule to the NTA are separate duties and both may apply to the same transaction."
+    },
+    {
+     "top": 565.4,
+     "text": "(8) The stamp duty obligation crystallises at the point of the TOKEN to FIAT or FIAT"
+    },
+    {
+     "top": 582.2,
+     "text": "to TOKEN conversion in Nigeria and is not affected by the subsequent transmission of"
+    },
+    {
+     "top": 598.9,
+     "text": "the token to an offshore recipient."
+    },
+    {
+     "top": 623.7,
+     "text": "(9) The duty is borne by the transferee of the token in every dutiable transaction. The"
+    },
+    {
+     "top": 640.4,
+     "text": "stamp duty is withheld from the token credited to the transferee and does not reduce"
+    },
+    {
+     "top": 657.2,
+     "text": "the fiat consideration payable under the transaction."
+    },
+    {
+     "top": 681.9,
+     "text": "(10) A VASP shall withhold the stamp duty in token units from the tokens credited to"
+    },
+    {
+     "top": 698.7,
+     "text": "the transferee and remit the duty so withheld to the Service not later than the 15th"
+    },
+    {
+     "top": 715.7,
+     "text": "and 30th of the month of transaction."
+    },
+    {
+     "top": 740.5,
+     "text": "(11) Application of stamp duty charge -"
+    },
+    {
+     "top": 779.9,
+     "text": "6 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "Transaction Who bears the duty Collection"
+    },
+    {
+     "top": 105.3,
+     "text": "Buyer acquires Buyer is the transferee of the • VASP withholds stamp duty (in tokens) at"
+    },
+    {
+     "top": 121.0,
+     "text": "token with fiat token the applicable rate (see paragraph 8.0)"
+    },
+    {
+     "top": 136.8,
+     "text": "from the token being credited to the buyer."
+    },
+    {
+     "top": 152.4,
+     "text": "• Buyer receives the token net of stamp duty"
+    },
+    {
+     "top": 168.0,
+     "text": "in token units."
+    },
+    {
+     "top": 183.9,
+     "text": "• Buyer pays the full fiat consideration."
+    },
+    {
+     "top": 199.6,
+     "text": "• Seller receives full fiat."
+    },
+    {
+     "top": 225.8,
+     "text": "Seller disposes of Buyer of the token is the • VASP withholds stamp duty (in tokens) at"
+    },
+    {
+     "top": 241.6,
+     "text": "token for fiat transferee the applicable rate (see paragraph 8.0)"
+    },
+    {
+     "top": 257.3,
+     "text": "from the token being credited to the buyer/"
+    },
+    {
+     "top": 273.1,
+     "text": "counterparty."
+    },
+    {
+     "top": 288.7,
+     "text": "• Buyer receives the token net of stamp duty"
+    },
+    {
+     "top": 304.3,
+     "text": "in token units."
+    },
+    {
+     "top": 320.2,
+     "text": "• Seller delivers the full token quantity and"
+    },
+    {
+     "top": 335.8,
+     "text": "receives the full fiat consideration."
+    },
+    {
+     "top": 362.1,
+     "text": "Cross-border B2B Nigerian • VASP/ Intermediary withholds stamp duty"
+    },
+    {
+     "top": 377.9,
+     "text": "payment — business/payer/buyer is the (in tokens) at the applicable rate (see"
+    },
+    {
+     "top": 393.4,
+     "text": "Naira-to-token transferee of the token paragraph 8.0) from the token being"
+    },
+    {
+     "top": 409.1,
+     "text": "conversion by credited to the buyer / business before"
+    },
+    {
+     "top": 424.9,
+     "text": "Nigerian onward transmission to the foreign"
+    },
+    {
+     "top": 440.6,
+     "text": "intermediary counterparty."
+    },
+    {
+     "top": 456.5,
+     "text": "• The foreign recipient is not the transferee"
+    },
+    {
+     "top": 472.1,
+     "text": "for the purpose of Nigerian stamp duty."
+    },
+    {
+     "top": 494.1,
+     "text": "Illustration 1 – Stamp Duty"
+    },
+    {
+     "top": 519.1,
+     "text": "Token/Fiat Acquisition"
+    },
+    {
+     "top": 543.9,
+     "text": "1. User A pays ₦1,000,000 to acquire 1 BTC at a market price of ₦1,000,000 per BTC."
+    },
+    {
+     "top": 568.7,
+     "text": "2. Stamp duty at 1.5% = 0.015 BTC withheld from token credited to User A."
+    },
+    {
+     "top": 593.4,
+     "text": "3. Net BTC credited to User A = 0.985 BTC. Seller receives ₦1,000,000 in full. VASP"
+    },
+    {
+     "top": 610.2,
+     "text": "remits 0.015 BTC to NRS."
+    },
+    {
+     "top": 634.9,
+     "text": "4. User A later sells 0.985 BTC at ₦2,000,000 per BTC (proceeds = ₦1,970,000)."
+    },
+    {
+     "top": 659.7,
+     "text": "5. User A receives ₦1,970,000 in full. Buyer receives 0.985 BTC less 1.5% stamp duty"
+    },
+    {
+     "top": 676.4,
+     "text": "= 0.970225 BTC."
+    },
+    {
+     "top": 726.2,
+     "text": "7.0 Taxable and Non- Taxable Events"
+    },
+    {
+     "top": 751.0,
+     "text": "7.1 Taxable Events"
+    },
+    {
+     "top": 779.9,
+     "text": "7 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "S/N Event Tax consequence Collection Income Stamp VAT in"
+    },
+    {
+     "top": 94.8,
+     "text": "mechanism Tax Duty in"
+    },
+    {
+     "top": 110.5,
+     "text": "(WHT/"
+    },
+    {
+     "top": 126.0,
+     "text": "PAYE)"
+    },
+    {
+     "top": 141.8,
+     "text": "in"
+    },
+    {
+     "top": 168.0,
+     "text": "1 Purchase of • Stamp duty under VASP/escrow N/A Token N/A"
+    },
+    {
+     "top": 183.8,
+     "text": "VA with fiat Ninth Schedule item deducts stamp duty acquired"
+    },
+    {
+     "top": 199.3,
+     "text": "— VASP or 33; from token credited"
+    },
+    {
+     "top": 215.1,
+     "text": "P2P escrow • No income tax. to buyer."
+    },
+    {
+     "top": 241.3,
+     "text": "2 Cross- • Stamp duty at Nigerian N/A Token Currency"
+    },
+    {
+     "top": 257.1,
+     "text": "border B2B applicable rate intermediary acquired of"
+    },
+    {
+     "top": 272.8,
+     "text": "payment – under Ninth withholds stamp transaction"
+    },
+    {
+     "top": 288.6,
+     "text": "Naira to Schedule item 33; duty in token before"
+    },
+    {
+     "top": 304.1,
+     "text": "token • No income tax at onward"
+    },
+    {
+     "top": 319.8,
+     "text": "conversion conversion; transmission."
+    },
+    {
+     "top": 335.6,
+     "text": "by • VAT on service fees"
+    },
+    {
+     "top": 351.3,
+     "text": "intermediar at applicable rate."
+    },
+    {
+     "top": 366.8,
+     "text": "y"
+    },
+    {
+     "top": 393.1,
+     "text": "3 Sale of VA For Category 1: • In the case of Token Token N/A"
+    },
+    {
+     "top": 408.9,
+     "text": "for fiat - • Income tax on crypto and disposed acquired"
+    },
+    {
+     "top": 424.6,
+     "text": "VASP or P2P chargeable gain in exchange tokens: (Categor"
+    },
+    {
+     "top": 440.4,
+     "text": "escrow dollar; VASP/escrow y 1); N/A"
+    },
+    {
+     "top": 457.9,
+     "text": "(Category 1) • WHT at applicable withholds on gross (Categor"
+    },
+    {
+     "top": 473.9,
+     "text": "rate on gross proceeds in token y 2)"
+    },
+    {
+     "top": 489.4,
+     "text": "proceeds; disposed;"
+    },
+    {
+     "top": 505.2,
+     "text": "• Stamp duty at • VASP/escrow"
+    },
+    {
+     "top": 520.9,
+     "text": "applicable rate on deducts stamp"
+    },
+    {
+     "top": 536.6,
+     "text": "transferee. duty from token"
+    },
+    {
+     "top": 550.2,
+     "text": "credited to buyer;"
+    },
+    {
+     "top": 566.0,
+     "text": "• VASP reporting +"
+    },
+    {
+     "top": 571.9,
+     "text": "For Category 2:"
+    },
+    {
+     "top": 581.7,
+     "text": "annual return."
+    },
+    {
+     "top": 589.8,
+     "text": "• No WHT;"
+    },
+    {
+     "top": 605.5,
+     "text": "• Gain is measured"
+    },
+    {
+     "top": 621.2,
+     "text": "against underlying"
+    },
+    {
+     "top": 636.9,
+     "text": "pegged fiat;"
+    },
+    {
+     "top": 652.8,
+     "text": "• Declared in self-"
+    },
+    {
+     "top": 668.4,
+     "text": "assessment return"
+    },
+    {
+     "top": 683.9,
+     "text": "where gain arises;"
+    },
+    {
+     "top": 699.8,
+     "text": "• Stamp duty applies."
+    },
+    {
+     "top": 724.0,
+     "text": "4 Sale of VA • Income tax on • VASP/escrow Token Token N/A"
+    },
+    {
+     "top": 739.7,
+     "text": "for fiat - chargeable gain withholds on gross disposed acquired"
+    },
+    {
+     "top": 779.9,
+     "text": "8 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "VASP or P2P (dollar-referenced proceeds in token"
+    },
+    {
+     "top": 94.8,
+     "text": "escrow gain); disposed;"
+    },
+    {
+     "top": 112.5,
+     "text": "(Category 3) • WHT on gross • Passive income:"
+    },
+    {
+     "top": 126.3,
+     "text": "proceeds; WHT in token"
+    },
+    {
+     "top": 141.9,
+     "text": "• Passive incomes received;"
+    },
+    {
+     "top": 157.5,
+     "text": "(dividends, interest, • VASP reporting +"
+    },
+    {
+     "top": 173.3,
+     "text": "revenue shares) are annual return."
+    },
+    {
+     "top": 189.0,
+     "text": "taxable at dollar FMV"
+    },
+    {
+     "top": 204.8,
+     "text": "on receipt."
+    },
+    {
+     "top": 228.8,
+     "text": "5 Payment for • Income tax on real • VASP reporting + Token N/A Currency"
+    },
+    {
+     "top": 244.6,
+     "text": "goods/servi dollar gain from the annual return; disposed of"
+    },
+    {
+     "top": 260.3,
+     "text": "ces using VA disposal of the VA; • Vendor accounts for transaction"
+    },
+    {
+     "top": 276.2,
+     "text": "• VAT on underlying and remits VAT at"
+    },
+    {
+     "top": 291.8,
+     "text": "supply at applicable standard rate on"
+    },
+    {
+     "top": 307.6,
+     "text": "rate; underlying supply"
+    },
+    {
+     "top": 323.2,
+     "text": "• No stamp duty VASP/escrow"
+    },
+    {
+     "top": 340.8,
+     "text": "withholds on gross"
+    },
+    {
+     "top": 356.6,
+     "text": "proceeds in token"
+    },
+    {
+     "top": 372.3,
+     "text": "disposed."
+    },
+    {
+     "top": 398.4,
+     "text": "6 Employment Income tax on dollar • PAYE to be Naira N/A N/A"
+    },
+    {
+     "top": 414.1,
+     "text": "income or FMV converted to deducted by"
+    },
+    {
+     "top": 429.9,
+     "text": "emoluments Naira at CBN/NAFEM employer at source"
+    },
+    {
+     "top": 445.6,
+     "text": "paid in VA rate at payroll date where Nigerian"
+    },
+    {
+     "top": 461.4,
+     "text": "(monthly). taxpayer;"
+    },
+    {
+     "top": 477.2,
+     "text": "• Self-assessed by"
+    },
+    {
+     "top": 492.9,
+     "text": "recipient on annual"
+    },
+    {
+     "top": 508.4,
+     "text": "return where"
+    },
+    {
+     "top": 524.1,
+     "text": "employer is non-"
+    },
+    {
+     "top": 539.9,
+     "text": "resident or does"
+    },
+    {
+     "top": 555.7,
+     "text": "not deduct."
+    },
+    {
+     "top": 581.7,
+     "text": "7 Professional • Income tax • Deducted by payer Naira N/A Currency"
+    },
+    {
+     "top": 597.4,
+     "text": "fees computed and paid at source where its of"
+    },
+    {
+     "top": 613.2,
+     "text": "received in in Naira; Nigerian taxpayer; transaction"
+    },
+    {
+     "top": 628.9,
+     "text": "VA • For the purpose of • Self-assessed by"
+    },
+    {
+     "top": 644.7,
+     "text": "income tax, VA at recipient on annual"
+    },
+    {
+     "top": 660.4,
+     "text": "dollar FMV return where payer"
+    },
+    {
+     "top": 675.9,
+     "text": "converted to Naira is non-resident or"
+    },
+    {
+     "top": 691.7,
+     "text": "at CBN/NAFEM rate does not deduct;"
+    },
+    {
+     "top": 707.4,
+     "text": "on date of • Recipient accounts"
+    },
+    {
+     "top": 723.2,
+     "text": "transaction; for VAT in Naira."
+    },
+    {
+     "top": 739.1,
+     "text": "• WHT on fees;"
+    },
+    {
+     "top": 779.9,
+     "text": "9 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "lines": [
+    {
+     "top": 79.1,
+     "text": "• VAT on professional"
+    },
+    {
+     "top": 94.8,
+     "text": "fees at applicable"
+    },
+    {
+     "top": 110.5,
+     "text": "rate"
+    },
+    {
+     "top": 134.8,
+     "text": "8 Mining • Income tax on VASP reporting + Token N/A N/A"
+    },
+    {
+     "top": 150.3,
+     "text": "rewards rewards computed Annual self- received"
+    },
+    {
+     "top": 166.0,
+     "text": "received and paid in Naira; assessment returns."
+    },
+    {
+     "top": 181.9,
+     "text": "• For the purpose of"
+    },
+    {
+     "top": 197.5,
+     "text": "income tax, VA at"
+    },
+    {
+     "top": 213.3,
+     "text": "dollar FMV"
+    },
+    {
+     "top": 229.1,
+     "text": "converted to Naira"
+    },
+    {
+     "top": 244.6,
+     "text": "at CBN/NAFEM rate"
+    },
+    {
+     "top": 260.3,
+     "text": "on the date of"
+    },
+    {
+     "top": 276.1,
+     "text": "receipt;"
+    },
+    {
+     "top": 291.9,
+     "text": "• WHT on rewards"
+    },
+    {
+     "top": 307.6,
+     "text": "where distributed by"
+    },
+    {
+     "top": 323.1,
+     "text": "licensed VASP."
+    },
+    {
+     "top": 349.3,
+     "text": "9 Staking • Income tax on VASP reporting + Token N/A N/A"
+    },
+    {
+     "top": 365.1,
+     "text": "rewards rewards computed Annual self- received"
+    },
+    {
+     "top": 380.9,
+     "text": "received and paid in Naira; assessment returns"
+    },
+    {
+     "top": 396.7,
+     "text": "• For the purpose of"
+    },
+    {
+     "top": 412.4,
+     "text": "income tax, VA at"
+    },
+    {
+     "top": 427.9,
+     "text": "dollar FMV"
+    },
+    {
+     "top": 443.6,
+     "text": "converted to Naira"
+    },
+    {
+     "top": 459.4,
+     "text": "at CBN/NAFEM rate"
+    },
+    {
+     "top": 475.1,
+     "text": "on the date of"
+    },
+    {
+     "top": 490.9,
+     "text": "receipt;"
+    },
+    {
+     "top": 506.5,
+     "text": "• WHT on rewards;"
+    },
+    {
+     "top": 522.2,
+     "text": "• Cost base stepped"
+    },
+    {
+     "top": 537.9,
+     "text": "up."
+    },
+    {
+     "top": 564.2,
+     "text": "10 Airdrop/ • Income tax on VASP reporting + Token N/A N/A"
+    },
+    {
+     "top": 579.9,
+     "text": "Hard fork rewards computed Annual self- received"
+    },
+    {
+     "top": 595.7,
+     "text": "distribution and paid in Naira; assessment returns"
+    },
+    {
+     "top": 611.2,
+     "text": "— realisable • For the purpose of"
+    },
+    {
+     "top": 626.9,
+     "text": "FMV at income tax, VA at"
+    },
+    {
+     "top": 642.7,
+     "text": "receipt dollar FMV"
+    },
+    {
+     "top": 658.4,
+     "text": "converted to Naira"
+    },
+    {
+     "top": 674.2,
+     "text": "at CBN/NAFEM rate"
+    },
+    {
+     "top": 689.9,
+     "text": "on the date of"
+    },
+    {
+     "top": 705.4,
+     "text": "receipt;"
+    },
+    {
+     "top": 721.3,
+     "text": "• WHT on rewards"
+    },
+    {
+     "top": 779.9,
+     "text": "10 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "cost base stepped up"
+    },
+    {
+     "top": 94.8,
+     "text": "to FMV."
+    },
+    {
+     "top": 121.0,
+     "text": "11 Airdrop/ Income tax on full Annual self- Token N/A N/A"
+    },
+    {
+     "top": 136.5,
+     "text": "Hard fork proceeds at disposal. assessment returns disposed"
+    },
+    {
+     "top": 152.3,
+     "text": "distribution on disposal."
+    },
+    {
+     "top": 168.0,
+     "text": "— no"
+    },
+    {
+     "top": 183.8,
+     "text": "realisable"
+    },
+    {
+     "top": 199.3,
+     "text": "FMV at"
+    },
+    {
+     "top": 215.1,
+     "text": "receipt"
+    },
+    {
+     "top": 241.3,
+     "text": "12 NFT sale by • Income tax on • Marketplace Token/fia N/A Currency"
+    },
+    {
+     "top": 257.1,
+     "text": "creator income or profits reporting + t of"
+    },
+    {
+     "top": 272.8,
+     "text": "computed and paid annual return; received transaction"
+    },
+    {
+     "top": 288.3,
+     "text": "in Naira; • creator accounts"
+    },
+    {
+     "top": 304.2,
+     "text": "• For the purpose of for VAT."
+    },
+    {
+     "top": 319.8,
+     "text": "income tax, VA at"
+    },
+    {
+     "top": 335.6,
+     "text": "dollar FMV"
+    },
+    {
+     "top": 351.3,
+     "text": "converted to Naira"
+    },
+    {
+     "top": 366.8,
+     "text": "at CBN/NAFEM rate"
+    },
+    {
+     "top": 382.6,
+     "text": "on the date of"
+    },
+    {
+     "top": 398.4,
+     "text": "receipt;"
+    },
+    {
+     "top": 414.2,
+     "text": "• VAT on supply at"
+    },
+    {
+     "top": 429.9,
+     "text": "applicable rate."
+    },
+    {
+     "top": 454.1,
+     "text": "13 NFT resale • Income tax on real • VASP/marketplace Token N/A N/A"
+    },
+    {
+     "top": 469.6,
+     "text": "by investor dollar gain; reporting + annual disposed"
+    },
+    {
+     "top": 485.5,
+     "text": "• WHT at applicable return;"
+    },
+    {
+     "top": 501.1,
+     "text": "rate on gross • WHT in token"
+    },
+    {
+     "top": 516.9,
+     "text": "proceeds. disposed."
+    },
+    {
+     "top": 543.1,
+     "text": "14 DeFi yield, • Income tax on • Annual self- Token N/A N/A"
+    },
+    {
+     "top": 558.9,
+     "text": "lending and rewards computed assessment; received"
+    },
+    {
+     "top": 574.4,
+     "text": "liquidity and paid in Naira; • WHT at applicable"
+    },
+    {
+     "top": 590.2,
+     "text": "rewards • For the purpose of rate where"
+    },
+    {
+     "top": 605.9,
+     "text": "income tax, VA at distributed by"
+    },
+    {
+     "top": 621.7,
+     "text": "dollar FMV licensed VASP."
+    },
+    {
+     "top": 637.4,
+     "text": "converted to Naira"
+    },
+    {
+     "top": 653.2,
+     "text": "at CBN/NAFEM rate"
+    },
+    {
+     "top": 668.7,
+     "text": "on the date of"
+    },
+    {
+     "top": 684.4,
+     "text": "receipt;"
+    },
+    {
+     "top": 700.3,
+     "text": "• WHT on rewards"
+    },
+    {
+     "top": 718.0,
+     "text": "cost base stepped"
+    },
+    {
+     "top": 733.7,
+     "text": "up."
+    },
+    {
+     "top": 779.9,
+     "text": "11 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "15 Gift of VA to • No income tax on • No collection at N/A N/A N/A"
+    },
+    {
+     "top": 94.8,
+     "text": "third party donor; time of gift;"
+    },
+    {
+     "top": 110.6,
+     "text": "• Recipient acquires • Gain computed on"
+    },
+    {
+     "top": 126.3,
+     "text": "VA for a recipient's disposal"
+    },
+    {
+     "top": 142.0,
+     "text": "consideration in accordance with"
+    },
+    {
+     "top": 157.5,
+     "text": "determined in NTAA."
+    },
+    {
+     "top": 173.3,
+     "text": "accordance with"
+    },
+    {
+     "top": 189.0,
+     "text": "section 36(2) NTA;"
+    },
+    {
+     "top": 204.9,
+     "text": "• Gain deferred to"
+    },
+    {
+     "top": 220.6,
+     "text": "recipient's disposal."
+    },
+    {
+     "top": 244.6,
+     "text": "16 Collateral Income tax on gain • VASP/protocol at Token N/A N/A"
+    },
+    {
+     "top": 260.3,
+     "text": "liquidation determined as liquidation; liquidated"
+    },
+    {
+     "top": 276.1,
+     "text": "on DeFi follows: • WHT at applicable"
+    },
+    {
+     "top": 291.8,
+     "text": "loan default • Liquidation rate on gross"
+    },
+    {
+     "top": 309.6,
+     "text": "proceeds less cost proceeds."
+    },
+    {
+     "top": 325.1,
+     "text": "base of collateral at"
+    },
+    {
+     "top": 340.8,
+     "text": "CBN/NAFEM rate on"
+    },
+    {
+     "top": 356.6,
+     "text": "liquidation date."
+    },
+    {
+     "top": 401.6,
+     "text": "7.2 Non-Taxable Events"
+    },
+    {
+     "top": 426.4,
+     "text": "The events listed in this paragraph do not, of themselves, constitute a taxable disposal"
+    },
+    {
+     "top": 443.1,
+     "text": "or taxable supply but they may establish the cost base for future disposals."
+    },
+    {
+     "top": 467.9,
+     "text": "7.2.1 Holding of Virtual Assets"
+    },
+    {
+     "top": 492.6,
+     "text": "The mere holding of a VA after acquisition shall not constitute a taxable event."
+    },
+    {
+     "top": 509.4,
+     "text": "Accordingly, any unrealised appreciation in the value of a VA shall not be subject to"
+    },
+    {
+     "top": 526.1,
+     "text": "income tax until the occurrence of a taxable disposal."
+    },
+    {
+     "top": 551.2,
+     "text": "7.2.2 Transfers Between Wallets"
+    },
+    {
+     "top": 575.9,
+     "text": "The transfer of a VA between wallets owned and controlled by the same individual"
+    },
+    {
+     "top": 592.7,
+     "text": "shall not constitute a disposal for income tax purposes, provided that there is no"
+    },
+    {
+     "top": 609.4,
+     "text": "change in the beneficial ownership of the VA. This does not apply where the transfer"
+    },
+    {
+     "top": 626.2,
+     "text": "involves a company, partnership, trust, unincorporated association or any other legal"
+    },
+    {
+     "top": 642.9,
+     "text": "person, or where there is any change in beneficial ownership."
+    },
+    {
+     "top": 667.7,
+     "text": "7.2.3 Staking Lock-Up"
+    },
+    {
+     "top": 692.4,
+     "text": "The transfer or commitment of a VA into a staking, validation or similar protocol solely"
+    },
+    {
+     "top": 709.4,
+     "text": "for the purpose of participating in network operations shall not constitute a disposal"
+    },
+    {
+     "top": 726.2,
+     "text": "and shall not give rise to income tax."
+    },
+    {
+     "top": 751.0,
+     "text": "7.2.4 Minting of Non-Fungible Tokens"
+    },
+    {
+     "top": 779.9,
+     "text": "12 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "The creation or minting of a Non-Fungible Token (NFT) shall not constitute income, a"
+    },
+    {
+     "top": 91.3,
+     "text": "disposal of property or a taxable supply. Tax liability shall arise only upon the first"
+    },
+    {
+     "top": 108.0,
+     "text": "sale, transfer or other disposal of the NFT for consideration."
+    },
+    {
+     "top": 132.8,
+     "text": "7.2.5 Tokenisation of Real-World Assets"
+    },
+    {
+     "top": 157.5,
+     "text": "The tokenisation of a real-world asset shall not, of itself, constitute a disposal of the"
+    },
+    {
+     "top": 174.5,
+     "text": "underlying asset where there is no change in beneficial ownership. The conversion of"
+    },
+    {
+     "top": 191.3,
+     "text": "ownership rights into digital tokens shall be regarded as a change in the form of"
+    },
+    {
+     "top": 208.1,
+     "text": "ownership and shall not give rise to income tax."
+    },
+    {
+     "top": 232.8,
+     "text": "7.2.6 Collateralised Loans"
+    },
+    {
+     "top": 257.6,
+     "text": "The receipt of funds or other consideration under a loan secured by VA shall not"
+    },
+    {
+     "top": 274.3,
+     "text": "constitute taxable income. Such receipt shall be treated as the creation of a liability"
+    },
+    {
+     "top": 291.1,
+     "text": "and shall not give rise to a taxable gain."
+    },
+    {
+     "top": 315.8,
+     "text": "7.2.7 Taxable Supply"
+    },
+    {
+     "top": 340.6,
+     "text": "The transfer of a VA does not in itself constitute a taxable supply and does not attract"
+    },
+    {
+     "top": 357.6,
+     "text": "VAT."
+    },
+    {
+     "top": 382.4,
+     "text": "7.2.8 Central Bank Digital Currencies"
+    },
+    {
+     "top": 407.1,
+     "text": "The eNaira and all CBDCs are excluded from the VA tax framework."
+    },
+    {
+     "top": 448.6,
+     "text": "8.0 Applicable Rates and Collection of Tax"
+    },
+    {
+     "top": 465.4,
+     "text": "These rates shall apply until revised by subsequent legislation, regulation or"
+    },
+    {
+     "top": 482.1,
+     "text": "instrument issued by the Service."
+    },
+    {
+     "top": 506.9,
+     "text": "8.1 Rates and Collection mechanism"
+    },
+    {
+     "top": 533.1,
+     "text": "Tax Legislative basis Rate Collection Mechanism"
+    },
+    {
+     "top": 582.9,
+     "text": "Income tax on gains on NTA 2025 Applicable rates under Self-assessed and paid by"
+    },
+    {
+     "top": 598.7,
+     "text": "disposal. the NTA the taxpayer in"
+    },
+    {
+     "top": 616.5,
+     "text": "• Progressive rates for accordance with the filing"
+    },
+    {
+     "top": 632.2,
+     "text": "individuals and payment provisions of"
+    },
+    {
+     "top": 648.0,
+     "text": "• 30% for companies the NTAA."
+    },
+    {
+     "top": 663.7,
+     "text": "other than small"
+    },
+    {
+     "top": 679.4,
+     "text": "companies."
+    },
+    {
+     "top": 779.9,
+     "text": "13 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "lines": [
+    {
+     "top": 80.0,
+     "text": "Income tax on disposal Deduction of Tax at WHT rate of 1% on VASP/ VASP-operated P2P"
+    },
+    {
+     "top": 95.8,
+     "text": "proceeds deducted at Source Regulations gross disposal proceeds marketplaces to withhold"
+    },
+    {
+     "top": 111.5,
+     "text": "source for assets in (WHT Regulations) from the VA disposed of."
+    },
+    {
+     "top": 127.0,
+     "text": "Category 1, 3 and 5 where"
+    },
+    {
+     "top": 142.8,
+     "text": "applicable."
+    },
+    {
+     "top": 171.0,
+     "text": "Income tax on gains on NTA 2025; NTAA Applicable rates under Self-assessed and paid by"
+    },
+    {
+     "top": 187.8,
+     "text": "disposal- Category 2 (self-assessment the NTA the taxpayer in"
+    },
+    {
+     "top": 204.6,
+     "text": "stablecoins. applies). • Progressive rates for accordance with the filing"
+    },
+    {
+     "top": 220.1,
+     "text": "individuals and payment provisions of"
+    },
+    {
+     "top": 235.9,
+     "text": "• 30% for companies the NTAA."
+    },
+    {
+     "top": 273.3,
+     "text": "Income tax on income WHT Regulations 10% • Deducted at source by"
+    },
+    {
+     "top": 290.1,
+     "text": "receipts (staking, mining, payer according to the"
+    },
+    {
+     "top": 307.1,
+     "text": "airdrops, DeFi yield) WHT rules."
+    },
+    {
+     "top": 323.8,
+     "text": "(Treated as passive • Where the payer is a non-"
+    },
+    {
+     "top": 340.6,
+     "text": "income). resident person or fails to"
+    },
+    {
+     "top": 357.3,
+     "text": "deduct the tax, the"
+    },
+    {
+     "top": 374.4,
+     "text": "recipient shall declare the"
+    },
+    {
+     "top": 391.1,
+     "text": "income and account for"
+    },
+    {
+     "top": 407.9,
+     "text": "the tax in the annual self-"
+    },
+    {
+     "top": 424.6,
+     "text": "assessment return."
+    },
+    {
+     "top": 441.5,
+     "text": "• Where tax is not"
+    },
+    {
+     "top": 458.1,
+     "text": "deducted at source, the"
+    },
+    {
+     "top": 474.9,
+     "text": "taxpayer shall account for"
+    },
+    {
+     "top": 491.9,
+     "text": "the income in the annual"
+    },
+    {
+     "top": 508.6,
+     "text": "tax return."
+    },
+    {
+     "top": 779.9,
+     "text": "14 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "lines": [
+    {
+     "top": 80.0,
+     "text": "Income tax on income WHT Regulations 5% or 10% as • Deducted at source by"
+    },
+    {
+     "top": 96.8,
+     "text": "from applicable. payer according to the"
+    },
+    {
+     "top": 113.5,
+     "text": "consultancy/professional WHT rules."
+    },
+    {
+     "top": 130.3,
+     "text": "fees • Where the payer is a non-"
+    },
+    {
+     "top": 147.3,
+     "text": "resident person or fails to"
+    },
+    {
+     "top": 164.0,
+     "text": "deduct the tax, the"
+    },
+    {
+     "top": 180.8,
+     "text": "recipient shall declare the"
+    },
+    {
+     "top": 197.5,
+     "text": "income and account for"
+    },
+    {
+     "top": 214.3,
+     "text": "the tax in the annual self-"
+    },
+    {
+     "top": 231.1,
+     "text": "assessment return."
+    },
+    {
+     "top": 248.2,
+     "text": "• Where tax is not"
+    },
+    {
+     "top": 264.8,
+     "text": "deducted at source, the"
+    },
+    {
+     "top": 281.6,
+     "text": "taxpayer shall account for"
+    },
+    {
+     "top": 298.3,
+     "text": "the income in the annual"
+    },
+    {
+     "top": 315.1,
+     "text": "tax return."
+    },
+    {
+     "top": 350.3,
+     "text": "Stamp duty on Item 33, Ninth 1.5% Collected by the VASP/"
+    },
+    {
+     "top": 367.1,
+     "text": "TOKEN/FIAT transactions. Schedule to the VASP-operated P2P"
+    },
+    {
+     "top": 384.1,
+     "text": "NTA 2025 marketplaces from the VA"
+    },
+    {
+     "top": 400.9,
+     "text": "credited to the transferee."
+    },
+    {
+     "top": 417.6,
+     "text": "The fiat consideration"
+    },
+    {
+     "top": 434.4,
+     "text": "shall not be reduced by"
+    },
+    {
+     "top": 451.1,
+     "text": "the amount of the stamp"
+    },
+    {
+     "top": 467.9,
+     "text": "duty."
+    },
+    {
+     "top": 503.1,
+     "text": "VAT on VASP service fees NTA 2025 7.5% VASP/ VASP-operated P2P"
+    },
+    {
+     "top": 519.9,
+     "text": "marketplaces to deduct"
+    },
+    {
+     "top": 536.6,
+     "text": "and remit the Service in"
+    },
+    {
+     "top": 553.7,
+     "text": "accordance with the"
+    },
+    {
+     "top": 570.4,
+     "text": "NTAA."
+    },
+    {
+     "top": 605.7,
+     "text": "Income tax on VASP NTA 2025 30%, subject to section VASP self-assess and file"
+    },
+    {
+     "top": 622.4,
+     "text": "profits 57 of the NTA. income tax returns of"
+    },
+    {
+     "top": 639.2,
+     "text": "companies."
+    },
+    {
+     "top": 694.2,
+     "text": "8.2 Collection Mechanism for Peer-to-Peer (P2P) Activity"
+    },
+    {
+     "top": 719.0,
+     "text": "The following is the P2P transaction category and collection mechanism subject to"
+    },
+    {
+     "top": 735.7,
+     "text": "supervised intermediary."
+    },
+    {
+     "top": 779.9,
+     "text": "15 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "Category Description Collection Mechanism"
+    },
+    {
+     "top": 105.3,
+     "text": "Category A — P2P The VASP holds the seller's VA Full collection obligation under paragraph"
+    },
+    {
+     "top": 121.0,
+     "text": "on VASP-operated in escrow, matches parties, 8.1. Same as regular exchange VASPs."
+    },
+    {
+     "top": 136.5,
+     "text": "marketplace with confirms the fiat payment leg,"
+    },
+    {
+     "top": 152.3,
+     "text": "escrow and releases the asset to the"
+    },
+    {
+     "top": 168.0,
+     "text": "buyer on confirmation."
+    },
+    {
+     "top": 194.3,
+     "text": "Category B — P2P Platform matches parties but Same treatment as regular exchange"
+    },
+    {
+     "top": 209.8,
+     "text": "on facilitation does not hold assets. May be a VASPs."
+    },
+    {
+     "top": 225.6,
+     "text": "platform without VASP if it systematically Registration and reporting obligations"
+    },
+    {
+     "top": 241.3,
+     "text": "escrow facilitates VA transactions. apply where the platform qualifies as a"
+    },
+    {
+     "top": 259.1,
+     "text": "VASP."
+    },
+    {
+     "top": 285.1,
+     "text": "Category C — True No intermediary of any kind. Annual Self-assessment returns by"
+    },
+    {
+     "top": 300.8,
+     "text": "off-platform bilateral Wallet-to-wallet, messaging taxpayer applies."
+    },
+    {
+     "top": 316.6,
+     "text": "transactions apps, in-person arrangements."
+    },
+    {
+     "top": 363.6,
+     "text": "9.0 VALUATION AND COMPUTATION OF TAXABLE GAINS"
+    },
+    {
+     "top": 388.4,
+     "text": "9.1 The dollar-referenced gain computation"
+    },
+    {
+     "top": 413.1,
+     "text": "9.1.1 The Rule"
+    },
+    {
+     "top": 437.9,
+     "text": "(1) The income tax on gain arising from the disposal of VA in Category 1 is computed"
+    },
+    {
+     "top": 454.6,
+     "text": "by reference to the USD value of the asset at acquisition and at disposal. Only the"
+    },
+    {
+     "top": 471.4,
+     "text": "resulting dollar gain is then converted to Naira at the CBN/NAFEM rate on the disposal"
+    },
+    {
+     "top": 488.1,
+     "text": "date for the purpose of determining the Naira tax liability."
+    },
+    {
+     "top": 513.1,
+     "text": "(2) Gains arising on disposal of VA in Category 2 are measured against the underlying"
+    },
+    {
+     "top": 529.9,
+     "text": "pegged fiat currency and will in normal circumstances be nil or negligible."
+    },
+    {
+     "top": 554.7,
+     "text": "9.1.2 The Computation Formula"
+    },
+    {
+     "top": 579.4,
+     "text": "Step 1 — Dollar cost base: The USD price of the asset at acquisition."
+    },
+    {
+     "top": 604.2,
+     "text": "a. For fiat acquisitions, total fiat paid divided by net token units received after"
+    },
+    {
+     "top": 620.9,
+     "text": "stamp duty deduction, converted to dollars at the CBN/NAFEM rate on the"
+    },
+    {
+     "top": 637.7,
+     "text": "acquisition date."
+    },
+    {
+     "top": 654.4,
+     "text": "b. For swap acquisitions: the dollar FMV of the asset received on the swap date."
+    },
+    {
+     "top": 679.4,
+     "text": "Step 2 — Dollar disposal proceeds. The USD price of the asset at disposal."
+    },
+    {
+     "top": 704.2,
+     "text": "a. For fiat disposals: Naira proceeds received divided by the CBN/NAFEM rate on"
+    },
+    {
+     "top": 721.0,
+     "text": "the disposal date."
+    },
+    {
+     "top": 737.7,
+     "text": "b. For swap disposals: the dollar FMV of the asset received on the swap date."
+    },
+    {
+     "top": 779.9,
+     "text": "16 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "Step 3 — Dollar gain or loss. Dollar disposal proceeds minus dollar cost base. If"
+    },
+    {
+     "top": 91.3,
+     "text": "negative, this is a dollar loss available for annual netting under paragraph 9.4."
+    },
+    {
+     "top": 116.0,
+     "text": "Step 4 — Naira taxable gain. Multiply the dollar gain by the CBN/NAFEM rate on"
+    },
+    {
+     "top": 132.8,
+     "text": "the disposal date. The resulting Naira figure is the assessable gain for income tax"
+    },
+    {
+     "top": 149.5,
+     "text": "purposes."
+    },
+    {
+     "top": 174.5,
+     "text": "Step 5 — Token deducted at source."
+    },
+    {
+     "top": 199.3,
+     "text": "a. Apply the applicable WHT rate (paragraph 8.0) to the gross disposal proceeds"
+    },
+    {
+     "top": 221.1,
+     "text": "expressed in token terms to determine the token quantity to be withheld by the"
+    },
+    {
+     "top": 242.6,
+     "text": "VASP at source."
+    },
+    {
+     "top": 264.3,
+     "text": "b. WHT is computed on gross proceeds, not on the gain."
+    },
+    {
+     "top": 286.1,
+     "text": "c. The Naira equivalent of the withheld token at the CBN/NAFEM rate on the"
+    },
+    {
+     "top": 307.8,
+     "text": "withholding date constitutes the taxpayer's WHT credit on the annual return."
+    },
+    {
+     "top": 337.6,
+     "text": "Illustration 2 — Disposal for fiat with dollar-referenced gain"
+    },
+    {
+     "top": 362.3,
+     "text": "1. User A acquires 0.985 BTC (net after stamp duty) by paying ₦1,000,000."
+    },
+    {
+     "top": 384.1,
+     "text": "CBN/NAFEM rate at acquisition = ₦1,000/$."
+    },
+    {
+     "top": 405.9,
+     "text": "2. Dollar cost base = $1,000 (= ₦1,000,000 ÷ ₦1,000/$)."
+    },
+    {
+     "top": 427.6,
+     "text": "3. User A sells 0.985 BTC. Proceeds = ₦1,970,000. Rate at disposal ="
+    },
+    {
+     "top": 449.4,
+     "text": "₦1,500/$."
+    },
+    {
+     "top": 471.1,
+     "text": "4. Dollar disposal proceeds = $1,313.33. Dollar gain = $313.33."
+    },
+    {
+     "top": 492.9,
+     "text": "5. Taxable Naira gain = $313.33 × ₦1,500 = ₦470,000. The Naira depreciation"
+    },
+    {
+     "top": 514.6,
+     "text": "component (₦500,000) is excluded from taxable income."
+    },
+    {
+     "top": 536.1,
+     "text": "6. For comparison: Under a straight Naira-to-Naira computation (without the"
+    },
+    {
+     "top": 557.9,
+     "text": "dollar-referenced methodology), the apparent gain would be ₦1,970,000 −"
+    },
+    {
+     "top": 579.7,
+     "text": "₦1,000,000 = ₦970,000. The difference of ₦500,000 represents the effect"
+    },
+    {
+     "top": 601.4,
+     "text": "of Naira depreciation from ₦1,000/$ to ₦1,500/$ during the holding period."
+    },
+    {
+     "top": 623.2,
+     "text": "Only the real dollar gain of $313.33, converted at the disposal date rate, is"
+    },
+    {
+     "top": 644.9,
+     "text": "assessable."
+    },
+    {
+     "top": 674.7,
+     "text": "Illustration 3 — TOKEN/TOKEN swap"
+    },
+    {
+     "top": 699.4,
+     "text": "1. User A acquired 2 ETH at $1,500 per ETH. Dollar cost base = 2 × $1,500 ="
+    },
+    {
+     "top": 721.2,
+     "text": "$3,000."
+    },
+    {
+     "top": 779.9,
+     "text": "17 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "2. User A swaps 2 ETH for 0.1 BTC when ETH = $2,000 and BTC = $40,000. The"
+    },
+    {
+     "top": 96.3,
+     "text": "swap is treated as a disposal of 2 ETH and an acquisition of 0.1 BTC."
+    },
+    {
+     "top": 118.0,
+     "text": "3. The FMV of the ETH disposed of is 2 × US$2,000 = US$4,000. Accordingly,"
+    },
+    {
+     "top": 139.8,
+     "text": "the gross disposal proceeds are US$4,000."
+    },
+    {
+     "top": 161.5,
+     "text": "4. The gain on disposal is computed as follows — (i) Dollar disposal proceeds ="
+    },
+    {
+     "top": 183.3,
+     "text": "US$4,000 (ii) Dollar cost base = US$3,000 (iii) Dollar gain = US$1,000"
+    },
+    {
+     "top": 204.8,
+     "text": "5. CBN/NAFEM rate on swap date = ₦1,600/$. Taxable Naira gain = $1,000 ×"
+    },
+    {
+     "top": 226.6,
+     "text": "₦1,600 = ₦1,600,000."
+    },
+    {
+     "top": 248.3,
+     "text": "6. The VASP shall deduct withholding tax at 1% of the gross disposal proceeds"
+    },
+    {
+     "top": 270.1,
+     "text": "from the ETH disposed of."
+    },
+    {
+     "top": 291.8,
+     "text": "Gross disposal proceeds = 2 ETH"
+    },
+    {
+     "top": 313.6,
+     "text": "Withholding Tax = 1% × 2 ETH = 0.02 ETH"
+    },
+    {
+     "top": 335.3,
+     "text": "The VASP shall remit 0.02 ETH to the Service. This amount enters the annual"
+    },
+    {
+     "top": 357.1,
+     "text": "netting calculation as a WHT credit."
+    },
+    {
+     "top": 378.9,
+     "text": "7. Dollar cost base of 0.1 BTC acquired = FMV of ETH given up = $4,000. This"
+    },
+    {
+     "top": 400.6,
+     "text": "becomes the starting cost base for computing the gain when User A"
+    },
+    {
+     "top": 422.4,
+     "text": "subsequently disposes of the BTC."
+    },
+    {
+     "top": 451.9,
+     "text": "9.2 Assets not in USD"
+    },
+    {
+     "top": 476.9,
+     "text": "(1) Where a token is not directly priced in USD, its dollar FMV is derived by converting"
+    },
+    {
+     "top": 493.6,
+     "text": "through its primary trading pair at the transaction timestamp. For example, a token"
+    },
+    {
+     "top": 510.4,
+     "text": "priced in Bitcoin is converted to dollars using the Bitcoin dollar price at that timestamp;"
+    },
+    {
+     "top": 527.1,
+     "text": "a token priced in Ether is converted using the Ether dollar price."
+    },
+    {
+     "top": 551.9,
+     "text": "(2) All prices must be sourced from an aggregator approved by the Service. The"
+    },
+    {
+     "top": 568.7,
+     "text": "Service shall publish on its website, and may update from time to time, the list of"
+    },
+    {
+     "top": 585.4,
+     "text": "approved aggregators or valuation sources for the purposes of these Guidelines."
+    },
+    {
+     "top": 610.2,
+     "text": "(3) The USD remains the reference currency for all gain computations."
+    },
+    {
+     "top": 634.9,
+     "text": "(4) Where no verifiable market price exists in any trading pair, the taxpayer must"
+    },
+    {
+     "top": 651.9,
+     "text": "document the valuation methodology and retain it for at least six years unless"
+    },
+    {
+     "top": 668.7,
+     "text": "otherwise permitted by the Service."
+    },
+    {
+     "top": 693.4,
+     "text": "9.3 Cost base"
+    },
+    {
+     "top": 718.2,
+     "text": "9.3.1 Fiat acquisitions"
+    },
+    {
+     "top": 779.9,
+     "text": "18 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(1) The cost base per unit is the total fiat consideration paid divided by the net token"
+    },
+    {
+     "top": 91.3,
+     "text": "units received after stamp duty deduction, converted to dollars at the CBN/NAFEM"
+    },
+    {
+     "top": 108.0,
+     "text": "rate on the acquisition date."
+    },
+    {
+     "top": 132.8,
+     "text": "(2) Where the cost base per unit therefore exceeds the market price per unit by the"
+    },
+    {
+     "top": 149.5,
+     "text": "stamp duty component, then the duty paid at acquisition is embedded in the cost base"
+    },
+    {
+     "top": 166.5,
+     "text": "and is not separately deductible at disposal."
+    },
+    {
+     "top": 191.3,
+     "text": "9.3.2 TOKEN/TOKEN swap"
+    },
+    {
+     "top": 216.1,
+     "text": "The cost base of the new token received is the dollar FMV of the token disposed of at"
+    },
+    {
+     "top": 232.8,
+     "text": "the swap date, divided by the number of units of the new token received."
+    },
+    {
+     "top": 257.6,
+     "text": "9.3.3 Gratuitous receipts"
+    },
+    {
+     "top": 282.3,
+     "text": "(1) For gratuitous receipts including staking rewards, mining rewards, airdrops with a"
+    },
+    {
+     "top": 299.1,
+     "text": "realisable FMV at receipt, hard forks and promotional tokens, the cost base is stepped"
+    },
+    {
+     "top": 315.8,
+     "text": "up to the dollar FMV at the time of receipt, since the full receipt value is already"
+    },
+    {
+     "top": 332.6,
+     "text": "assessable as income at that point."
+    },
+    {
+     "top": 357.6,
+     "text": "(2) For hard fork distributions with no realisable FMV at the date of receipt, the cost"
+    },
+    {
+     "top": 374.4,
+     "text": "base is nil and the full disposal proceeds are taxable on first disposal, consistent with"
+    },
+    {
+     "top": 391.1,
+     "text": "treatment under paragraph 9.6"
+    },
+    {
+     "top": 415.9,
+     "text": "(3) FIFO is the default cost base method, or Weighted Average Cost is accepted as an"
+    },
+    {
+     "top": 432.6,
+     "text": "alternative where elected consistently from the commencement of VA activity and"
+    },
+    {
+     "top": 449.4,
+     "text": "applied without interruption. A taxpayer shall not switch methods retrospectively."
+    },
+    {
+     "top": 474.1,
+     "text": "9.4 Annual netting of gains and losses"
+    },
+    {
+     "top": 498.9,
+     "text": "(1) Gains and losses from all VA disposals in a year of assessment shall be computed"
+    },
+    {
+     "top": 515.6,
+     "text": "in USD and netted at year-end."
+    },
+    {
+     "top": 540.6,
+     "text": "(2) Each disposal gain or loss shall first be computed in USD and then converted to"
+    },
+    {
+     "top": 557.4,
+     "text": "Naira using the CBN/NAFEM exchange rate on the date of the transaction."
+    },
+    {
+     "top": 582.2,
+     "text": "(3) The resulting Naira amounts shall be aggregated to determine the net assessable"
+    },
+    {
+     "top": 598.9,
+     "text": "income (or loss) from VA disposals for the year."
+    },
+    {
+     "top": 623.7,
+     "text": "(4) Tax withheld by VASPs shall be credited against the final tax liability, with any"
+    },
+    {
+     "top": 640.4,
+     "text": "balance payable or refundable through the annual return."
+    },
+    {
+     "top": 665.2,
+     "text": "(5) VA losses may only be set off against VA gains."
+    },
+    {
+     "top": 689.9,
+     "text": "(6) Losses from non-VA activities shall not be offset against VA gains, and VA losses"
+    },
+    {
+     "top": 706.7,
+     "text": "shall not be offset against non-VA income as provided under section 27 of the NTA."
+    },
+    {
+     "top": 731.7,
+     "text": "(7) Capital losses may be carried forward indefinitely and set off only against future"
+    },
+    {
+     "top": 748.5,
+     "text": "VA gains."
+    },
+    {
+     "top": 779.9,
+     "text": "19 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(8) In the case of individuals, trading losses incurred in the course of a VA trading"
+    },
+    {
+     "top": 91.3,
+     "text": "business shall be deductible subject to section 28 of the NTA while in the case of"
+    },
+    {
+     "top": 108.0,
+     "text": "companies, trading losses shall be carried forward in accordance with the provisions"
+    },
+    {
+     "top": 124.8,
+     "text": "of NTA."
+    },
+    {
+     "top": 149.5,
+     "text": "(9) Losses arising from transactions between connected persons shall be computed"
+    },
+    {
+     "top": 166.5,
+     "text": "by reference to the FMV of the asset at the time of disposal, and not the actual"
+    },
+    {
+     "top": 183.3,
+     "text": "consideration."
+    },
+    {
+     "top": 208.1,
+     "text": "9.5 Special rules for certain transactions"
+    },
+    {
+     "top": 232.8,
+     "text": "The following rules shall apply to specified VA transactions—"
+    },
+    {
+     "top": 257.6,
+     "text": "(1) Stablecoins: Gains arising from the disposal of stablecoins shall be determined by"
+    },
+    {
+     "top": 274.3,
+     "text": "reference to the underlying pegged fiat currency. No withholding tax shall apply to the"
+    },
+    {
+     "top": 291.1,
+     "text": "disposal of stablecoins. Any taxable gain shall be reported through the self-assessment"
+    },
+    {
+     "top": 307.8,
+     "text": "return."
+    },
+    {
+     "top": 332.6,
+     "text": "(2) Cross-border Transactions: The conversion of Naira into VAs for cross-border"
+    },
+    {
+     "top": 349.6,
+     "text": "settlement shall not constitute a taxable disposal for the purpose of income tax. Any"
+    },
+    {
+     "top": 366.3,
+     "text": "subsequent disposal of the VA shall be subject to the applicable tax provisions."
+    },
+    {
+     "top": 391.1,
+     "text": "(3) Employment and Professional Income: VAs received as employment income or"
+    },
+    {
+     "top": 407.9,
+     "text": "emoluments, or professional fees shall be valued at their FMV on the date of receipt"
+    },
+    {
+     "top": 424.6,
+     "text": "and taxed in accordance with the applicable provisions of the NTA."
+    },
+    {
+     "top": 449.4,
+     "text": "(4) Staking, Mining and DeFi Rewards: VAs received as staking rewards, mining"
+    },
+    {
+     "top": 466.1,
+     "text": "rewards, liquidity rewards or other decentralised finance incentives shall constitute"
+    },
+    {
+     "top": 482.9,
+     "text": "taxable income on the date of receipt. The value recognised as income shall become"
+    },
+    {
+     "top": 499.6,
+     "text": "the acquisition cost of the asset."
+    },
+    {
+     "top": 524.6,
+     "text": "(5) Non-Fungible Tokens: Income derived by a creator from the sale of an NFT shall"
+    },
+    {
+     "top": 541.4,
+     "text": "constitute business income. Gains arising from the disposal of an NFT held as an"
+    },
+    {
+     "top": 558.2,
+     "text": "investment shall be taxed in accordance with these Guidelines."
+    },
+    {
+     "top": 582.9,
+     "text": "9.6 Airdrop computation"
+    },
+    {
+     "top": 599.7,
+     "text": "(1) The taxable amount is the FMV of the received tokens in USD on the date of"
+    },
+    {
+     "top": 621.4,
+     "text": "receipt, converted to Naira using the prevailing CBN/NAFEM exchange rate on that"
+    },
+    {
+     "top": 643.2,
+     "text": "date."
+    },
+    {
+     "top": 664.9,
+     "text": "(2) The cost base of the received tokens is stepped up to the FMV at receipt to prevent"
+    },
+    {
+     "top": 686.7,
+     "text": "double taxation on future disposal."
+    },
+    {
+     "top": 708.4,
+     "text": "(3) In the case of a hard fork, the cost base of the original tokens remains unchanged"
+    },
+    {
+     "top": 730.0,
+     "text": "and is not reduced or apportioned. The new tokens acquire a separate cost base"
+    },
+    {
+     "top": 751.7,
+     "text": "equal to their FMV on the date of receipt."
+    },
+    {
+     "top": 779.9,
+     "text": "20 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(4) Where no active market, observable bid price, or redemption mechanism exists at"
+    },
+    {
+     "top": 96.3,
+     "text": "receipt, the taxable amount at receipt is nil. Tax is deferred until first disposal, at"
+    },
+    {
+     "top": 118.0,
+     "text": "which point the full disposal proceeds (converted to Naira) are taxable with a nil"
+    },
+    {
+     "top": 139.8,
+     "text": "cost base."
+    },
+    {
+     "top": 161.5,
+     "text": "(5) Taxpayers must document the absence of FMV at receipt and retain records for"
+    },
+    {
+     "top": 183.3,
+     "text": "six (6) years."
+    },
+    {
+     "top": 204.8,
+     "text": "(6) Tokens with no identifiable issuer/origin, no realisable FMV, and no prospect of"
+    },
+    {
+     "top": 226.6,
+     "text": "realisation attract no tax liability at receipt or on disposal (unless actual proceeds"
+    },
+    {
+     "top": 248.3,
+     "text": "are received)."
+    },
+    {
+     "top": 270.1,
+     "text": "(7) Sub-paragraphs (4) to (6) does not apply to airdrops or hard fork distributions"
+    },
+    {
+     "top": 291.8,
+     "text": "which remain subject to the general rules, i.e. those with no observable FMV or"
+    },
+    {
+     "top": 313.6,
+     "text": "that are effectively worthless, benefit from the deferred taxation rule."
+    },
+    {
+     "top": 343.3,
+     "text": "10.0 Wrapped Tokens and DeFi Receipt Tokens"
+    },
+    {
+     "top": 365.1,
+     "text": "10.1 Wrapped tokens"
+    },
+    {
+     "top": 386.9,
+     "text": "(1) The conversion of a VA into its wrapped equivalent, including the conversion of"
+    },
+    {
+     "top": 408.6,
+     "text": "Bitcoin (BTC) into Wrapped Bitcoin (WBTC), shall not constitute a taxable disposal"
+    },
+    {
+     "top": 430.4,
+     "text": "where —"
+    },
+    {
+     "top": 451.9,
+     "text": "(a) the taxpayer retains the beneficial ownership of the underlying VA;"
+    },
+    {
+     "top": 473.6,
+     "text": "(b) the wrapped token represents the same underlying asset; and"
+    },
+    {
+     "top": 495.4,
+     "text": "(c) no consideration is received other than the wrapped token."
+    },
+    {
+     "top": 517.1,
+     "text": "(2) The acquisition cost and holding period of the original VA shall be carried over to"
+    },
+    {
+     "top": 538.9,
+     "text": "the wrapped token."
+    },
+    {
+     "top": 560.7,
+     "text": "(3) The subsequent unwrapping or redemption of the wrapped token for the"
+    },
+    {
+     "top": 582.4,
+     "text": "underlying VA shall likewise not constitute a taxable disposal."
+    },
+    {
+     "top": 604.2,
+     "text": "10.2 DeFi receipt tokens"
+    },
+    {
+     "top": 625.9,
+     "text": "(1) The deposit of a VA into a decentralised finance protocol in exchange for a receipt"
+    },
+    {
+     "top": 647.7,
+     "text": "token, including the deposit of Ether (ETH) in exchange for stETH or similar receipt"
+    },
+    {
+     "top": 669.2,
+     "text": "tokens, shall not constitute a taxable disposal where —"
+    },
+    {
+     "top": 690.9,
+     "text": "(a) the receipt token represents the taxpayer's continuing interest in the deposited"
+    },
+    {
+     "top": 712.7,
+     "text": "VA;"
+    },
+    {
+     "top": 734.5,
+     "text": "(b) the taxpayer retains the beneficial ownership of the underlying asset; and"
+    },
+    {
+     "top": 756.2,
+     "text": "(c) the transaction does not result in the realisation of value."
+    },
+    {
+     "top": 779.9,
+     "text": "21 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(2) The cost base and holding period of the underlying VA shall be transferred to the"
+    },
+    {
+     "top": 96.3,
+     "text": "receipt token."
+    },
+    {
+     "top": 118.0,
+     "text": "10.3 Subsequent disposal"
+    },
+    {
+     "top": 139.8,
+     "text": "Where a wrapped token or DeFi receipt token is—"
+    },
+    {
+     "top": 161.5,
+     "text": "(a) sold;"
+    },
+    {
+     "top": 183.3,
+     "text": "(b) exchanged for another VA;"
+    },
+    {
+     "top": 204.8,
+     "text": "(c) used as consideration for goods or services; or"
+    },
+    {
+     "top": 226.6,
+     "text": "(d) otherwise disposed of in a transaction involving a change in beneficial"
+    },
+    {
+     "top": 248.3,
+     "text": "ownership,"
+    },
+    {
+     "top": 270.1,
+     "text": "the transaction shall constitute a taxable disposal, and the gain or loss shall be"
+    },
+    {
+     "top": 291.8,
+     "text": "computed in accordance with these Guidelines."
+    },
+    {
+     "top": 313.6,
+     "text": "10.4 Income from Wrapped Tokens and DeFi Protocols"
+    },
+    {
+     "top": 335.3,
+     "text": "(1) Income derived from wrapped tokens or DeFi receipt tokens, shall constitute"
+    },
+    {
+     "top": 357.1,
+     "text": "taxable income on the date the taxpayer acquires unrestricted ownership or control of"
+    },
+    {
+     "top": 378.9,
+     "text": "the income."
+    },
+    {
+     "top": 400.6,
+     "text": "(2) The FMV recognised as income shall constitute the acquisition cost of the VA"
+    },
+    {
+     "top": 422.4,
+     "text": "received for the purpose of any subsequent disposal."
+    },
+    {
+     "top": 468.9,
+     "text": "11.0 Remittance of tax"
+    },
+    {
+     "top": 493.6,
+     "text": "11.1 Token-native remittance"
+    },
+    {
+     "top": 518.4,
+     "text": "(1) Income tax deducted at source and stamp duty shall be remitted to the Service"
+    },
+    {
+     "top": 540.1,
+     "text": "in the originating token of the transaction."
+    },
+    {
+     "top": 561.9,
+     "text": "(2) VAT shall be remitted in the currency of transaction in all cases."
+    },
+    {
+     "top": 583.4,
+     "text": "(3) No intermediate Naira conversion is required at the point of withholding for"
+    },
+    {
+     "top": 605.2,
+     "text": "income tax or stamp duty."
+    },
+    {
+     "top": 626.9,
+     "text": "(4) Naira translation for income tax purposes shall occur only once, at the annual"
+    },
+    {
+     "top": 648.7,
+     "text": "tax return stage, using the CBN/NAFEM exchange rate applicable on each"
+    },
+    {
+     "top": 670.4,
+     "text": "transaction date."
+    },
+    {
+     "top": 700.2,
+     "text": "11.2 Token Treasury"
+    },
+    {
+     "top": 725.0,
+     "text": "(1) For the initial implementation of these Guidelines, the Service shall accept only"
+    },
+    {
+     "top": 746.7,
+     "text": "tokens that are supported and transacted by participating registered VASPs."
+    },
+    {
+     "top": 779.9,
+     "text": "22 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 23,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "The Service may publish and update the list of supported tokens from time to"
+    },
+    {
+     "top": 96.3,
+     "text": "time."
+    },
+    {
+     "top": 118.0,
+     "text": "(2) Where a token is not on the list of supported tokens and requires conversion"
+    },
+    {
+     "top": 139.8,
+     "text": "to a supported token, the cost of such conversion shall be borne by the Service"
+    },
+    {
+     "top": 161.5,
+     "text": "and shall not reduce the taxpayer’s WHT credit."
+    },
+    {
+     "top": 183.3,
+     "text": "(3) The list of supported tokens is for the purposes of remittance and shall not"
+    },
+    {
+     "top": 204.8,
+     "text": "determine whether a VA is taxable."
+    },
+    {
+     "top": 234.6,
+     "text": "11.3 Currency of Remittance per transaction Type"
+    },
+    {
+     "top": 263.8,
+     "text": "Transaction Income tax WHT Stamp duty remittance VAT remittance"
+    },
+    {
+     "top": 279.6,
+     "text": "type remittance"
+    },
+    {
+     "top": 305.8,
+     "text": "FIAT/TOKEN • no income tax at • Token received by • VAT on VASP"
+    },
+    {
+     "top": 321.6,
+     "text": "acquisition acquisition; buyer, service fee"
+    },
+    {
+     "top": 337.4,
+     "text": "• cost base established • withheld in token units; • Remittance in"
+    },
+    {
+     "top": 353.2,
+     "text": "• remitted in token currency of"
+    },
+    {
+     "top": 368.8,
+     "text": "transaction"
+    },
+    {
+     "top": 394.9,
+     "text": "Cross-border • no income tax at • Token credited to • VAT on intermediary"
+    },
+    {
+     "top": 410.6,
+     "text": "B2B payment - conversion; Nigerian business, service fee"
+    },
+    {
+     "top": 426.4,
+     "text": "Naira-to-token • cost base established • withheld in token units • Remittance in"
+    },
+    {
+     "top": 442.1,
+     "text": "conversion by Nigerian intermediary currency of"
+    },
+    {
+     "top": 457.9,
+     "text": "before onward transaction"
+    },
+    {
+     "top": 473.6,
+     "text": "transmission;"
+    },
+    {
+     "top": 489.2,
+     "text": "• remitted in token"
+    },
+    {
+     "top": 513.4,
+     "text": "TOKEN/FIAT Token being disposed of • Token received by • VAT on VASP"
+    },
+    {
+     "top": 529.1,
+     "text": "disposal (originating token) buyer/counterparty, service fee"
+    },
+    {
+     "top": 545.0,
+     "text": "• withheld in token units; • Remittance in"
+    },
+    {
+     "top": 560.8,
+     "text": "• remitted in token currency of"
+    },
+    {
+     "top": 576.4,
+     "text": "transaction"
+    },
+    {
+     "top": 602.7,
+     "text": "TOKEN/TOKEN Token being disposed of N/A. • VAT on VASP"
+    },
+    {
+     "top": 618.2,
+     "text": "swap (originating token) service fee"
+    },
+    {
+     "top": 634.0,
+     "text": "• Remittance in"
+    },
+    {
+     "top": 649.7,
+     "text": "currency of"
+    },
+    {
+     "top": 665.4,
+     "text": "transaction"
+    },
+    {
+     "top": 691.7,
+     "text": "Gratuitous Token received N/A N/A"
+    },
+    {
+     "top": 707.4,
+     "text": "receipts"
+    },
+    {
+     "top": 723.0,
+     "text": "(staking,"
+    },
+    {
+     "top": 779.9,
+     "text": "23 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 24,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "mining,"
+    },
+    {
+     "top": 94.8,
+     "text": "airdrops)"
+    },
+    {
+     "top": 121.0,
+     "text": "Employment • Naira Remittance, N/A Remittance in currency"
+    },
+    {
+     "top": 136.5,
+     "text": "income or • deducted by of transaction where"
+    },
+    {
+     "top": 152.3,
+     "text": "emoluments / employer at source applicable"
+    },
+    {
+     "top": 168.0,
+     "text": "PAYE where it is a resident"
+    },
+    {
+     "top": 183.8,
+     "text": "taxpayer;"
+    },
+    {
+     "top": 199.6,
+     "text": "• self-assessed by"
+    },
+    {
+     "top": 215.3,
+     "text": "recipient on annual"
+    },
+    {
+     "top": 231.1,
+     "text": "return where"
+    },
+    {
+     "top": 246.6,
+     "text": "employer is non-"
+    },
+    {
+     "top": 262.3,
+     "text": "resident or does not"
+    },
+    {
+     "top": 278.1,
+     "text": "deduct."
+    },
+    {
+     "top": 304.3,
+     "text": "Professional • Naira Remittance, N/A Remittance in currency"
+    },
+    {
+     "top": 319.8,
+     "text": "fees in VA • deducted by payer at of transaction where"
+    },
+    {
+     "top": 335.8,
+     "text": "source where the applicable"
+    },
+    {
+     "top": 351.3,
+     "text": "payer is a Nigerian"
+    },
+    {
+     "top": 367.1,
+     "text": "taxpayer;"
+    },
+    {
+     "top": 383.0,
+     "text": "• self-assessed by"
+    },
+    {
+     "top": 398.6,
+     "text": "recipient on annual"
+    },
+    {
+     "top": 414.4,
+     "text": "return;"
+    },
+    {
+     "top": 430.0,
+     "text": "• self-assessed by"
+    },
+    {
+     "top": 445.6,
+     "text": "recipient where payer"
+    },
+    {
+     "top": 461.4,
+     "text": "is non-resident or"
+    },
+    {
+     "top": 477.1,
+     "text": "does not deduct."
+    },
+    {
+     "top": 524.1,
+     "text": "12.0 Taxpayer Obligations"
+    },
+    {
+     "top": 540.9,
+     "text": "(1) Any person engaged in VAs activities shall register for tax purposes and obtain"
+    },
+    {
+     "top": 557.7,
+     "text": "a Tax ID."
+    },
+    {
+     "top": 574.4,
+     "text": "(2) VASPs and P2P escrow operators are required to make a valid Tax ID a"
+    },
+    {
+     "top": 591.2,
+     "text": "precondition for account activation in accordance with section 8 of the NTAA."
+    },
+    {
+     "top": 624.9,
+     "text": "12.1 Obligations of VASPs"
+    },
+    {
+     "top": 649.7,
+     "text": "Every VASP and P2P marketplace operator shall —"
+    },
+    {
+     "top": 674.4,
+     "text": "(a) deduct tax from taxable transactions outlined in these Guidelines;"
+    },
+    {
+     "top": 691.2,
+     "text": "(b) collect stamp duty where applicable as provided under these Guidelines;"
+    },
+    {
+     "top": 707.9,
+     "text": "(c) charge and account for VAT on taxable supplies;"
+    },
+    {
+     "top": 779.9,
+     "text": "24 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 25,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "(d) remit all taxes collected or withheld, to the relevant tax authority within the"
+    },
+    {
+     "top": 91.3,
+     "text": "time specified in NTAA or the Deduction of Tax at Source (Withholding)"
+    },
+    {
+     "top": 108.0,
+     "text": "Regulations;"
+    },
+    {
+     "top": 124.8,
+     "text": "(e) submit all returns provided in sections 11, 22, 25, 28 and any other relevant"
+    },
+    {
+     "top": 141.5,
+     "text": "returns provided under the NTAA; and"
+    },
+    {
+     "top": 158.5,
+     "text": "(f) maintain records in accordance with section 31 and the Fifth Schedule to the"
+    },
+    {
+     "top": 175.3,
+     "text": "NTAA."
+    },
+    {
+     "top": 216.8,
+     "text": "13.0 Non-compliance"
+    },
+    {
+     "top": 241.6,
+     "text": "The penalties set out in this paragraph apply to the defaults relating to compliance"
+    },
+    {
+     "top": 258.3,
+     "text": "with these Guidelines and are without prejudice to the application of any other penalty,"
+    },
+    {
+     "top": 275.1,
+     "text": "interest or offence prescribed under the NTAA or any other applicable law –"
+    },
+    {
+     "top": 304.3,
+     "text": "Default Penalty"
+    },
+    {
+     "top": 330.6,
+     "text": "1. Failure to register ₦50,000 (first month); ₦25,000 per"
+    },
+    {
+     "top": 346.3,
+     "text": "subsequent month."
+    },
+    {
+     "top": 372.6,
+     "text": "2. Failure to file returns or filing incomplete ₦100,000 (first month); ₦50,000 per"
+    },
+    {
+     "top": 388.1,
+     "text": "returns subsequent month of default."
+    },
+    {
+     "top": 414.4,
+     "text": "3. Failure to keep books and records ₦50,000 (company); ₦10,000 (individual)."
+    },
+    {
+     "top": 440.6,
+     "text": "4. Failure to deduct tax at source 40% of the amount not deducted."
+    },
+    {
+     "top": 466.9,
+     "text": "5. Failure to remit tax deducted at source 10% per annum + CBN MPR interest + amount"
+    },
+    {
+     "top": 482.4,
+     "text": "deducted but not remitted."
+    },
+    {
+     "top": 508.6,
+     "text": "6. VASP or P2P marketplace operator non- ₦10,000,000 (first month); ₦1,000,000 per"
+    },
+    {
+     "top": 524.4,
+     "text": "compliance subsequent month of default."
+    },
+    {
+     "top": 550.7,
+     "text": "7. False or fictitious VAT refund claim 100% of amount claimed + CBN MPR interest."
+    },
+    {
+     "top": 576.9,
+     "text": "8. Non-payment of tax — Naira transactions 10% of amount due + CBN MPR interest."
+    },
+    {
+     "top": 602.9,
+     "text": "9. Non-payment of tax — foreign currency 10% of amount due + SOFR plus spread."
+    },
+    {
+     "top": 618.7,
+     "text": "transactions"
+    },
+    {
+     "top": 644.9,
+     "text": "10. Failure to attend to demands, request or ₦100,000 (first day); ₦10,000 per subsequent"
+    },
+    {
+     "top": 660.7,
+     "text": "notices day of default."
+    },
+    {
+     "top": 686.7,
+     "text": "11. Failure to disclose facts in a dutiable ₦100,000 (administrative penalty), fine of"
+    },
+    {
+     "top": 702.4,
+     "text": "instrument; and ₦50,000 (on conviction), imprisonment term"
+    },
+    {
+     "top": 718.2,
+     "text": "not exceeding three years or both fine and"
+    },
+    {
+     "top": 734.0,
+     "text": "imprisonment."
+    },
+    {
+     "top": 779.9,
+     "text": "25 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "lines": [
+    {
+     "top": 79.0,
+     "text": "Default Penalty"
+    },
+    {
+     "top": 105.3,
+     "text": "12. Failure to notify change of address ₦100,000 (first month); ₦50,000 per"
+    },
+    {
+     "top": 121.0,
+     "text": "subsequent month of default."
+    },
+    {
+     "top": 167.8,
+     "text": "14.0 Amendment or Review of Guidelines"
+    },
+    {
+     "top": 192.8,
+     "text": "The Service may, at any time, withdraw or replace these Guideline or publish an"
+    },
+    {
+     "top": 209.6,
+     "text": "amended or updated version."
+    },
+    {
+     "top": 234.3,
+     "text": "15.0 Enquiries"
+    },
+    {
+     "top": 259.1,
+     "text": "All enquiries on any aspect of this publication should be directed to:"
+    },
+    {
+     "top": 275.8,
+     "text": "The Executive Chairman"
+    },
+    {
+     "top": 292.6,
+     "text": "Nigeria Revenue Service"
+    },
+    {
+     "top": 309.3,
+     "text": "Plot 1241, Kur Mohammed Avenue,"
+    },
+    {
+     "top": 326.1,
+     "text": "Central Area,"
+    },
+    {
+     "top": 342.8,
+     "text": "Abuja, Nigeria."
+    },
+    {
+     "top": 359.8,
+     "text": "Or"
+    },
+    {
+     "top": 384.6,
+     "text": "Director,"
+    },
+    {
+     "top": 401.4,
+     "text": "Tax Policy and Advisory Department"
+    },
+    {
+     "top": 418.1,
+     "text": "Nigeria Revenue Service"
+    },
+    {
+     "top": 434.9,
+     "text": "Revenue House,"
+    },
+    {
+     "top": 451.6,
+     "text": "Plot 1241, Kur Mohammed Avenue,"
+    },
+    {
+     "top": 468.4,
+     "text": "Central Area,"
+    },
+    {
+     "top": 485.1,
+     "text": "Abuja, Nigeria."
+    },
+    {
+     "top": 501.9,
+     "text": "Or"
+    },
+    {
+     "top": 526.9,
+     "text": "Visit our website: www.nrs.gov.ng"
+    },
+    {
+     "top": 543.6,
+     "text": "Email: enquiries@nrs.gov.ng"
+    },
+    {
+     "top": 560.4,
+     "text": "+2349073777777; +2349072111111; +2349074444441; +2349074444442"
+    },
+    {
+     "top": 779.9,
+     "text": "26 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "lines": [
+    {
+     "top": 99.3,
+     "text": "Glossary"
+    },
+    {
+     "top": 156.8,
+     "text": "B2B Business-to-Business"
+    },
+    {
+     "top": 181.5,
+     "text": "BUSD Binance USD"
+    },
+    {
+     "top": 206.1,
+     "text": "BTC Bitcoin"
+    },
+    {
+     "top": 230.8,
+     "text": "CBN MPR Central Bank of Nigeria Monetary Policy Rate"
+    },
+    {
+     "top": 255.3,
+     "text": "CBDC Central Bank Digital Currency"
+    },
+    {
+     "top": 280.1,
+     "text": "DAI Decentralised Stablecoin"
+    },
+    {
+     "top": 304.8,
+     "text": "DAO Decentralised Autonomous Organisation"
+    },
+    {
+     "top": 329.3,
+     "text": "DOLLAR USD"
+    },
+    {
+     "top": 354.1,
+     "text": "DeFi Decentralised Finance"
+    },
+    {
+     "top": 378.9,
+     "text": "ETH Ether"
+    },
+    {
+     "top": 403.4,
+     "text": "FMV Fair Market Value"
+    },
+    {
+     "top": 428.1,
+     "text": "FIFO First in First Out"
+    },
+    {
+     "top": 452.6,
+     "text": "ISA Investments and Securities Act"
+    },
+    {
+     "top": 477.4,
+     "text": "NAFEM Nigerian Autonomous Foreign Exchange Market"
+    },
+    {
+     "top": 502.1,
+     "text": "NFT Non-Fungible Tokens"
+    },
+    {
+     "top": 526.6,
+     "text": "NRS Nigeria Revenue Service"
+    },
+    {
+     "top": 551.4,
+     "text": "NTA Nigeria Tax Act"
+    },
+    {
+     "top": 576.2,
+     "text": "NTAA Nigeria Tax Administration Act"
+    },
+    {
+     "top": 600.7,
+     "text": "P2P Peer-to-Peer"
+    },
+    {
+     "top": 625.4,
+     "text": "PAYE Pay As You Earn"
+    },
+    {
+     "top": 649.9,
+     "text": "PYUSD PayPal USD"
+    },
+    {
+     "top": 674.7,
+     "text": "SOFR Secured Overnight Financing Rate"
+    },
+    {
+     "top": 699.4,
+     "text": "USD United States Dollar"
+    },
+    {
+     "top": 724.0,
+     "text": "USDC USD Coin"
+    },
+    {
+     "top": 748.7,
+     "text": "USDT Tether USD"
+    },
+    {
+     "top": 779.9,
+     "text": "27 | Pa ge"
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "lines": [
+    {
+     "top": 74.5,
+     "text": "VA Virtual Asset"
+    },
+    {
+     "top": 99.3,
+     "text": "VASP Virtual Asset Service Provider"
+    },
+    {
+     "top": 779.9,
+     "text": "28 | Pa ge"
+    }
+   ]
+  }
+ ]
+}

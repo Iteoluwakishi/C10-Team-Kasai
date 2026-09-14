@@ -1,0 +1,17 @@
+{
+ "document_id": "nrs_notice_159",
+ "title": "IMPLEMENTATION OF TAXPAYER IDENTIFICATION (Tax ID)",
+ "document_type": "notice",
+ "legal_weight": "administrative_guidance",
+ "status": "in_force",
+ "source_file": "guidance\\nrs_news_releases_snapshot.json",
+ "source_url": "https://www.nrs.gov.ng/api/news-releases",
+ "retrieved": "2026-08-25T12:42:10.802Z",
+ "image": "/uploads/Public_Notice_NRS_JRB_6_e605d68ff6.png",
+ "pages": [
+  {
+   "page": 1,
+   "text": "IMPLEMENTATION OF TAXPAYER IDENTIFICATION (Tax ID)\n\nKindly note that this public notice is specifically intended for organizations that currently use the TIN Validation API to verify taxpayers’ details. The general public is advised to continue using the official Tax ID portal available at (https://taxid.nrs.gov.ng or https://taxid.jrb.gov.ng) to retrieve their Tax IDs"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "file": "/Users/apple/Desktop/Aks-Code/Kasai/Sources/NIGERIA-TAX-ADMINISTRATION-ACT-2025.pdf",
+  "extraction_date": "2026-08-20T14:05:01.619371",
+  "pages_extracted": 215,
+  "ocr_pages": [],
+  "extraction_methods": {
+    "pymupdf": 215,
+    "pdfplumber": 0,
+    "ocr": 0
+  }
+}

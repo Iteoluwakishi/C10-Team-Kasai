@@ -1,0 +1,4035 @@
+{
+ "document_id": "nrsea_2025",
+ "title": "Nigeria Revenue Service (Establishment) Act, 2025",
+ "document_type": "act",
+ "legal_weight": "statute",
+ "status": "in_force",
+ "source_file": "Approved Copy to Print. Nigeria Revenue Service (Establishment) Act, 2025-1.pdf",
+ "pages": [
+  {
+   "page": 1,
+   "gazette_label": "",
+   "lines": [
+    {
+     "top": 132.6,
+     "text": "Extraordinary"
+    },
+    {
+     "top": 150.9,
+     "text": "Nigeria Revenue Service (Establishment) Act, 2025 2025 No. 4 A"
+    },
+    {
+     "top": 296.7,
+     "text": "Federal Republic of Nigeria"
+    },
+    {
+     "top": 332.7,
+     "text": "Official Gazette"
+    },
+    {
+     "top": 368.6,
+     "text": "No. 117 Lagos — 26th June, 2025 Vol."
+    },
+    {
+     "top": 389.0,
+     "text": "Government Notice No. 23"
+    },
+    {
+     "top": 415.5,
+     "text": "The following is published as supplement to this Gazette :"
+    },
+    {
+     "top": 439.7,
+     "text": "Act No. Short Title"
+    },
+    {
+     "top": 459.0,
+     "text": "4. Nigeria Revenue Service (Establishment) Act, 2025 .. .. .. A231-257"
+    },
+    {
+     "top": 649.2,
+     "text": "Printed and Published by The Federal Government Printer, Lagos, Nigeria"
+    },
+    {
+     "top": 660.0,
+     "text": "FGP 29/72025/500"
+    },
+    {
+     "top": 676.7,
+     "text": "Annual Subscription from 1st January, 2015 is Local : N85,000.00 Overseas : N110,000.00 [Surface"
+    },
+    {
+     "top": 686.4,
+     "text": "N135,500.00 [Second Class Air Mail]. Present issue N10,500.00 per copy. Subscribers who wish to obtain"
+    },
+    {
+     "top": 697.1,
+     "text": "after 1st January should apply to the Federal Government Printer, Lagos for amended Subscriptions."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 150.9,
+     "text": "229"
+    },
+    {
+     "top": 368.6,
+     "text": "112"
+    },
+    {
+     "top": 439.7,
+     "text": "Page"
+    },
+    {
+     "top": 676.7,
+     "text": "Mail] Gazette"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "gazette_label": "A230",
+   "lines": [],
+   "margin_notes": []
+  },
+  {
+   "page": 3,
+   "gazette_label": "A231",
+   "lines": [
+    {
+     "top": 155.1,
+     "text": "NIGERIA REVENUE SERVICE"
+    },
+    {
+     "top": 260.8,
+     "text": "ARRANGEMENT"
+    },
+    {
+     "top": 274.0,
+     "text": "SECTION :"
+    },
+    {
+     "top": 300.4,
+     "text": "PART I – OBJECTIVE AND APPLICATION"
+    },
+    {
+     "top": 319.6,
+     "text": "1. Objective"
+    },
+    {
+     "top": 332.8,
+     "text": "2. Application"
+    },
+    {
+     "top": 352.0,
+     "text": "PART II – ESTABLISHMENT OF THE"
+    },
+    {
+     "top": 371.2,
+     "text": "3. Establishment of the Nigeria"
+    },
+    {
+     "top": 384.4,
+     "text": "4. Functions of the Service"
+    },
+    {
+     "top": 397.6,
+     "text": "5. Assistance in tax collection"
+    },
+    {
+     "top": 416.8,
+     "text": "PART III – ESTABLISHMENT AND"
+    },
+    {
+     "top": 430.0,
+     "text": "BOARD OF THE SERVICE ETC."
+    },
+    {
+     "top": 449.2,
+     "text": "6. Establishment of the Governing"
+    },
+    {
+     "top": 462.4,
+     "text": "7. Composition of the Board"
+    },
+    {
+     "top": 475.6,
+     "text": "8. Powers of the Board"
+    },
+    {
+     "top": 488.8,
+     "text": "9. Tenure of office"
+    },
+    {
+     "top": 502.0,
+     "text": "10. Emoluments of members"
+    },
+    {
+     "top": 515.2,
+     "text": "11. Cessation of membership"
+    },
+    {
+     "top": 528.4,
+     "text": "12. Delegation of power"
+    },
+    {
+     "top": 541.6,
+     "text": "13. Secretary to the Board"
+    },
+    {
+     "top": 554.8,
+     "text": "14. Establishment of Technical"
+    },
+    {
+     "top": 568.0,
+     "text": "15. Functions of the Technical Committee"
+    },
+    {
+     "top": 587.2,
+     "text": "PART IV – MANAGEMENT AND"
+    },
+    {
+     "top": 606.4,
+     "text": "16. Executive Chairman of the Service"
+    },
+    {
+     "top": 619.6,
+     "text": "17. Executive Directors of the Service"
+    },
+    {
+     "top": 632.8,
+     "text": "18. Establishment and composition"
+    },
+    {
+     "top": 646.0,
+     "text": "19. Staff of the Service"
+    },
+    {
+     "top": 659.2,
+     "text": "20. Pensions"
+    },
+    {
+     "top": 672.4,
+     "text": "21. Staff regulations"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 155.1,
+     "text": "(ESTABLISHMENT) ACT, 2025"
+    },
+    {
+     "top": 260.8,
+     "text": "SECTIONS OF"
+    },
+    {
+     "top": 352.0,
+     "text": "NIGERIA REVENUE SERVICE"
+    },
+    {
+     "top": 371.2,
+     "text": "Revenue Service"
+    },
+    {
+     "top": 416.8,
+     "text": "COMPOSITION GOVERNING OF THE"
+    },
+    {
+     "top": 449.2,
+     "text": "Board"
+    },
+    {
+     "top": 554.8,
+     "text": "Committee of the Board"
+    },
+    {
+     "top": 587.2,
+     "text": "STAFF SERVICE OF THE"
+    },
+    {
+     "top": 632.8,
+     "text": "of the Management Committee"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "gazette_label": "A232",
+   "lines": [
+    {
+     "top": 181.8,
+     "text": "PART V – FINANCIAL PROVISIONS"
+    },
+    {
+     "top": 201.0,
+     "text": "22. Fund of the Service"
+    },
+    {
+     "top": 214.2,
+     "text": "23. Expenditure of the Service"
+    },
+    {
+     "top": 227.4,
+     "text": "24. Estimates"
+    },
+    {
+     "top": 240.6,
+     "text": "25. Accounts and audit"
+    },
+    {
+     "top": 253.8,
+     "text": "26. Annual report"
+    },
+    {
+     "top": 267.0,
+     "text": "27. Power to accept gifts"
+    },
+    {
+     "top": 280.2,
+     "text": "28. Power to borrow"
+    },
+    {
+     "top": 293.4,
+     "text": "29. Tax exemptions"
+    },
+    {
+     "top": 306.6,
+     "text": "30. Accountability"
+    },
+    {
+     "top": 319.8,
+     "text": "31. General directions of the Minister"
+    },
+    {
+     "top": 339.0,
+     "text": "PART VI – MISCELLANEOUS PROVISIONS"
+    },
+    {
+     "top": 358.2,
+     "text": "32. Information and documents to be confidential"
+    },
+    {
+     "top": 371.4,
+     "text": "33. Official secrecy and confidentiality"
+    },
+    {
+     "top": 384.6,
+     "text": "34. Endorsement"
+    },
+    {
+     "top": 397.8,
+     "text": "35. Limitation of suits against the Service"
+    },
+    {
+     "top": 411.0,
+     "text": "36. Service of documents"
+    },
+    {
+     "top": 424.2,
+     "text": "37. Restriction on execution against property of the Service"
+    },
+    {
+     "top": 437.4,
+     "text": "38. Indemnity"
+    },
+    {
+     "top": 450.6,
+     "text": "39. Accountant-General to deduct un-remitted revenue"
+    },
+    {
+     "top": 463.8,
+     "text": "40. Repeal of Act No. 13, 2007"
+    },
+    {
+     "top": 477.0,
+     "text": "41. Savings and transitional provisions"
+    },
+    {
+     "top": 490.2,
+     "text": "42. Interpretation"
+    },
+    {
+     "top": 503.4,
+     "text": "43. Short tittle"
+    },
+    {
+     "top": 516.6,
+     "text": "Schedules"
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 5,
+   "gazette_label": "A233",
+   "lines": [
+    {
+     "top": 203.6,
+     "text": "NIGERIA REVENUE SERVICE (ESTABLISHMENT) ACT, 2025"
+    },
+    {
+     "top": 230.0,
+     "text": "ACT NO. 4"
+    },
+    {
+     "top": 256.5,
+     "text": "AN ACT TO REPEAL THE FEDERAL INLAND REVENUE SERVICE (ESTABLISHMENT)"
+    },
+    {
+     "top": 269.7,
+     "text": "ACT, NO.13, 2007 AND ENACT THE NIGERIA REVENUE SERVICE (ESTABLISHMENT)"
+    },
+    {
+     "top": 282.9,
+     "text": "ACT, 2025, TO ESTABLISH THE NIGERIA REVENUE SERVICE, CHARGED WITH"
+    },
+    {
+     "top": 298.7,
+     "text": "POWERS OF ASSESSMENT, COLLECTION OF, AND ACCOUNTING FOR REVENUE"
+    },
+    {
+     "top": 311.9,
+     "text": "ACCRUABLE TO THE GOVERNMENT OF THE FEDERATION; AND FOR RELATED"
+    },
+    {
+     "top": 322.5,
+     "text": "MATTERS."
+    },
+    {
+     "top": 348.9,
+     "text": "[ 26th June, 2025 ]"
+    },
+    {
+     "top": 375.3,
+     "text": "ENACTED by the National Assembly of the Federal Republic of Nigeria –"
+    },
+    {
+     "top": 394.5,
+     "text": "PART I – OBJECTIVE AND APPLICATION"
+    },
+    {
+     "top": 413.6,
+     "text": "1. The objective of this Act is to provide for a legal, institutional and"
+    },
+    {
+     "top": 426.9,
+     "text": "regulatory framework for the administration of taxes and revenues accruable"
+    },
+    {
+     "top": 440.1,
+     "text": "to the Government of the Federation, as prescribed by the National Assembly."
+    },
+    {
+     "top": 459.2,
+     "text": "2. This Act applies throughout the Federal Republic of Nigeria."
+    },
+    {
+     "top": 478.5,
+     "text": "PART II – ESTABLISHMENT OF THE NIGERIA REVENUE SERVICE"
+    },
+    {
+     "top": 497.6,
+     "text": "3.—(1) There is established the Nigeria Revenue Service (\"the Service\")"
+    },
+    {
+     "top": 510.9,
+     "text": "–"
+    },
+    {
+     "top": 530.1,
+     "text": "(2) The Service –"
+    },
+    {
+     "top": 549.2,
+     "text": "(a) shall be a body corporate with perpetual succession, and a common"
+    },
+    {
+     "top": 562.5,
+     "text": "seal ;"
+    },
+    {
+     "top": 578.6,
+     "text": "(b) may sue or be sued in its name ; and"
+    },
+    {
+     "top": 594.8,
+     "text": "(c) may acquire, hold or dispose of any property, movable or immovable,"
+    },
+    {
+     "top": 608.1,
+     "text": "for carrying out any of its functions under this Act."
+    },
+    {
+     "top": 627.3,
+     "text": "(3) The Service shall have such powers and duties as are conferred on"
+    },
+    {
+     "top": 640.5,
+     "text": "it by this Act or by any other law."
+    },
+    {
+     "top": 659.6,
+     "text": "4.—(1) The Service shall –"
+    },
+    {
+     "top": 678.8,
+     "text": "(a) assess persons including corporations, companies and individuals"
+    },
+    {
+     "top": 692.1,
+     "text": "chargeable with tax, other than individuals, resident in any state of the"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 350.2,
+     "text": "Commencement"
+    },
+    {
+     "top": 415.4,
+     "text": "Objective"
+    },
+    {
+     "top": 458.7,
+     "text": "Application"
+    },
+    {
+     "top": 500.2,
+     "text": "Establishment of the Nigeria Revenue Service"
+    },
+    {
+     "top": 659.2,
+     "text": "Functions of the Service"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "gazette_label": "A234",
+   "lines": [
+    {
+     "top": 179.2,
+     "text": "Federation or the Federal Capital Territory ;"
+    },
+    {
+     "top": 195.3,
+     "text": "(b) collect or recover tax assessed, enforce payment of taxes and remit"
+    },
+    {
+     "top": 208.6,
+     "text": "tax collected, under the provisions of this Act or any other law, into designated"
+    },
+    {
+     "top": 221.8,
+     "text": "accounts;"
+    },
+    {
+     "top": 237.9,
+     "text": "(c) account for all revenue accruing to the Government ;"
+    },
+    {
+     "top": 254.1,
+     "text": "(d) in collaboration with the relevant Ministries and Agencies of"
+    },
+    {
+     "top": 267.4,
+     "text": "Government, subject to the approval of the National Assembly, review the"
+    },
+    {
+     "top": 280.6,
+     "text": "tax regimes and promote the use of taxation to develop, stimulate and grow"
+    },
+    {
+     "top": 293.8,
+     "text": "economic activities ;"
+    },
+    {
+     "top": 309.9,
+     "text": "(e) carry out examination and investigation exercises with a view to"
+    },
+    {
+     "top": 323.2,
+     "text": "enforcing compliance with the provisions of this Act, and any other tax"
+    },
+    {
+     "top": 336.4,
+     "text": "law ;"
+    },
+    {
+     "top": 352.5,
+     "text": "(f) make a determination of the extent of financial loss and such other"
+    },
+    {
+     "top": 365.8,
+     "text": "losses by Government arising from tax fraud or evasion, and revenue"
+    },
+    {
+     "top": 379.0,
+     "text": "foregone arising from tax waivers and other related matters ;"
+    },
+    {
+     "top": 395.1,
+     "text": "(g) adopt measures to identify, trace, freeze, confiscate or seize proceeds"
+    },
+    {
+     "top": 408.4,
+     "text": "derived from tax fraud or evasion, in line with the provisions of this Act ;"
+    },
+    {
+     "top": 424.5,
+     "text": "(h) adopt measures which include compliance and regulatory actions,"
+    },
+    {
+     "top": 437.8,
+     "text": "introduction and maintenance of investigative and control techniques on the"
+    },
+    {
+     "top": 451.0,
+     "text": "detection and prevention of non-compliance with tax laws ;"
+    },
+    {
+     "top": 467.1,
+     "text": "(i) collaborate and facilitate exchange of information with relevant national"
+    },
+    {
+     "top": 480.4,
+     "text": "or international agencies or bodies on tax matters ;"
+    },
+    {
+     "top": 496.5,
+     "text": "(j) undertake exchange of personnel or other experts with complementary"
+    },
+    {
+     "top": 509.8,
+     "text": "agencies for purposes of comparative experience or capacity building ;"
+    },
+    {
+     "top": 525.9,
+     "text": "(k) establish and maintain a system for monitoring international dynamics"
+    },
+    {
+     "top": 539.2,
+     "text": "of taxation in order to identify suspicious transactions, and the perpetrators"
+    },
+    {
+     "top": 552.4,
+     "text": "or other persons involved ;"
+    },
+    {
+     "top": 568.5,
+     "text": "(l) provide and maintain access to up-to-date and adequate data and"
+    },
+    {
+     "top": 581.8,
+     "text": "information on all taxable persons, individuals, corporate bodies or all agencies"
+    },
+    {
+     "top": 595.0,
+     "text": "of Government involved in the collection of revenue for the purpose of"
+    },
+    {
+     "top": 608.2,
+     "text": "efficient, effective and correct tax administration and to prevent tax evasion"
+    },
+    {
+     "top": 621.4,
+     "text": "or fraud ;"
+    },
+    {
+     "top": 637.5,
+     "text": "(m) maintain database, statistics, records and reports on persons,"
+    },
+    {
+     "top": 650.8,
+     "text": "organisations, proceeds, properties, documents or other items or assets"
+    },
+    {
+     "top": 664.0,
+     "text": "relating to tax administration including matters relating to tax waivers, fraud"
+    },
+    {
+     "top": 677.2,
+     "text": "or evasion ;"
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 7,
+   "gazette_label": "A235",
+   "lines": [
+    {
+     "top": 186.7,
+     "text": "(n) undertake and support research or similar measures with a view to"
+    },
+    {
+     "top": 200.0,
+     "text": "stimulating economic development and determine the manifestation, extent,"
+    },
+    {
+     "top": 213.2,
+     "text": "and effects of tax waivers, fraud, evasion and other matters that affect"
+    },
+    {
+     "top": 226.4,
+     "text": "effective tax administration and make recommendations to the Government"
+    },
+    {
+     "top": 239.6,
+     "text": "on appropriate intervention and preventive measures ;"
+    },
+    {
+     "top": 255.7,
+     "text": "(o) collate and continually review all policies of the Government relating"
+    },
+    {
+     "top": 269.0,
+     "text": "to taxation and revenue generation and undertake a systematic and"
+    },
+    {
+     "top": 282.2,
+     "text": "progressive implementation of such policies ;"
+    },
+    {
+     "top": 298.3,
+     "text": "(p) liaise with the office of the Attorney-General of the Federation, any"
+    },
+    {
+     "top": 311.6,
+     "text": "Government security and law enforcement agency, and such other financial"
+    },
+    {
+     "top": 324.8,
+     "text": "supervisory institutions in the enforcement and eradication of tax related"
+    },
+    {
+     "top": 338.0,
+     "text": "offences ;"
+    },
+    {
+     "top": 354.1,
+     "text": "(q) issue taxpayer identification or any other equivalent identity to every"
+    },
+    {
+     "top": 367.4,
+     "text": "relevant taxable person in collaboration with tax authorities of States or"
+    },
+    {
+     "top": 380.6,
+     "text": "Local Governments, or the Joint Revenue Board ;"
+    },
+    {
+     "top": 396.7,
+     "text": "(r) carry out and sustain public awareness and enlightenment campaign"
+    },
+    {
+     "top": 410.0,
+     "text": "on the benefits of tax compliance ;"
+    },
+    {
+     "top": 426.1,
+     "text": "(s) carry out assigned administrative and oversight functions over all"
+    },
+    {
+     "top": 439.4,
+     "text": "taxes and levies accruable to the Government of the Federation and, as it"
+    },
+    {
+     "top": 452.6,
+     "text": "may be required, query, subpoena, sanction or reward any activity pertaining"
+    },
+    {
+     "top": 465.8,
+     "text": "to the assessment, collection of and accounting for revenues accruable to"
+    },
+    {
+     "top": 479.0,
+     "text": "the Government ; and"
+    },
+    {
+     "top": 495.1,
+     "text": "(t) provide or receive assistance in the collection of revenue claims or"
+    },
+    {
+     "top": 508.4,
+     "text": "any other administrative assistance in tax matters with respect to any"
+    },
+    {
+     "top": 521.6,
+     "text": "agreement or arrangement made between the Government of the Federal"
+    },
+    {
+     "top": 534.8,
+     "text": "Republic of Nigeria and the Government of any country, person or body as"
+    },
+    {
+     "top": 548.0,
+     "text": "may be deemed necessary."
+    },
+    {
+     "top": 567.2,
+     "text": "(2) ) The Service shall, with the approval of the Minister, make rules and"
+    },
+    {
+     "top": 580.4,
+     "text": "issue regulations as, in its opinion, are necessary or expedient for giving full"
+    },
+    {
+     "top": 593.6,
+     "text": "effect to the provisions of this Act and for the due administration of its"
+    },
+    {
+     "top": 606.8,
+     "text": "provisions; and such rules and regulations shall provide compliance requirements"
+    },
+    {
+     "top": 620.0,
+     "text": "and may include consequences for non-compliance in line with relevant laws."
+    },
+    {
+     "top": 639.2,
+     "text": "(3) The Service shall carry out such other activities as are necessary or"
+    },
+    {
+     "top": 652.4,
+     "text": "expedient for the full discharge of all or any of the functions under this Act"
+    },
+    {
+     "top": 665.6,
+     "text": "including —"
+    },
+    {
+     "top": 684.7,
+     "text": "(a) specifying the form of returns, claims, statements or notices necessary"
+    },
+    {
+     "top": 698.0,
+     "text": "for the due administration of the powers conferred on it by this Act ; and"
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 8,
+   "gazette_label": "A236",
+   "lines": [
+    {
+     "top": 182.6,
+     "text": "(b) deploying appropriate technology or digital platforms to automate"
+    },
+    {
+     "top": 195.9,
+     "text": "any of its tax administration processes or in carrying out any of its functions"
+    },
+    {
+     "top": 209.1,
+     "text": "under this Act."
+    },
+    {
+     "top": 228.2,
+     "text": "5.—(1) The Service may, on request, assist a Nigerian State or Local"
+    },
+    {
+     "top": 241.5,
+     "text": "Government to collect or administer a tax."
+    },
+    {
+     "top": 260.7,
+     "text": "(2) The assistance referred to in subsection (1) of this section, shall only"
+    },
+    {
+     "top": 273.9,
+     "text": "be provided in respect of a tax which the requesting government has the"
+    },
+    {
+     "top": 288.0,
+     "text": "statutory right to collect or administer, and such assistance may include —"
+    },
+    {
+     "top": 304.4,
+     "text": "(a) all the actions necessary for the proper assessment, collection,"
+    },
+    {
+     "top": 317.7,
+     "text": "accounting or enforcement of the tax ;"
+    },
+    {
+     "top": 333.8,
+     "text": "(b) administration of personal income tax on any class or group of"
+    },
+    {
+     "top": 347.1,
+     "text": "individual taxpayers ; or"
+    },
+    {
+     "top": 363.2,
+     "text": "(c) collection or enforcement of revenue claims on a particular person."
+    },
+    {
+     "top": 382.5,
+     "text": "(3) Any revenue collected on behalf of a State or Local Government, or"
+    },
+    {
+     "top": 395.7,
+     "text": "another tax authority, under this section, shall be remitted directly to that State"
+    },
+    {
+     "top": 408.9,
+     "text": "or Local Government, or relevant tax authority as may be agreed by the par-"
+    },
+    {
+     "top": 422.1,
+     "text": "ties."
+    },
+    {
+     "top": 441.3,
+     "text": "(4) Where an agreement or arrangement between the Government of"
+    },
+    {
+     "top": 454.5,
+     "text": "Nigeria and the Government of another country to avoid double taxation or"
+    },
+    {
+     "top": 467.7,
+     "text": "provide administrative assistance in tax matters contains an obligation for the"
+    },
+    {
+     "top": 480.9,
+     "text": "collection of revenue claim due to the Government of that country or any other"
+    },
+    {
+     "top": 494.1,
+     "text": "administrative assistance on tax, the Service shall carry out such obligation as"
+    },
+    {
+     "top": 507.3,
+     "text": "may be prescribed in that agreement or arrangement."
+    },
+    {
+     "top": 526.5,
+     "text": "(5) The Service may enter into agreement with the competent authority"
+    },
+    {
+     "top": 539.7,
+     "text": "of a country with which the Government of Nigeria entered into an agreement"
+    },
+    {
+     "top": 552.9,
+     "text": "or arrangement for the avoidance of double taxation or administrative assis-"
+    },
+    {
+     "top": 566.1,
+     "text": "tance in tax matters to prescribe the manner of the performance of the admin-"
+    },
+    {
+     "top": 579.3,
+     "text": "istrative assistance obligation contained in that agreement or arrangement."
+    },
+    {
+     "top": 598.5,
+     "text": "(6) The Accountant-General of the Federation shall open a designated"
+    },
+    {
+     "top": 611.7,
+     "text": "account into which revenue claims collected by the Service on behalf of the"
+    },
+    {
+     "top": 624.9,
+     "text": "Government of any other country shall be paid pending the remittance of the"
+    },
+    {
+     "top": 638.1,
+     "text": "amount so collected to that country."
+    },
+    {
+     "top": 657.3,
+     "text": "(7) Where assistance is requested under this section, the Service shall"
+    },
+    {
+     "top": 670.5,
+     "text": "carry out the assistance in line with the provisions of this Act and other rel-"
+    },
+    {
+     "top": 683.7,
+     "text": "evant laws, except with respect to time limits, and shall apply its powers relat-"
+    },
+    {
+     "top": 696.9,
+     "text": "ing to the enforcement and collection of taxes as if the revenue were a rev-"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 228.2,
+     "text": "Assistance in tax collection"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "gazette_label": "A237",
+   "lines": [
+    {
+     "top": 179.2,
+     "text": "enue within its jurisdiction under the Nigeria Tax Administration Act."
+    },
+    {
+     "top": 198.4,
+     "text": "(8) The Service may take any interim measure, including any judicial"
+    },
+    {
+     "top": 211.6,
+     "text": "measure, in line with the provisions of this Act or other relevant laws to pre-"
+    },
+    {
+     "top": 224.8,
+     "text": "serve the collection of any revenue claim for which assistance has been re-"
+    },
+    {
+     "top": 238.0,
+     "text": "quested under this section."
+    },
+    {
+     "top": 257.2,
+     "text": "(9) The Service may charge a fee as may be agreed with the requesting"
+    },
+    {
+     "top": 270.4,
+     "text": "authority to defray the cost of providing the assistance required under this"
+    },
+    {
+     "top": 283.6,
+     "text": "section."
+    },
+    {
+     "top": 302.8,
+     "text": "(10) For the purpose of this section, \"revenue claim\" means any amount"
+    },
+    {
+     "top": 316.0,
+     "text": "of tax, levy, fees, charges or statutory contributions, due or owed, including"
+    },
+    {
+     "top": 329.2,
+     "text": "interest, administrative penalties, and cost of collection or conservancy to a"
+    },
+    {
+     "top": 342.4,
+     "text": "Nigerian local or state government and their agencies, or to the government of"
+    },
+    {
+     "top": 355.6,
+     "text": "another country with which the Government of Nigeria has a subsisting agree-"
+    },
+    {
+     "top": 368.8,
+     "text": "ment or arrangement to avoid double taxation or provide administrative assis-"
+    },
+    {
+     "top": 382.0,
+     "text": "tance in tax matters."
+    },
+    {
+     "top": 401.2,
+     "text": "PART III — ESTABLISHMENT AND COMPOSITION OF THE GOVERNING"
+    },
+    {
+     "top": 414.4,
+     "text": "BOARD OF THE SERVICE, ETC."
+    },
+    {
+     "top": 433.5,
+     "text": "6. There is established for the Service, a governing board known as the"
+    },
+    {
+     "top": 446.8,
+     "text": "Nigeria Revenue Service Board (\"the Board\") which shall have overall su-"
+    },
+    {
+     "top": 460.0,
+     "text": "pervision of the Service as specified in this Act."
+    },
+    {
+     "top": 485.1,
+     "text": "7.—(1) The Board shall consist of —"
+    },
+    {
+     "top": 504.3,
+     "text": "(a) the Chairman, who shall be the Executive Chairman of the Service"
+    },
+    {
+     "top": 517.6,
+     "text": "appointed by the President subject to confirmation of the Senate ;"
+    },
+    {
+     "top": 533.7,
+     "text": "(b) the following ex-officio members —"
+    },
+    {
+     "top": 549.9,
+     "text": "(i) a representative of the Minister responsible for Finance not below"
+    },
+    {
+     "top": 563.2,
+     "text": "the rank of a Director,"
+    },
+    {
+     "top": 579.3,
+     "text": "(ii) a representative of the Minister responsible for National Planning"
+    },
+    {
+     "top": 592.6,
+     "text": "not below the rank of a Director,"
+    },
+    {
+     "top": 608.7,
+     "text": "(iii) a representative of the Attorney-General of the Federation not"
+    },
+    {
+     "top": 622.0,
+     "text": "below the rank of a Director,"
+    },
+    {
+     "top": 635.1,
+     "text": "(iv)a representative of the Minister responsible for Petroleum and"
+    },
+    {
+     "top": 648.4,
+     "text": "Gas Resources not below the rank of a Director,"
+    },
+    {
+     "top": 661.5,
+     "text": "(v) the Governor of the Central Bank of Nigeria or a representative"
+    },
+    {
+     "top": 674.8,
+     "text": "not below the rank of a Deputy Governor,"
+    },
+    {
+     "top": 687.9,
+     "text": "(vi) the Chairman of the Revenue Mobilisation, Allocation and Fiscal"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 437.2,
+     "text": "Establishment of the Governing Board"
+    },
+    {
+     "top": 485.4,
+     "text": "Composition of the Board"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "gazette_label": "A238",
+   "lines": [
+    {
+     "top": 179.2,
+     "text": "Commission or a representative who shall be a Commissioner represent-"
+    },
+    {
+     "top": 192.4,
+     "text": "ing one of the States of the Federation,"
+    },
+    {
+     "top": 205.5,
+     "text": "(vii) the Comptroller-General of the Nigeria Custom Service or a rep-"
+    },
+    {
+     "top": 218.8,
+     "text": "resentative not below the rank of Deputy Comptroller-General,"
+    },
+    {
+     "top": 231.9,
+     "text": "(viii) the Registrar-General of the Corporate Affairs Commission or a"
+    },
+    {
+     "top": 245.2,
+     "text": "representative not below the rank of a Director, and"
+    },
+    {
+     "top": 258.3,
+     "text": "(ix) Executive Directors appointed by the President under this Act."
+    },
+    {
+     "top": 277.6,
+     "text": "(2) All members of the Board, except the Executive Chairman, and the"
+    },
+    {
+     "top": 290.8,
+     "text": "Executive Directors shall serve on a part-time basis."
+    },
+    {
+     "top": 310.0,
+     "text": "(3) The supplementary provisions set out in the First Schedule to this Act"
+    },
+    {
+     "top": 323.2,
+     "text": "shall have effect with respect to the proceedings of the Board and other mat-"
+    },
+    {
+     "top": 336.4,
+     "text": "ters mentioned therein."
+    },
+    {
+     "top": 355.5,
+     "text": "8. The Board shall —"
+    },
+    {
+     "top": 374.7,
+     "text": "(a) provide general policy guidelines relating to the functions of the Ser-"
+    },
+    {
+     "top": 388.0,
+     "text": "vice ;"
+    },
+    {
+     "top": 404.1,
+     "text": "(b) evaluate the implementation of the policies of the Service on matters"
+    },
+    {
+     "top": 417.4,
+     "text": "relating to the assessment, collection and accounting system under this Part"
+    },
+    {
+     "top": 430.6,
+     "text": "or any other law ;"
+    },
+    {
+     "top": 446.7,
+     "text": "(c) review and approve the strategic plans of the Service ;"
+    },
+    {
+     "top": 462.9,
+     "text": "(d) employ staff, and determine the terms and conditions of service,"
+    },
+    {
+     "top": 476.2,
+     "text": "including disciplinary measures, of the employees of the Service ;"
+    },
+    {
+     "top": 492.3,
+     "text": "(e) stipulate remunerations, allowances, benefits and pensions of the staff"
+    },
+    {
+     "top": 505.6,
+     "text": "and employees ;"
+    },
+    {
+     "top": 521.7,
+     "text": "(f) with the approval of the Minister, make rules and issue regulations as,"
+    },
+    {
+     "top": 535.0,
+     "text": "in its opinion, are necessary or expedient for giving effect to the provisions"
+    },
+    {
+     "top": 548.2,
+     "text": "of this Part and for the administration of its provisions and such rules and"
+    },
+    {
+     "top": 561.4,
+     "text": "regulations shall provide compliance requirements and may include conse-"
+    },
+    {
+     "top": 574.6,
+     "text": "quences for non-compliance ;"
+    },
+    {
+     "top": 590.7,
+     "text": "(g) assign each Executive Director a directorate as appropriate ;"
+    },
+    {
+     "top": 606.9,
+     "text": "(h) do such other things which, in its opinion, are necessary to ensure the"
+    },
+    {
+     "top": 620.2,
+     "text": "efficient performance of the functions of the Service under this section."
+    },
+    {
+     "top": 639.3,
+     "text": "9.—(1) The Executive Chairman and other members of the Board, other"
+    },
+    {
+     "top": 652.6,
+     "text": "than ex-officio members, shall each hold office for a term of four years,"
+    },
+    {
+     "top": 665.8,
+     "text": "renewable for another term of four years and no more."
+    },
+    {
+     "top": 685.0,
+     "text": "(2) A member of the Board shall hold office on such terms and conditions"
+    },
+    {
+     "top": 698.2,
+     "text": "as in his letter of appointment."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 310.8,
+     "text": "First Schedule"
+    },
+    {
+     "top": 355.8,
+     "text": "Powers of the Board"
+    },
+    {
+     "top": 638.5,
+     "text": "Tenure of office"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "gazette_label": "A239",
+   "lines": [
+    {
+     "top": 185.1,
+     "text": "10. All members of the Board shall be paid such emoluments, allow-"
+    },
+    {
+     "top": 198.4,
+     "text": "ances and benefits as may be determined by the Service in collaboration with"
+    },
+    {
+     "top": 211.6,
+     "text": "the National Salaries, Incomes and Wages Commission."
+    },
+    {
+     "top": 230.7,
+     "text": "11. A person shall cease to be a member of the Board, where the"
+    },
+    {
+     "top": 244.0,
+     "text": "person —"
+    },
+    {
+     "top": 263.1,
+     "text": "(a) not being an ex-officio member, resigns by a notice addressed to the"
+    },
+    {
+     "top": 276.4,
+     "text": "President ;"
+    },
+    {
+     "top": 292.5,
+     "text": "(b) dies or becomes incapable of carrying on the functions of the office"
+    },
+    {
+     "top": 305.8,
+     "text": "either arising from an infirmity of body, or mind ;"
+    },
+    {
+     "top": 321.9,
+     "text": "(c) becomes bankrupt or makes a compromise with creditors ;"
+    },
+    {
+     "top": 338.1,
+     "text": "(d) is convicted of a felony or of any offence involving dishonesty or"
+    },
+    {
+     "top": 351.4,
+     "text": "fraud ;"
+    },
+    {
+     "top": 367.5,
+     "text": "(e) not being an ex-officio member, is removed from office by the Presi-"
+    },
+    {
+     "top": 380.8,
+     "text": "dent on grounds of public interest or in the interest of the Service ;"
+    },
+    {
+     "top": 396.9,
+     "text": "(f) has been found guilty of contravening the Code of Conduct Bureau"
+    },
+    {
+     "top": 410.2,
+     "text": "and Tribunal Act, or gross misconduct in relation to their duties ;"
+    },
+    {
+     "top": 426.3,
+     "text": "(g) in the case of a person appointed on the basis of a professional quali-"
+    },
+    {
+     "top": 439.6,
+     "text": "fication is disqualified from professional qualification by a competent au-"
+    },
+    {
+     "top": 452.8,
+     "text": "thority ;"
+    },
+    {
+     "top": 468.9,
+     "text": "(h) the President is satisfied that it is not in the interest of the Service or"
+    },
+    {
+     "top": 482.2,
+     "text": "in the interest of the public for the person to continue in Office and the"
+    },
+    {
+     "top": 495.4,
+     "text": "President removes him from Office ;"
+    },
+    {
+     "top": 511.5,
+     "text": "(i) not being an ex-officio member, the tenure expires as provided in"
+    },
+    {
+     "top": 524.8,
+     "text": "section 9 (2) of this Act; or"
+    },
+    {
+     "top": 540.9,
+     "text": "(j) ceases to occupy the office by virtue of which the person becomes a"
+    },
+    {
+     "top": 554.2,
+     "text": "member of the Board."
+    },
+    {
+     "top": 586.5,
+     "text": "12.—(1) Any power conferred or any duty imposed upon the Board"
+    },
+    {
+     "top": 599.8,
+     "text": "may be exercised or performed by the Board or by an officer authorised by"
+    },
+    {
+     "top": 613.0,
+     "text": "the Board, generally or specifically in that behalf."
+    },
+    {
+     "top": 632.2,
+     "text": "(2) The Board may review any decision made by an authorised officer"
+    },
+    {
+     "top": 645.4,
+     "text": "regarding any tax or taxable income, and the reviewed decision of the Board"
+    },
+    {
+     "top": 658.6,
+     "text": "shall have effect as if it were the original decision made in respect of the"
+    },
+    {
+     "top": 671.8,
+     "text": "matter concerned."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 187.0,
+     "text": "Emoluments of members"
+    },
+    {
+     "top": 232.8,
+     "text": "Cessation of membership"
+    },
+    {
+     "top": 590.2,
+     "text": "Delegation of power"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "gazette_label": "A240",
+   "lines": [
+    {
+     "top": 179.2,
+     "text": "(3) An order, ruling or directive made or given by an approved committee"
+    },
+    {
+     "top": 192.4,
+     "text": "of the Board pursuant to this section shall not be treated as an order, ruling or"
+    },
+    {
+     "top": 205.6,
+     "text": "directive of the Board, until the order, ruling or directive has been ratified by"
+    },
+    {
+     "top": 218.8,
+     "text": "the Board pursuant to the powers vested on the Board under this Act."
+    },
+    {
+     "top": 237.9,
+     "text": "13.—(1) There shall be a Secretary to the Board who shall be appointed"
+    },
+    {
+     "top": 251.2,
+     "text": "by the Board from within the Service."
+    },
+    {
+     "top": 270.4,
+     "text": "(2) The Secretary shall be a lawyer, or a chartered accountant or a"
+    },
+    {
+     "top": 283.6,
+     "text": "chartered secretary, who shall not be less than the rank of an Assistant"
+    },
+    {
+     "top": 296.8,
+     "text": "Director."
+    },
+    {
+     "top": 316.0,
+     "text": "(3) The Secretary shall be responsible for —"
+    },
+    {
+     "top": 335.1,
+     "text": "(a) issuing notices of meetings of the Board ;"
+    },
+    {
+     "top": 351.3,
+     "text": "(b) keeping records of the proceedings of the Board ; and"
+    },
+    {
+     "top": 367.5,
+     "text": "(c) carrying out such other duties as the Executive Chairman or the"
+    },
+    {
+     "top": 380.8,
+     "text": "Board may direct."
+    },
+    {
+     "top": 399.9,
+     "text": "14.—(1) There shall be a technical committee of the Board (\"the Tech-"
+    },
+    {
+     "top": 413.1,
+     "text": "nical Committee\") which shall consist of —"
+    },
+    {
+     "top": 432.3,
+     "text": "(a) the Executive Chairman as the Chairman ;"
+    },
+    {
+     "top": 448.5,
+     "text": "(b) two members of the Board of the Service ;"
+    },
+    {
+     "top": 464.7,
+     "text": "(c) the Executive Directors in the Service ;"
+    },
+    {
+     "top": 480.9,
+     "text": "(d) the Director Legal of the Service as appointed by the Board ;"
+    },
+    {
+     "top": 497.1,
+     "text": "(e) the Director in charge of Tax Policy matters."
+    },
+    {
+     "top": 516.4,
+     "text": "(2) The Secretary to the Board shall be the Secretary to the Technical"
+    },
+    {
+     "top": 529.6,
+     "text": "Committee."
+    },
+    {
+     "top": 548.8,
+     "text": "(3) The Technical Committee may co-opt, from the Service, such"
+    },
+    {
+     "top": 562.0,
+     "text": "director or officer as it may deem necessary for the effective performance of"
+    },
+    {
+     "top": 575.2,
+     "text": "its functions under this Act."
+    },
+    {
+     "top": 594.3,
+     "text": "15. The Technical Committee shall —"
+    },
+    {
+     "top": 613.5,
+     "text": "(a) consider all tax matters that require professional or technical exper-"
+    },
+    {
+     "top": 626.8,
+     "text": "tise, and make recommendations to the Board;"
+    },
+    {
+     "top": 642.9,
+     "text": "(b) advise the Board on any aspect of the functions and powers of the"
+    },
+    {
+     "top": 656.2,
+     "text": "Service under this Act; and"
+    },
+    {
+     "top": 672.3,
+     "text": "(c) attend to such other matters as may be referred to it by the Board."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 238.9,
+     "text": "Secretary to the Board"
+    },
+    {
+     "top": 401.4,
+     "text": "Establishment of Technical Committee of the Board"
+    },
+    {
+     "top": 594.8,
+     "text": "Functions of the Technical Committee"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "gazette_label": "A241",
+   "lines": [
+    {
+     "top": 179.2,
+     "text": "PART IV – MANAGEMENT AND STAFF OF THE SERVICE"
+    },
+    {
+     "top": 198.3,
+     "text": "16. The Executive Chairman shall —"
+    },
+    {
+     "top": 217.5,
+     "text": "(a) be appointed by the President subject to confirmation by the Senate ;"
+    },
+    {
+     "top": 233.7,
+     "text": "(b) be the chief executive and accounting officer of the service ;"
+    },
+    {
+     "top": 249.9,
+     "text": "(c) be responsible for the execution of the policies and the overall"
+    },
+    {
+     "top": 263.2,
+     "text": "administration of the Service ; and"
+    },
+    {
+     "top": 279.3,
+     "text": "(d) have relevant qualifications, cognate experience and expertise in"
+    },
+    {
+     "top": 292.6,
+     "text": "accountancy, economics, taxation or law."
+    },
+    {
+     "top": 311.7,
+     "text": "17.—(1) The President shall appoint six Executive Directors for the"
+    },
+    {
+     "top": 325.0,
+     "text": "Service, each representing a geopolitical zone on rotational basis among the"
+    },
+    {
+     "top": 338.2,
+     "text": "states in the zone in alphabetical order provided that the Executive chairman"
+    },
+    {
+     "top": 351.4,
+     "text": "and an Executive Director shall not come from the same state."
+    },
+    {
+     "top": 370.6,
+     "text": "(2) An Executive Director appointed under subsection (1) shall possess"
+    },
+    {
+     "top": 383.8,
+     "text": "academic or professional qualifications and expertise in taxation, accountancy,"
+    },
+    {
+     "top": 397.0,
+     "text": "economics, law, human resource management, or information technology, and"
+    },
+    {
+     "top": 410.2,
+     "text": "the appointment shall ensure diversity of acedemic or professional qualifica-"
+    },
+    {
+     "top": 423.4,
+     "text": "tions and expertise in the listed fields."
+    },
+    {
+     "top": 442.6,
+     "text": "(3) An Executive Director shall —"
+    },
+    {
+     "top": 461.7,
+     "text": "(a) head, and be responsible for the day-to-day administration of a Di-"
+    },
+    {
+     "top": 475.0,
+     "text": "rectorate in the Service ; and"
+    },
+    {
+     "top": 491.1,
+     "text": "(b) perform all such duties or functions as may, from time to time, be"
+    },
+    {
+     "top": 504.4,
+     "text": "required by the Board, Management or Executive Chairman of the Service."
+    },
+    {
+     "top": 523.6,
+     "text": "(4) An Executive Director shall hold office for a term of four years and"
+    },
+    {
+     "top": 536.8,
+     "text": "may be renewed for a further term of four years and no more."
+    },
+    {
+     "top": 556.0,
+     "text": "(5) An Executive Director shall be paid such remuneration and allow-"
+    },
+    {
+     "top": 569.2,
+     "text": "ances, as may be determined by the Board."
+    },
+    {
+     "top": 588.4,
+     "text": "(6) An Executive Director shall, as provided in this Act, be subject to the"
+    },
+    {
+     "top": 601.6,
+     "text": "terms and conditions of his appointment."
+    },
+    {
+     "top": 620.8,
+     "text": "(7) Notwithstanding the provisions of subsection (4), an Executive Di-"
+    },
+    {
+     "top": 634.0,
+     "text": "rector shall cease to hold office as an Executive Director of the Service, where"
+    },
+    {
+     "top": 647.2,
+     "text": "the —"
+    },
+    {
+     "top": 666.3,
+     "text": "(a) person resigns by a notice, under his hand, and addressed to the"
+    },
+    {
+     "top": 679.6,
+     "text": "President through the Executive Chairman ;"
+    },
+    {
+     "top": 695.7,
+     "text": "(b) person becomes incapable of carrying on the functions of the office"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 200.8,
+     "text": "Executive Chairman of the Service"
+    },
+    {
+     "top": 313.3,
+     "text": "Executive Directors of the Service"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "gazette_label": "A242",
+   "lines": [
+    {
+     "top": 174.2,
+     "text": "either arising from an infirmity of body or mind ;"
+    },
+    {
+     "top": 190.4,
+     "text": "(c) person is convicted of a felony or any offence involving dishonesty or"
+    },
+    {
+     "top": 203.6,
+     "text": "fraud ; or"
+    },
+    {
+     "top": 219.7,
+     "text": "(d) President is satisfied that it is not in the interest of the Service or in"
+    },
+    {
+     "top": 233.0,
+     "text": "the interest of the public for the person to continue in office, and the Board"
+    },
+    {
+     "top": 246.2,
+     "text": "removes such person from office."
+    },
+    {
+     "top": 262.4,
+     "text": "(8) For the purpose of this section, \"Directorate\" means a group of"
+    },
+    {
+     "top": 275.6,
+     "text": "departments, divisions or units functionally related and aligned with the aim of"
+    },
+    {
+     "top": 288.8,
+     "text": "performing a given function or set of functions relevant to the realisation of the"
+    },
+    {
+     "top": 302.0,
+     "text": "goals of the Service."
+    },
+    {
+     "top": 321.1,
+     "text": "18.—(1) There is established for the Service a management committee"
+    },
+    {
+     "top": 334.4,
+     "text": "known as the Nigeria Revenue Service Management Committee"
+    },
+    {
+     "top": 347.5,
+     "text": "(\"the Management\") which shall be responsible for policy implementation,"
+    },
+    {
+     "top": 360.8,
+     "text": "and supervision of the day-to-day activities of the Service."
+    },
+    {
+     "top": 380.0,
+     "text": "(2) The Management shall consist of the —"
+    },
+    {
+     "top": 399.1,
+     "text": "(a) Executive Chairman of the Service, who shall be the head ; and"
+    },
+    {
+     "top": 415.3,
+     "text": "(b) Executive Directors appointed under this Act."
+    },
+    {
+     "top": 434.5,
+     "text": "19.—(1) The Board may appoint such other persons to be employees"
+    },
+    {
+     "top": 447.8,
+     "text": "of the Service for the proper and efficient performance of the functions of the"
+    },
+    {
+     "top": 461.0,
+     "text": "Service under this Act and on such terms and conditions as may be prescribed"
+    },
+    {
+     "top": 474.2,
+     "text": "by the Board."
+    },
+    {
+     "top": 493.4,
+     "text": "(2) Where the Board thinks it expedient that any vacancy in the Service"
+    },
+    {
+     "top": 506.6,
+     "text": "should be filled by a person holding office in the Civil Service of the Federation"
+    },
+    {
+     "top": 519.8,
+     "text": "or of a State, it shall notify the appropriate Civil Service to that effect and"
+    },
+    {
+     "top": 533.0,
+     "text": "thereafter the Board, may, by arrangement with the Civil Service Commission"
+    },
+    {
+     "top": 546.2,
+     "text": "concerned, cause such vacancy to be filled by way of secondment or transfer."
+    },
+    {
+     "top": 565.4,
+     "text": "(3) On grounds of public policy or for the purpose of capacity building or"
+    },
+    {
+     "top": 578.6,
+     "text": "comparative experience, the Service may approve a temporary stay of any"
+    },
+    {
+     "top": 591.8,
+     "text": "staff of the Service with agencies, organisations or other bodies subject to"
+    },
+    {
+     "top": 605.0,
+     "text": "such terms and conditions as the Service may deem fit."
+    },
+    {
+     "top": 624.2,
+     "text": "(4) The Service may engage relevant professional consultants, or agents"
+    },
+    {
+     "top": 637.4,
+     "text": "to transact any business or to do any act required to be transacted or done in"
+    },
+    {
+     "top": 650.6,
+     "text": "the execution of its functions under this Act, provided that such consultants"
+    },
+    {
+     "top": 663.8,
+     "text": "shall not carry out the duties of assessment or collection of tax, tax compliance"
+    },
+    {
+     "top": 677.0,
+     "text": "or enforcement activities, or routine responsibilities of tax officials."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 320.2,
+     "text": "Establishment and composition of the Management Committee"
+    },
+    {
+     "top": 434.0,
+     "text": "Staff of the Service"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "gazette_label": "A243",
+   "lines": [
+    {
+     "top": 176.1,
+     "text": "20.—(1) Employment in the Service shall be subject to the provisions"
+    },
+    {
+     "top": 189.4,
+     "text": "of the Pension Reform Act, and an officer or a person holding pensionable"
+    },
+    {
+     "top": 202.6,
+     "text": "employment in the Service shall be entitled to pensions and other retirement"
+    },
+    {
+     "top": 215.8,
+     "text": "benefits as prescribed under the Pension Reform Act."
+    },
+    {
+     "top": 235.0,
+     "text": "(2) Notwithstanding the provisions of subsection (1) of this section, noth-"
+    },
+    {
+     "top": 248.2,
+     "text": "ing shall prevent the Board from appointing any person to any office on terms"
+    },
+    {
+     "top": 261.4,
+     "text": "which preclude the grant of pensions or other retirement benefits."
+    },
+    {
+     "top": 280.6,
+     "text": "(3) For the purpose of the application of the provisions of the Pension"
+    },
+    {
+     "top": 293.8,
+     "text": "Reform Act, any power exercisable by a Minister or other authority of the"
+    },
+    {
+     "top": 307.0,
+     "text": "Government of the Federation, not being the power to make regulations, is"
+    },
+    {
+     "top": 320.2,
+     "text": "vested in and shall be exercisable by the Board."
+    },
+    {
+     "top": 339.3,
+     "text": "21.—(1) Subject to the provisions of this Act, the Board may make regu-"
+    },
+    {
+     "top": 352.6,
+     "text": "lations relating generally to the conditions of service of the staff and, in par-"
+    },
+    {
+     "top": 365.8,
+     "text": "ticular, such regulations may provide for the appointment, promotion, disci-"
+    },
+    {
+     "top": 379.0,
+     "text": "pline, termination or dismissal of staff or employees of the Service."
+    },
+    {
+     "top": 398.2,
+     "text": "(2) The staff regulations made under subsection (1) shall be issued to its"
+    },
+    {
+     "top": 411.4,
+     "text": "staff in such manner as the Service may from time to time determine."
+    },
+    {
+     "top": 430.6,
+     "text": "PART V – FINANCIAL PROVISIONS"
+    },
+    {
+     "top": 449.7,
+     "text": "22. The Service shall establish and maintain a fund which shall consist"
+    },
+    {
+     "top": 463.0,
+     "text": "of, and to which shall be credited —"
+    },
+    {
+     "top": 482.1,
+     "text": "(a) four (4) per cent of the total revenue, less petroleum royalty, col-"
+    },
+    {
+     "top": 495.4,
+     "text": "lected by the Service, which shall be appropriated by the National Assem-"
+    },
+    {
+     "top": 508.6,
+     "text": "bly for the capital and recurrent expenditures of the Service;"
+    },
+    {
+     "top": 524.7,
+     "text": "(b) all sums of money accruing to the Service by way of grants-in-aid,"
+    },
+    {
+     "top": 538.0,
+     "text": "gifts, testamentary dispositions, endowments and contributions from any"
+    },
+    {
+     "top": 551.2,
+     "text": "source;"
+    },
+    {
+     "top": 567.3,
+     "text": "(c) such moneys as may be granted to the Service by the Federal, State"
+    },
+    {
+     "top": 580.6,
+     "text": "or Local Governments or other donor agencies, provided such grants are"
+    },
+    {
+     "top": 593.8,
+     "text": "not intended for purposes contrary to the objective of the Act or functions"
+    },
+    {
+     "top": 607.0,
+     "text": "of the Service; and"
+    },
+    {
+     "top": 623.1,
+     "text": "(d) all other moneys which may, from time to time, accrue to the Service"
+    },
+    {
+     "top": 636.4,
+     "text": "from other sources, including charges for assistance in tax collection, the"
+    },
+    {
+     "top": 649.6,
+     "text": "disposal, lease or hire of, or any other dealing with, any property vested in or"
+    },
+    {
+     "top": 662.8,
+     "text": "acquired by the Service."
+    },
+    {
+     "top": 681.9,
+     "text": "23. The Fund established under section 22 of this Act shall be used"
+    },
+    {
+     "top": 695.2,
+     "text": "for —"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 177.2,
+     "text": "Pension Act No. 4 2014"
+    },
+    {
+     "top": 340.9,
+     "text": "Staff regulations"
+    },
+    {
+     "top": 450.1,
+     "text": "Fund of the Service"
+    },
+    {
+     "top": 684.2,
+     "text": "Expenditure of the Service"
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "gazette_label": "A244",
+   "lines": [
+    {
+     "top": 175.2,
+     "text": "(a) acquisition and upkeep of premises belonging to the Service and any"
+    },
+    {
+     "top": 188.5,
+     "text": "other capital expenditure of the Service;"
+    },
+    {
+     "top": 204.6,
+     "text": "(b) costs necessary for the day-to-day operations of the Service;"
+    },
+    {
+     "top": 220.8,
+     "text": "(c) investments, maintenance of utilities, staff promotion, training, re-"
+    },
+    {
+     "top": 234.1,
+     "text": "search and similar activities;"
+    },
+    {
+     "top": 250.2,
+     "text": "(d) emoluments and allowances payable to the Executive Chairman and"
+    },
+    {
+     "top": 263.5,
+     "text": "other members of the Board;"
+    },
+    {
+     "top": 279.6,
+     "text": "(e) reimbursements to members of the Board or any committee set up by"
+    },
+    {
+     "top": 292.9,
+     "text": "the Board for such expenses as may be expressly authorised by the Ser-"
+    },
+    {
+     "top": 306.1,
+     "text": "vice;"
+    },
+    {
+     "top": 322.2,
+     "text": "(f) remunerations and other costs of employment of the staff of the Ser-"
+    },
+    {
+     "top": 335.5,
+     "text": "vice;"
+    },
+    {
+     "top": 351.6,
+     "text": "(g) pensions and other retirement benefits under or pursuant to this Act"
+    },
+    {
+     "top": 364.9,
+     "text": "or any other law;"
+    },
+    {
+     "top": 381.0,
+     "text": "(h) all sums of money payable by the Service by way of grants-in-aids,"
+    },
+    {
+     "top": 394.3,
+     "text": "gifts, testamentary dispositions, endowments, etc.; and"
+    },
+    {
+     "top": 410.4,
+     "text": "(i) any other payment for anything incidental to the foregoing provisions"
+    },
+    {
+     "top": 423.7,
+     "text": "or in connection with or incidental to any other function of the Service under"
+    },
+    {
+     "top": 436.9,
+     "text": "this Act."
+    },
+    {
+     "top": 455.9,
+     "text": "24. The Service shall prepare, not later than 30th September in each"
+    },
+    {
+     "top": 469.3,
+     "text": "year, an estimate of its income and expenditure for the succeeding year for the"
+    },
+    {
+     "top": 482.5,
+     "text": "purpose of appropriation by the National Assembly."
+    },
+    {
+     "top": 501.5,
+     "text": "25.— (1) The Service shall keep proper accounts and records, and such"
+    },
+    {
+     "top": 514.9,
+     "text": "accounts shall, not later than six months after the end of each year, be audited"
+    },
+    {
+     "top": 528.1,
+     "text": "by auditors appointed by the Board from the list and in accordance with the"
+    },
+    {
+     "top": 541.3,
+     "text": "guidelines supplied by the Auditor-General for the Federation."
+    },
+    {
+     "top": 560.5,
+     "text": "(2) The Service shall, through the relevant committee, submit to the Na-"
+    },
+    {
+     "top": 573.7,
+     "text": "tional Assembly, quarterly and annual reports on its activities, performance,"
+    },
+    {
+     "top": 586.9,
+     "text": "and financial statements."
+    },
+    {
+     "top": 606.1,
+     "text": "(3) The reports specified in subsection (2) of this section shall include the"
+    },
+    {
+     "top": 619.3,
+     "text": "detailed account of revenue collection, expenditure, policy implementation"
+    },
+    {
+     "top": 632.5,
+     "text": "progress, and compliance with national fiscal objectives, and such other details"
+    },
+    {
+     "top": 645.7,
+     "text": "as the National Assembly may require."
+    },
+    {
+     "top": 664.7,
+     "text": "26.—(1) The Service shall, not later than 30 June each year, submit to"
+    },
+    {
+     "top": 678.1,
+     "text": "the Minister, a report of its activities during the immediate preceding year and"
+    },
+    {
+     "top": 691.3,
+     "text": "shall include in such report the audited accounts of the Service."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 456.2,
+     "text": "Estimates"
+    },
+    {
+     "top": 500.6,
+     "text": "Accounts and audit"
+    },
+    {
+     "top": 664.8,
+     "text": "Annual report"
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "gazette_label": "A245",
+   "lines": [
+    {
+     "top": 176.2,
+     "text": "(2) The Minister shall within 30 days of receipt of the report present a"
+    },
+    {
+     "top": 189.4,
+     "text": "copy of the report to the —"
+    },
+    {
+     "top": 208.5,
+     "text": "(a) Federal Executive Council; and"
+    },
+    {
+     "top": 224.7,
+     "text": "(b) National Assembly."
+    },
+    {
+     "top": 244.0,
+     "text": "(3) Upon receipt of the report in subsection (2)(b) of this section, the"
+    },
+    {
+     "top": 257.2,
+     "text": "National Assembly may summon the Executive Chairman or members of the"
+    },
+    {
+     "top": 270.4,
+     "text": "Board in respect of matters relating to the administration, governance, and"
+    },
+    {
+     "top": 283.6,
+     "text": "financial management of the Service."
+    },
+    {
+     "top": 302.7,
+     "text": "27.—(1) Subject to subsection (2) of this section, the Service may accept"
+    },
+    {
+     "top": 316.0,
+     "text": "gifts of land, money or other property on such terms and conditions, if any, as"
+    },
+    {
+     "top": 329.2,
+     "text": "may be specified by the person or organisation making the gift."
+    },
+    {
+     "top": 348.4,
+     "text": "(2) The Service shall not accept any gift if the conditions attached are"
+    },
+    {
+     "top": 361.6,
+     "text": "inconsistent with any law."
+    },
+    {
+     "top": 380.7,
+     "text": "28. The Service may borrow by way of loan, overdraft or otherwise"
+    },
+    {
+     "top": 394.0,
+     "text": "from any source, such sums as it may require for the performance of its func-"
+    },
+    {
+     "top": 407.2,
+     "text": "tions and meeting of its obligations under this Act."
+    },
+    {
+     "top": 420.4,
+     "text": "Provided that the Service shall, prior to such borrowing, obtain the"
+    },
+    {
+     "top": 433.6,
+     "text": "approval of the Federal Executive Council and the National Assembly"
+    },
+    {
+     "top": 452.7,
+     "text": "29. The Service is exempt from all income taxes imposed under any law"
+    },
+    {
+     "top": 466.0,
+     "text": "in Nigeria provided that the exemption shall not relieve the Service from the"
+    },
+    {
+     "top": 479.2,
+     "text": "statutory obligation to deduct and remit taxes as may be required by the rel-"
+    },
+    {
+     "top": 492.4,
+     "text": "evant tax laws"
+    },
+    {
+     "top": 511.5,
+     "text": "30. The Executive Chairman of the Service shall —"
+    },
+    {
+     "top": 530.7,
+     "text": "(a) keep proper accounting records in a manner determined by the Board"
+    },
+    {
+     "top": 544.0,
+     "text": "or relevant law, in respect of all —"
+    },
+    {
+     "top": 560.1,
+     "text": "(i) revenues and expenditure of the Service,"
+    },
+    {
+     "top": 576.3,
+     "text": "(ii) its assets, liabilities and other financial transactions, and"
+    },
+    {
+     "top": 592.5,
+     "text": "(iii) other revenues collected by the Service, including income on in-"
+    },
+    {
+     "top": 605.8,
+     "text": "vestments ;"
+    },
+    {
+     "top": 621.9,
+     "text": "(b) prepare an annual report, including financial statements, in accor-"
+    },
+    {
+     "top": 635.2,
+     "text": "dance with generally accepted accounting principles and practices ;"
+    },
+    {
+     "top": 651.3,
+     "text": "(c) ensure that the available accounting resources of the Service are"
+    },
+    {
+     "top": 664.6,
+     "text": "adequate and used economically in the most effective and efficient manner,"
+    },
+    {
+     "top": 677.8,
+     "text": "and the accounting and other financial records are properly safeguarded ;"
+    },
+    {
+     "top": 691.0,
+     "text": "and"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 303.8,
+     "text": "Power to accept gifts"
+    },
+    {
+     "top": 381.8,
+     "text": "Power to borrow"
+    },
+    {
+     "top": 453.6,
+     "text": "Tax exemptions"
+    },
+    {
+     "top": 514.4,
+     "text": "Accountability"
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "gazette_label": "A246",
+   "lines": [
+    {
+     "top": 176.1,
+     "text": "(d) submit to the Minister and National Assembly in exercise of their"
+    },
+    {
+     "top": 189.4,
+     "text": "supervisory authority —"
+    },
+    {
+     "top": 205.5,
+     "text": "(i) strategic plans and annual budgets,"
+    },
+    {
+     "top": 221.7,
+     "text": "(ii) regular reports and updates on the performance of the Service,"
+    },
+    {
+     "top": 235.0,
+     "text": "and"
+    },
+    {
+     "top": 251.1,
+     "text": "(iii) other information as may be required."
+    },
+    {
+     "top": 270.4,
+     "text": "(2) The Minister shall have the powers to make recommendations as nec-"
+    },
+    {
+     "top": 283.6,
+     "text": "essary to ensure fiscal discipline, alignment with national economic priori-"
+    },
+    {
+     "top": 296.8,
+     "text": "ties and efficiency of the Service."
+    },
+    {
+     "top": 316.0,
+     "text": "(3) The Executive Chairman shall submit progress reports to the Minister"
+    },
+    {
+     "top": 329.2,
+     "text": "and National Assembly, following implementation of the recommendations"
+    },
+    {
+     "top": 342.4,
+     "text": "received in subsection (2) of this section."
+    },
+    {
+     "top": 361.5,
+     "text": "31.—(1) The Minister may, after consultation with the Executive Chair-"
+    },
+    {
+     "top": 374.8,
+     "text": "man, give written directions to the Service on general policy matters and the"
+    },
+    {
+     "top": 388.0,
+     "text": "Service shall comply with such directions."
+    },
+    {
+     "top": 407.2,
+     "text": "(2) The Minister shall not give any direction in respect of any particular"
+    },
+    {
+     "top": 420.4,
+     "text": "person which would have the effect of requiring the Service to increase or"
+    },
+    {
+     "top": 433.6,
+     "text": "decrease any assessment of tax made or to be made or any relief given or to"
+    },
+    {
+     "top": 446.8,
+     "text": "be given or to defer the collection of any tax or judgement debt due, or which"
+    },
+    {
+     "top": 460.0,
+     "text": "would have the effect of initiating, forbidding the initiation of, withdrawing or"
+    },
+    {
+     "top": 473.2,
+     "text": "altering the normal course of any legal proceeding, relating either to the recov-"
+    },
+    {
+     "top": 486.4,
+     "text": "ery of any tax or to any offence under any of the tax laws listed in the Second"
+    },
+    {
+     "top": 499.6,
+     "text": "Schedule."
+    },
+    {
+     "top": 518.8,
+     "text": "(3) In any legal proceeding under this Act or any of the laws administered by"
+    },
+    {
+     "top": 532.0,
+     "text": "the Service, any act or thing done by the Service or the Board in pursuance of"
+    },
+    {
+     "top": 545.2,
+     "text": "any of the laws referred to in subsection (2) of this section shall not be subject"
+    },
+    {
+     "top": 558.4,
+     "text": "to challenge on the ground that such act or thing done was not proved to be in"
+    },
+    {
+     "top": 571.6,
+     "text": "accordance with any direction given by the Minister, except on general policy"
+    },
+    {
+     "top": 584.8,
+     "text": "matters under subsection (1) of this section."
+    },
+    {
+     "top": 604.0,
+     "text": "PART VI – MISCELLANEOUS PROVISION"
+    },
+    {
+     "top": 623.1,
+     "text": "32.—(1) Without prejudice to the provisions of any other Act concerning"
+    },
+    {
+     "top": 636.4,
+     "text": "data privacy or data protection, institutional information or communication, all"
+    },
+    {
+     "top": 649.6,
+     "text": "internal information, communications, documents or memoranda of the Ser-"
+    },
+    {
+     "top": 662.8,
+     "text": "vice are confidential."
+    },
+    {
+     "top": 682.0,
+     "text": "(2) Except as otherwise provided under this Act, any other law or any"
+    },
+    {
+     "top": 695.2,
+     "text": "enabling agreement or arrangement or as otherwise authorised by the"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 360.7,
+     "text": "General directions of the Minister"
+    },
+    {
+     "top": 487.4,
+     "text": "Second Schedule"
+    },
+    {
+     "top": 624.0,
+     "text": "Information and documents to be confidential"
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "gazette_label": "A247",
+   "lines": [
+    {
+     "top": 176.2,
+     "text": "Executive Chairman or management of the Service, any person who discloses"
+    },
+    {
+     "top": 189.4,
+     "text": "or attempts to disclose institutional information, communication, document or"
+    },
+    {
+     "top": 202.6,
+     "text": "memorandum of the Service is liable on conviction to a fine not exceeding"
+    },
+    {
+     "top": 215.8,
+     "text": "N5,000,000.00 or to imprisonment for a term not exceeding three years or to"
+    },
+    {
+     "top": 229.0,
+     "text": "both fine and imprisonment."
+    },
+    {
+     "top": 248.1,
+     "text": "33.—(1) A person acting in an official capacity or employed in the"
+    },
+    {
+     "top": 261.4,
+     "text": "administration of this Act shall regard and deal with originals or copies of all"
+    },
+    {
+     "top": 274.6,
+     "text": "documents, information, returns, notices or assessment, lists relating to the"
+    },
+    {
+     "top": 287.8,
+     "text": "business, assets, liabilities, profits or items of profits of any person as secret"
+    },
+    {
+     "top": 301.0,
+     "text": "and confidential."
+    },
+    {
+     "top": 320.2,
+     "text": "(2) A person acting in an official capacity or employed in the administra-"
+    },
+    {
+     "top": 333.4,
+     "text": "tion of this Act who, being in possession of or control of, originals or copies of"
+    },
+    {
+     "top": 346.6,
+     "text": "any document, information, return, notice or assessment, list relating to busi-"
+    },
+    {
+     "top": 359.8,
+     "text": "ness, assets, liabilities, profits or items of profits of any person, communicates"
+    },
+    {
+     "top": 373.0,
+     "text": "or attempts to communicate such information or anything contained in the"
+    },
+    {
+     "top": 386.2,
+     "text": "document, return, notice or assessment, list or copy to any person other than -"
+    },
+    {
+     "top": 405.3,
+     "text": "(a) a person authorised by the Service to communicate it;"
+    },
+    {
+     "top": 421.5,
+     "text": "(b) by an order of the court; or"
+    },
+    {
+     "top": 437.7,
+     "text": "(c) for the purpose of this Act or any other tax law in Nigeria,"
+    },
+    {
+     "top": 457.0,
+     "text": "commits an offence under this Act is liable on conviction to a fine not exceed-"
+    },
+    {
+     "top": 470.2,
+     "text": "ing N5,000,000.00 or to imprisonment for a term not exceeding three years or"
+    },
+    {
+     "top": 483.4,
+     "text": "to both fine and imprisonment."
+    },
+    {
+     "top": 502.6,
+     "text": "(3) A person appointed or employed under this Act shall not be required"
+    },
+    {
+     "top": 515.8,
+     "text": "to produce any document, information, return, notice or assessment, or to di-"
+    },
+    {
+     "top": 529.0,
+     "text": "vulge or communicate any information that comes into his possession in the"
+    },
+    {
+     "top": 542.2,
+     "text": "performance of his duties except as may be necessary in order to institute a"
+    },
+    {
+     "top": 555.4,
+     "text": "legal proceeding or in the course of a legal proceeding relating to tax in Nige-"
+    },
+    {
+     "top": 568.6,
+     "text": "ria."
+    },
+    {
+     "top": 587.8,
+     "text": "(4) The obligation as to secrecy imposed by this Act shall not prevent the"
+    },
+    {
+     "top": 601.0,
+     "text": "disclosure of relevant information to an authorised officer of the Government"
+    },
+    {
+     "top": 614.2,
+     "text": "of a country with which Nigeria has entered into any treaty, agreement or"
+    },
+    {
+     "top": 627.4,
+     "text": "arrangement on tax matters."
+    },
+    {
+     "top": 646.5,
+     "text": "34. Anything done or required to be done by the Service pursuant to any"
+    },
+    {
+     "top": 659.8,
+     "text": "of its powers or functions under this Act or the laws listed in the Second"
+    },
+    {
+     "top": 673.0,
+     "text": "Schedule may be endorsed by the Executive Chairman or an authorised"
+    },
+    {
+     "top": 686.2,
+     "text": "officer of the Service."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 251.2,
+     "text": "Official secrecy and confidentiality"
+    },
+    {
+     "top": 649.0,
+     "text": "Endorsement Second Schedule"
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "gazette_label": "A248",
+   "lines": [
+    {
+     "top": 176.1,
+     "text": "35.—(1) Subject to the provisions of this Act, the provisions of the Public"
+    },
+    {
+     "top": 189.4,
+     "text": "Officers Protection Act shall apply in relation to any suit instituted against any"
+    },
+    {
+     "top": 202.6,
+     "text": "member of the Board, the Executive Chairman, officer or employee of the"
+    },
+    {
+     "top": 215.8,
+     "text": "Service or the Service."
+    },
+    {
+     "top": 235.0,
+     "text": "(2) Notwithstanding anything contained in any other law, no suit against"
+    },
+    {
+     "top": 248.2,
+     "text": "the Service, Executive Chairman, member of the Board, or any other officer"
+    },
+    {
+     "top": 261.4,
+     "text": "or employee of the Service for any act done in pursuance of this Act, any other"
+    },
+    {
+     "top": 274.6,
+     "text": "law, any public duty or authority, or in respect of any alleged neglect or default"
+    },
+    {
+     "top": 287.8,
+     "text": "in the execution of the provisions of this Act, shall lie or be instituted in any"
+    },
+    {
+     "top": 301.0,
+     "text": "court unless it is commenced -"
+    },
+    {
+     "top": 320.1,
+     "text": "(a) within three months after the act, neglect or default complained of; or"
+    },
+    {
+     "top": 336.3,
+     "text": "(b) in the case of a continuation of damage or injury, within six months"
+    },
+    {
+     "top": 349.6,
+     "text": "after the ceasing of such damage or injury."
+    },
+    {
+     "top": 368.8,
+     "text": "(3) No suit shall be commenced against the Service, Executive Chair-"
+    },
+    {
+     "top": 382.0,
+     "text": "man, a member of the Board, or any other officer or employee of the Service"
+    },
+    {
+     "top": 395.2,
+     "text": "before the expiration of one month after written notice of intention to com-"
+    },
+    {
+     "top": 408.4,
+     "text": "mence the suit shall have been served on it by the intending plaintiff or his"
+    },
+    {
+     "top": 421.6,
+     "text": "agent."
+    },
+    {
+     "top": 440.8,
+     "text": "(4) The notice referred to in subsection (3) of this section shall clearly"
+    },
+    {
+     "top": 454.0,
+     "text": "state the —"
+    },
+    {
+     "top": 473.1,
+     "text": "(a) cause of action;"
+    },
+    {
+     "top": 489.3,
+     "text": "(b) particulars of claim;"
+    },
+    {
+     "top": 505.5,
+     "text": "(c) name and place of abode of the intending plaintiff; and"
+    },
+    {
+     "top": 521.7,
+     "text": "(d) relief to be claimed."
+    },
+    {
+     "top": 540.9,
+     "text": "36. A notice, summons or other document required or authorised to be"
+    },
+    {
+     "top": 554.2,
+     "text": "served on the Service under the provisions of this Act or any other law may be"
+    },
+    {
+     "top": 567.4,
+     "text": "served by delivering it to the Executive Chairman, sending it by registered"
+    },
+    {
+     "top": 580.6,
+     "text": "post, courier or substituted service addressed to the Executive Chairman at"
+    },
+    {
+     "top": 593.8,
+     "text": "the principal office of the Service, delivered to a designated e-mail address of"
+    },
+    {
+     "top": 607.0,
+     "text": "the Service, or other electronic means as may be provided by the Service."
+    },
+    {
+     "top": 626.1,
+     "text": "37.—(1) In any action or suit against the Service, no execution or at-"
+    },
+    {
+     "top": 639.4,
+     "text": "tachment of process in the nature thereof shall be issued against the Service"
+    },
+    {
+     "top": 652.6,
+     "text": "unless, at least, three months' notice of the intention to execute or attach has"
+    },
+    {
+     "top": 665.8,
+     "text": "been given to the Service."
+    },
+    {
+     "top": 685.0,
+     "text": "(2) Any sum of money which by the judgement of any court has been"
+    },
+    {
+     "top": 698.2,
+     "text": "awarded against the Service shall, subject to any direction given by the court,"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 176.2,
+     "text": "Limitation of suits against the Service"
+    },
+    {
+     "top": 540.6,
+     "text": "Service of documents"
+    },
+    {
+     "top": 626.2,
+     "text": "Restriction on execution against property of the Service"
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "gazette_label": "A249",
+   "lines": [
+    {
+     "top": 176.2,
+     "text": "where no notice of appeal against the judgement has been given, be paid from"
+    },
+    {
+     "top": 189.4,
+     "text": "the fund of the Service."
+    },
+    {
+     "top": 202.5,
+     "text": "38. The Executive Chairman, Executive Director, member of the Board"
+    },
+    {
+     "top": 215.8,
+     "text": "or any officer or employee of the Service shall be indemnified out of the assets"
+    },
+    {
+     "top": 229.0,
+     "text": "of the Service against any liability incurred in defending any legal proceeding,"
+    },
+    {
+     "top": 242.2,
+     "text": "brought against them in their capacity as Executive Chairman, member of the"
+    },
+    {
+     "top": 255.4,
+     "text": "Board, officer or other employee of the Service."
+    },
+    {
+     "top": 274.5,
+     "text": "39. The Accountant-General of the Federation shall, not later than 30"
+    },
+    {
+     "top": 287.8,
+     "text": "days of receiving a warrant endorsed by the Executive Chairman of the Ser-"
+    },
+    {
+     "top": 301.0,
+     "text": "vice and approved by a judicial officer in accordance with the Third Schedule"
+    },
+    {
+     "top": 314.2,
+     "text": "to this Act, deduct un-remitted revenue due from any Ministry, Department,"
+    },
+    {
+     "top": 327.4,
+     "text": "Agency of Government from its annual budgetary allocation or such other"
+    },
+    {
+     "top": 340.6,
+     "text": "money accruing to it, and shall remit the deductions to the Service."
+    },
+    {
+     "top": 365.7,
+     "text": "40.—(1) The Federal Inland Revenue Service (Establishment) Act No."
+    },
+    {
+     "top": 379.0,
+     "text": "13, 2007 (\"the repealed Act\"') is repealed."
+    },
+    {
+     "top": 404.2,
+     "text": "(2) Without prejudice to section 6 of the Interpretation Act, the repeal of"
+    },
+    {
+     "top": 417.4,
+     "text": "the Act referred to in subsection (1) of this section shall not affect anything"
+    },
+    {
+     "top": 430.6,
+     "text": "done or purported to have been done under the repealed Act."
+    },
+    {
+     "top": 449.7,
+     "text": "41. Notwithstanding anything in this Act —"
+    },
+    {
+     "top": 468.9,
+     "text": "(a) the \"Nigeria Revenue Service\" is vested with all powers, rights,"
+    },
+    {
+     "top": 482.2,
+     "text": "functions, obligations, and other acts of the Federal Inland Revenue Service"
+    },
+    {
+     "top": 495.3,
+     "text": "(\"the Former Service\") ;"
+    },
+    {
+     "top": 514.5,
+     "text": "(b) anything done or purported to have been done by the former Service,"
+    },
+    {
+     "top": 527.8,
+     "text": "its Board, Technical Committee or the Executive Chairman shall continue"
+    },
+    {
+     "top": 541.0,
+     "text": "to subsist as if done under this Act and any action or purported action shall"
+    },
+    {
+     "top": 554.2,
+     "text": "be deemed to have been taken by the Service, Board, Technical Committee"
+    },
+    {
+     "top": 567.4,
+     "text": "or Executive Chairman established under this Act ;"
+    },
+    {
+     "top": 583.5,
+     "text": "(c) the employment of a director, officer or employee who, immediately"
+    },
+    {
+     "top": 596.8,
+     "text": "before the commencement of this Act, held office in the former Service is"
+    },
+    {
+     "top": 610.0,
+     "text": "transferred to the Service established under this Act on terms and condi-"
+    },
+    {
+     "top": 623.2,
+     "text": "tions not less favourable than those obtainable immediately upon the com-"
+    },
+    {
+     "top": 636.4,
+     "text": "mencement of this Act ;"
+    },
+    {
+     "top": 652.5,
+     "text": "(d) all the rights and obligations previously vested in the Executive Chair-"
+    },
+    {
+     "top": 665.8,
+     "text": "man of the former Service under the repealed Act are hereby transferred to"
+    },
+    {
+     "top": 679.0,
+     "text": "the Executive Chairman appointed under this Act ;"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 177.2,
+     "text": "Indemnity"
+    },
+    {
+     "top": 275.2,
+     "text": "Accountant- General to deduct unremitted revenue"
+    },
+    {
+     "top": 333.2,
+     "text": "Third Schedule"
+    },
+    {
+     "top": 365.8,
+     "text": "Repeal of Act No. 13, 2007"
+    },
+    {
+     "top": 420.2,
+     "text": "Cap. I23, LFN, 2004"
+    },
+    {
+     "top": 451.2,
+     "text": "Savings and transitional provisions"
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "gazette_label": "A250",
+   "lines": [
+    {
+     "top": 176.1,
+     "text": "(e) all notices, guidelines, rules, orders, regulations, or other subsidiary"
+    },
+    {
+     "top": 189.4,
+     "text": "legislations, legal proceedings, appeals, made under the repealed Act shall"
+    },
+    {
+     "top": 202.6,
+     "text": "continue to have effect as if made under the corresponding provisions of"
+    },
+    {
+     "top": 215.8,
+     "text": "this Act;"
+    },
+    {
+     "top": 231.9,
+     "text": "(f) any enforcement process or proceedings commenced or pending prior"
+    },
+    {
+     "top": 245.2,
+     "text": "to the commencement of this Act in connection with any breach, contra-"
+    },
+    {
+     "top": 258.4,
+     "text": "vention or noncompliance of or under the repealed Act may be continued"
+    },
+    {
+     "top": 271.6,
+     "text": "and disposed of under the repealed Act ;"
+    },
+    {
+     "top": 287.7,
+     "text": "(g) all assets, funds, resources and other immovable property which,"
+    },
+    {
+     "top": 301.0,
+     "text": "before the commencement of this Act, were vested in the former Service"
+    },
+    {
+     "top": 314.2,
+     "text": "shall be vested in the Service established under this Act ;"
+    },
+    {
+     "top": 330.3,
+     "text": "(h) the administration of any real property that was before the coming"
+    },
+    {
+     "top": 343.6,
+     "text": "into force of this Act under the administration or administrative responsibil-"
+    },
+    {
+     "top": 356.8,
+     "text": "ity of the former Service is transferred to the Service established under this"
+    },
+    {
+     "top": 370.0,
+     "text": "Act ;"
+    },
+    {
+     "top": 386.1,
+     "text": "(i) all rights, interests, obligations and liabilities of the former Service"
+    },
+    {
+     "top": 399.4,
+     "text": "existing before the commencement of this Act under any contract or instru-"
+    },
+    {
+     "top": 412.6,
+     "text": "ment, or in law or in equity, shall by virtue of this Act, be vested in the"
+    },
+    {
+     "top": 425.8,
+     "text": "Service established under this Act ;"
+    },
+    {
+     "top": 441.9,
+     "text": "(j) any contract or instrument referred to in paragraph (j) of this section"
+    },
+    {
+     "top": 455.2,
+     "text": "shall be of the same force and effect against or in favour of the Service"
+    },
+    {
+     "top": 468.4,
+     "text": "established under this Act and shall be enforceable as fully and effectively"
+    },
+    {
+     "top": 481.6,
+     "text": "as if, the former Service existing before the commencement of this Act, had"
+    },
+    {
+     "top": 494.8,
+     "text": "been named or had been a party ; and"
+    },
+    {
+     "top": 510.9,
+     "text": "(k) every affidavit sworn or document duly certified by an officer of the"
+    },
+    {
+     "top": 524.2,
+     "text": "former Service before the coming into force of this Act has the same pro-"
+    },
+    {
+     "top": 537.4,
+     "text": "bative value as if it were sworn or certified by an employee of the Service"
+    },
+    {
+     "top": 550.6,
+     "text": "established under this Act."
+    },
+    {
+     "top": 566.7,
+     "text": "(l) any disciplinary proceeding, appeal or grievance pending or existing"
+    },
+    {
+     "top": 580.0,
+     "text": "against any employee of the former Service, shall be continued and com-"
+    },
+    {
+     "top": 593.2,
+     "text": "pleted by the Service established under this Act."
+    },
+    {
+     "top": 612.3,
+     "text": "42. In this Act —"
+    },
+    {
+     "top": 631.5,
+     "text": "\"Authorised Officer\" means any person employed in the Service or, for"
+    },
+    {
+     "top": 644.8,
+     "text": "the time being, performing duties in relation to tax who has been specifically"
+    },
+    {
+     "top": 658.0,
+     "text": "authorized by the Board or the Executive Chairman to perform or carry out"
+    },
+    {
+     "top": 671.2,
+     "text": "specific functions under this Act ;"
+    },
+    {
+     "top": 687.3,
+     "text": "\"Board\" the Governing Board of the Service established under section 6"
+    },
+    {
+     "top": 700.6,
+     "text": "of this Act ;"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 612.6,
+     "text": "Interpretation"
+    }
+   ]
+  },
+  {
+   "page": 23,
+   "gazette_label": "A251",
+   "lines": [
+    {
+     "top": 176.1,
+     "text": "\"Executive Director\" refers to the Executive Director"
+    },
+    {
+     "top": 189.4,
+     "text": "section 17 of this Act ;"
+    },
+    {
+     "top": 208.5,
+     "text": "43. This Act may be cited as the Nigeria Revenue"
+    },
+    {
+     "top": 221.8,
+     "text": "ment) Act, 2025."
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 176.2,
+     "text": "appointed under"
+    },
+    {
+     "top": 208.6,
+     "text": "Service (Establish- Short title"
+    }
+   ]
+  },
+  {
+   "page": 24,
+   "gazette_label": "A252",
+   "lines": [
+    {
+     "top": 176.2,
+     "text": "SCHEDULES"
+    },
+    {
+     "top": 202.6,
+     "text": "First Schedule"
+    },
+    {
+     "top": 215.7,
+     "text": "Section 7(3)"
+    },
+    {
+     "top": 242.2,
+     "text": "SUPPLEMENTARY PROVISIONS RELATING TO THE BOARD"
+    },
+    {
+     "top": 261.3,
+     "text": "Proceedings of the Board"
+    },
+    {
+     "top": 278.5,
+     "text": "1. Subject to this Act and section 27 of the Interpretation Act, the Board"
+    },
+    {
+     "top": 291.8,
+     "text": "shall have power to regulate its proceedings and may make standing orders"
+    },
+    {
+     "top": 305.0,
+     "text": "with respect to the holding of its meetings, and those of its committees, notices"
+    },
+    {
+     "top": 318.2,
+     "text": "to be given, the keeping of minutes of its proceedings, the custody and produc-"
+    },
+    {
+     "top": 331.4,
+     "text": "tion for inspection of such minutes and such other matters as the Board may,"
+    },
+    {
+     "top": 344.6,
+     "text": "from time to time, determine."
+    },
+    {
+     "top": 363.7,
+     "text": "2. There shall be at least four ordinary meetings of the Board in every"
+    },
+    {
+     "top": 377.0,
+     "text": "calendar year and subject to, the Board shall meet whenever it is convened by"
+    },
+    {
+     "top": 390.2,
+     "text": "the Chairman, and if the Chairman is requested to do so by notice given by not"
+    },
+    {
+     "top": 403.4,
+     "text": "less than four other members, a meeting of the Board shall be convened within"
+    },
+    {
+     "top": 416.6,
+     "text": "14 days from the date on which the notice was given."
+    },
+    {
+     "top": 435.7,
+     "text": "3. Every meeting of the Board shall be presided over by the Chairman"
+    },
+    {
+     "top": 449.0,
+     "text": "and if the Chairman is unable to attend, the members present at the meeting"
+    },
+    {
+     "top": 462.2,
+     "text": "shall elect one of them to preside at the meeting."
+    },
+    {
+     "top": 481.3,
+     "text": "4. The quorum of any meeting of the Board shall consist of the Chair-"
+    },
+    {
+     "top": 494.6,
+     "text": "man, or the person presiding at the meeting pursuant to paragraph 2 of this"
+    },
+    {
+     "top": 507.8,
+     "text": "Schedule, and four other members."
+    },
+    {
+     "top": 526.9,
+     "text": "5. The Board shall meet for the conduct of its business at such places"
+    },
+    {
+     "top": 540.2,
+     "text": "and on such days as the Chairman may appoint."
+    },
+    {
+     "top": 559.3,
+     "text": "6. A question put before the Board at a meeting shall be decided by"
+    },
+    {
+     "top": 572.6,
+     "text": "consensus and where this is not possible, by a majority of the votes of the"
+    },
+    {
+     "top": 585.8,
+     "text": "members present and voting."
+    },
+    {
+     "top": 604.9,
+     "text": "7. The Chairman shall, in the case of an equality of votes, have a casting"
+    },
+    {
+     "top": 618.2,
+     "text": "vote in addition to a deliberative vote."
+    },
+    {
+     "top": 637.3,
+     "text": "8. Where the Board seeks the advice of any person on a particular mat-"
+    },
+    {
+     "top": 650.6,
+     "text": "ter, the Board may invite that person to attend for such period as it deems fit,"
+    },
+    {
+     "top": 663.8,
+     "text": "but a person who is invited by virtue of this paragraph shall not be entitled to"
+    },
+    {
+     "top": 677.0,
+     "text": "vote at any meeting of the Board and shall not count towards the quorum."
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 25,
+   "gazette_label": "A253",
+   "lines": [
+    {
+     "top": 176.1,
+     "text": "Committees"
+    },
+    {
+     "top": 195.3,
+     "text": "9. The Board may appoint one or more committees to carry out, on"
+    },
+    {
+     "top": 208.6,
+     "text": "behalf of the Board, such of its functions as the Board may determine and"
+    },
+    {
+     "top": 221.8,
+     "text": "report on any matter with which the Board is concerned."
+    },
+    {
+     "top": 240.9,
+     "text": "10. A Committee appointed under paragraph 9 of this Schedule shall be"
+    },
+    {
+     "top": 254.2,
+     "text": "presided over by a member of the Board and shall consist of such number of"
+    },
+    {
+     "top": 267.4,
+     "text": "persons, not necessarily all members of the Board, as may be determined by"
+    },
+    {
+     "top": 280.6,
+     "text": "the Board, and a person other than a member of the Board shall hold office on"
+    },
+    {
+     "top": 293.8,
+     "text": "the committee in accordance with the terms of appointment."
+    },
+    {
+     "top": 312.9,
+     "text": "11. A decision of a committee of the Board shall be of no effect until it"
+    },
+    {
+     "top": 326.2,
+     "text": "is confirmed by the Board."
+    },
+    {
+     "top": 345.3,
+     "text": "Miscellaneous"
+    },
+    {
+     "top": 362.5,
+     "text": "12. The fixing of the seal of the Service shall be authenticated by the"
+    },
+    {
+     "top": 375.8,
+     "text": "signature of the Executive Chairman and the Secretary to the Board or the"
+    },
+    {
+     "top": 389.0,
+     "text": "Executive Chairman and such other person authorised by the Board to act for"
+    },
+    {
+     "top": 402.2,
+     "text": "that purpose."
+    },
+    {
+     "top": 421.3,
+     "text": "13. A contract or an instalment which, if made or executed by a person"
+    },
+    {
+     "top": 434.6,
+     "text": "not being a body corporate, would not be required to be under seal, may be"
+    },
+    {
+     "top": 447.8,
+     "text": "made or executed on behalf of the Service by the Executive Chairman or by a"
+    },
+    {
+     "top": 461.0,
+     "text": "person generally or specifically authorised to act for that purpose by the Board."
+    },
+    {
+     "top": 480.1,
+     "text": "14. A document purporting to be a contract, an instrument or other"
+    },
+    {
+     "top": 493.4,
+     "text": "document signed or sealed on behalf of the Service shall be received in evi-"
+    },
+    {
+     "top": 506.6,
+     "text": "dence and, unless the contrary is proved, be presumed to have been properly"
+    },
+    {
+     "top": 519.8,
+     "text": "signed or sealed."
+    },
+    {
+     "top": 538.9,
+     "text": "15. The validity of any proceeding of the Board or its committees shall"
+    },
+    {
+     "top": 552.2,
+     "text": "not be affected by —"
+    },
+    {
+     "top": 571.3,
+     "text": "(a) any vacancy in the membership of the Board or its committees;"
+    },
+    {
+     "top": 587.5,
+     "text": "(b) reason that a person not entitled to do so took part in the proceedings;"
+    },
+    {
+     "top": 600.8,
+     "text": "or"
+    },
+    {
+     "top": 616.9,
+     "text": "(c) any defect in the appointment of a member."
+    },
+    {
+     "top": 636.1,
+     "text": "16. In the discharge of their responsibilities, members of the Board"
+    },
+    {
+     "top": 649.4,
+     "text": "shall —"
+    },
+    {
+     "top": 668.5,
+     "text": "(a) act in utmost good faith, with care, skill and diligence;"
+    },
+    {
+     "top": 684.7,
+     "text": "(b) not act in any circumstance where their personal interests conflict"
+    },
+    {
+     "top": 698.0,
+     "text": "with the interests of the Service ;"
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 26,
+   "gazette_label": "A254",
+   "lines": [
+    {
+     "top": 179.1,
+     "text": "(c) not make secret profit in the course of discharging their official duties"
+    },
+    {
+     "top": 192.4,
+     "text": "under this Act;"
+    },
+    {
+     "top": 208.5,
+     "text": "(d) not accept any gift or advantage in whatever form or manner for"
+    },
+    {
+     "top": 221.8,
+     "text": "anything done or likely to be done with respect to their responsibilities under"
+    },
+    {
+     "top": 235.0,
+     "text": "this Act; and"
+    },
+    {
+     "top": 251.1,
+     "text": "(e) adhere to all the duties and obligations specified for directors under"
+    },
+    {
+     "top": 264.4,
+     "text": "the Companies and Allied Matters Act."
+    },
+    {
+     "top": 283.5,
+     "text": "17. Any member of the Board or committee who has a personal interest"
+    },
+    {
+     "top": 296.8,
+     "text": "in any contract or arrangement entered into or proposed to be considered by"
+    },
+    {
+     "top": 310.0,
+     "text": "the Board or any committee shall –"
+    },
+    {
+     "top": 329.1,
+     "text": "(a) disclose such interest to the Board or committee ; and"
+    },
+    {
+     "top": 345.3,
+     "text": "(b) not vote on any question relating to the contract or arrangement."
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 27,
+   "gazette_label": "A255",
+   "lines": [
+    {
+     "top": 176.2,
+     "text": "Second Schedule"
+    },
+    {
+     "top": 189.3,
+     "text": "Sections 31 (2), 34"
+    },
+    {
+     "top": 215.8,
+     "text": "LEGISLATIONS ADMINISTERED BY THE SERVICE"
+    },
+    {
+     "top": 235.0,
+     "text": "1. Nigeria Tax Act, 2025."
+    },
+    {
+     "top": 254.2,
+     "text": "2. Nigeria Tax Administration Act, 2025."
+    },
+    {
+     "top": 273.4,
+     "text": "3. Laws imposing collection of taxes, fees and levies collected by other"
+    },
+    {
+     "top": 286.6,
+     "text": "Government entities including signature bonus, pipeline fees, penalty"
+    },
+    {
+     "top": 299.8,
+     "text": "for gas flared, depot levies and licences, fees for Oil Exploration Li-"
+    },
+    {
+     "top": 313.0,
+     "text": "cence (OEL), Oil Mining Licence (OML), Oil Production Licence"
+    },
+    {
+     "top": 326.2,
+     "text": "(OPL), royalties, rents (productive and non-productive), fees for li-"
+    },
+    {
+     "top": 339.4,
+     "text": "cences to operate drilling rigs, fees for oil pipeline licences, haulage"
+    },
+    {
+     "top": 352.6,
+     "text": "fees and all such fees prevalent in the oil industry but not limited to the"
+    },
+    {
+     "top": 365.8,
+     "text": "above listed."
+    },
+    {
+     "top": 385.0,
+     "text": "4. All regulations, proclamations, order, government notices or rules is-"
+    },
+    {
+     "top": 398.2,
+     "text": "sued in terms of these legislations or any revenue of the government."
+    },
+    {
+     "top": 417.4,
+     "text": "5. Any other law for the assessment, collection and accounting of rev-"
+    },
+    {
+     "top": 430.6,
+     "text": "enue accruable to the Government of the Federation as may be made"
+    },
+    {
+     "top": 443.8,
+     "text": "by the National Assembly from time to time or regulation incidental to"
+    },
+    {
+     "top": 457.0,
+     "text": "those laws, conferring any power, duty and obligation on the Service,"
+    },
+    {
+     "top": 470.2,
+     "text": "or where no administrative provisions have been made for such tax,"
+    },
+    {
+     "top": 483.4,
+     "text": "duty or levy."
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 28,
+   "gazette_label": "A256",
+   "lines": [
+    {
+     "top": 176.2,
+     "text": "Third Schedule"
+    },
+    {
+     "top": 189.3,
+     "text": "Section 39"
+    },
+    {
+     "top": 202.6,
+     "text": "FORM OF WARRANT OF DEDUCTION AT SOURCE"
+    },
+    {
+     "top": 219.8,
+     "text": "To the Accountant General of the Federation,"
+    },
+    {
+     "top": 239.0,
+     "text": "1. Pursuant to section 39 of the Nigeria Revenue Service Act 2025, you are"
+    },
+    {
+     "top": 252.2,
+     "text": "hereby required to deduct at source and remit to the Nigeria Revenue Service"
+    },
+    {
+     "top": 265.4,
+     "text": "within 30 days of the receipt of this warrant, the sum of ………………………"
+    },
+    {
+     "top": 278.6,
+     "text": "accruing to the…………………………………………………. (State Min-"
+    },
+    {
+     "top": 291.8,
+     "text": "istry, Department or Agency of Government) whose principal address is"
+    },
+    {
+     "top": 305.0,
+     "text": "at......................................................................., from its budgetary alloca-"
+    },
+    {
+     "top": 318.2,
+     "text": "tion or such other money accruing to it, being revenue deducted and not remit-"
+    },
+    {
+     "top": 331.4,
+     "text": "ted by it."
+    },
+    {
+     "top": 350.6,
+     "text": "2. The particulars of the revenue to be deducted and remitted are in respect of"
+    },
+    {
+     "top": 363.8,
+     "text": "Value Added Tax"
+    },
+    {
+     "top": 383.0,
+     "text": "Amount of Tax N: k"
+    },
+    {
+     "top": 396.2,
+     "text": "………………………......................"
+    },
+    {
+     "top": 409.4,
+     "text": "……………......................................"
+    },
+    {
+     "top": 428.6,
+     "text": "Stamp duty"
+    },
+    {
+     "top": 441.8,
+     "text": "Amount of Tax N: k"
+    },
+    {
+     "top": 455.0,
+     "text": "………………………......................"
+    },
+    {
+     "top": 468.2,
+     "text": "……………......................................"
+    },
+    {
+     "top": 487.4,
+     "text": "Withholding Tax"
+    },
+    {
+     "top": 500.6,
+     "text": "Amount of Tax N: k"
+    },
+    {
+     "top": 513.8,
+     "text": "………………………......................"
+    },
+    {
+     "top": 527.0,
+     "text": "……………...................................."
+    },
+    {
+     "top": 546.2,
+     "text": "SIGNED and issued by:"
+    },
+    {
+     "top": 565.4,
+     "text": "Signature...................................this ..........day of.................... 20.."
+    },
+    {
+     "top": 578.6,
+     "text": "Minister of Finance"
+    },
+    {
+     "top": 597.8,
+     "text": "Signature...................................this ..........day of.................... 20..."
+    },
+    {
+     "top": 611.0,
+     "text": "Judicial Officer"
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 29,
+   "gazette_label": "A257",
+   "lines": [
+    {
+     "top": 190.3,
+     "text": "I certify, in accordance with section 2 (1) of the Acts authentication Act, Cap."
+    },
+    {
+     "top": 203.5,
+     "text": "A2, Laws of Federal of Nigeria 2004, that this is a true copy of the Bill passed"
+    },
+    {
+     "top": 217.4,
+     "text": "by both Houses of the National Assembly."
+    },
+    {
+     "top": 268.6,
+     "text": "KAMORU OGUNLANA ESQ."
+    },
+    {
+     "top": 281.7,
+     "text": "Clerk to the National Assembly"
+    },
+    {
+     "top": 294.9,
+     "text": "11th Day of June, 2025"
+    },
+    {
+     "top": 364.0,
+     "text": "EXPLANATORY MEMORANDUM"
+    },
+    {
+     "top": 383.2,
+     "text": "This Act repeals the Federal Inland Revenue Service (Establishment) Act,"
+    },
+    {
+     "top": 396.4,
+     "text": "No.13, 2007 and enacts the Nigeria Revenue Service (Establishment) Act,"
+    },
+    {
+     "top": 409.6,
+     "text": "2025 to establish the Nigeria Revenue Service, charged with powers of"
+    },
+    {
+     "top": 422.8,
+     "text": "assessment, collection of, and accounting for revenue accruable to the"
+    },
+    {
+     "top": 436.0,
+     "text": "Government of the Federation."
+    }
+   ],
+   "margin_notes": []
+  },
+  {
+   "page": 30,
+   "gazette_label": "",
+   "lines": [
+    {
+     "top": 104.2,
+     "text": "A"
+    },
+    {
+     "top": 118.8,
+     "text": "258"
+    },
+    {
+     "top": 130.3,
+     "text": "(2) (3) (4) (5)"
+    },
+    {
+     "top": 143.5,
+     "text": "Long Title Summary of the Date Passed by Date Passed by"
+    },
+    {
+     "top": 156.7,
+     "text": "of the Bill Contents of the Bill the Senate the House of"
+    },
+    {
+     "top": 167.3,
+     "text": "Representatives 2025"
+    },
+    {
+     "top": 190.4,
+     "text": "This Bill repeals the Federal 28th May, 2025 28th May, 2025 No."
+    },
+    {
+     "top": 200.0,
+     "text": "Inland Revenue Service"
+    },
+    {
+     "top": 203.6,
+     "text": "Inland Revenue Service"
+    },
+    {
+     "top": 210.0,
+     "text": "4"
+    },
+    {
+     "top": 213.2,
+     "text": "(Establishment) Act, No. 13,"
+    },
+    {
+     "top": 216.8,
+     "text": "(Establishment) Act, No. 13,"
+    },
+    {
+     "top": 226.4,
+     "text": "2007 and enact the Nigeria"
+    },
+    {
+     "top": 230.0,
+     "text": "2007 and enacts the Nigeria"
+    },
+    {
+     "top": 235.7,
+     "text": "Nigeria"
+    },
+    {
+     "top": 243.2,
+     "text": "Revenue Service"
+    },
+    {
+     "top": 256.4,
+     "text": "(Establishment) Act, 2025, to"
+    },
+    {
+     "top": 269.6,
+     "text": "Establish the Nigeria"
+    },
+    {
+     "top": 274.6,
+     "text": "Revenue"
+    },
+    {
+     "top": 282.8,
+     "text": "Revenue Service, Conferred"
+    },
+    {
+     "top": 296.0,
+     "text": "with powers of assessment,"
+    },
+    {
+     "top": 309.2,
+     "text": "collection of, and accounting"
+    },
+    {
+     "top": 317.2,
+     "text": "Service"
+    },
+    {
+     "top": 322.4,
+     "text": "for revenue accruable to the"
+    },
+    {
+     "top": 335.6,
+     "text": "Government of the"
+    },
+    {
+     "top": 348.8,
+     "text": "Federation."
+    },
+    {
+     "top": 354.8,
+     "text": "(Establishment)"
+    },
+    {
+     "top": 421.2,
+     "text": "KAMORU OGUNLANA, ESQ."
+    },
+    {
+     "top": 431.0,
+     "text": "Act,"
+    },
+    {
+     "top": 434.3,
+     "text": "Clerk to the National Assembly"
+    },
+    {
+     "top": 447.5,
+     "text": "11th Day of June, 2025"
+    },
+    {
+     "top": 453.2,
+     "text": "2025"
+    },
+    {
+     "top": 481.8,
+     "text": "BOLA AHMED TINUBU, GCFR"
+    },
+    {
+     "top": 494.9,
+     "text": "President of the Federal Republic of Nigeria"
+    },
+    {
+     "top": 508.1,
+     "text": "26th Day of June, 2025"
+    }
+   ],
+   "margin_notes": [
+    {
+     "top": 103.3,
+     "text": "SCHEDULE TO THE NIGERIA REVENUE SERVICE (ESTABLISHMENT) BILLS, 2025"
+    },
+    {
+     "top": 130.2,
+     "text": "(1) Short Title of the Bill"
+    },
+    {
+     "top": 186.8,
+     "text": "An Act to repeal the Federal Nigeria Revenue Service (Establishment) Bill, 2025 Revenue Service (Establishment) Act, 2025, to Establish the Nigeria Revenue Service, Conferred with powers of assessment, collection of, and accounting for revenue accruable to the Government of the Federation ; and for related matters."
+    },
+    {
+     "top": 377.1,
+     "text": "I certify that this Bill has been carefully compared by me with the decision reached by the National Assembly and found by me to be true and correct decision of the Houses and is in accordance with the provisions of the Acts Authentication Act Cap. A2, Laws of the Federation of Nigeria, 2004."
+    },
+    {
+     "top": 430.7,
+     "text": "LS"
+    },
+    {
+     "top": 469.5,
+     "text": "I ASSENT"
+    }
+   ]
+  }
+ ]
+}

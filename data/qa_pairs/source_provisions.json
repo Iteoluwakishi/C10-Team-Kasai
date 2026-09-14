@@ -1,0 +1,352 @@
+[
+  {
+    "id": "NTA_s147",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "147",
+    "part": "Chapter Six, Part VIII",
+    "category": "vat",
+    "text": "VAT is charged on the value of all taxable supplies at the rate of 7.5%, subject to the exemptions and zero-rating provisions elsewhere in Chapter Six."
+  },
+  {
+    "id": "NTA_s56",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "56",
+    "part": "Chapter Two, Part IX",
+    "category": "cit",
+    "text": "For each year of assessment, companies income tax is levied on total profits at 0% for a small company, and at 30% for any other company from commencement of the Act, with that 30% rate reducing to 25% from a date the President may set on the advice of the National Economic Council."
+  },
+  {
+    "id": "NTA_s58_4thSched",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "58, Fourth Schedule",
+    "part": "Chapter Two, Part IX",
+    "category": "individual_income_tax",
+    "text": "For individuals other than National-Minimum-Wage earners, after reliefs and exemptions, chargeable income is taxed under the Fourth Schedule at: first N800,000 at 0%; next N2,200,000 at 15%; next N9,000,000 at 18%; next N13,000,000 at 21%; next N25,000,000 at 23%; and anything above N50,000,000 at 25%."
+  },
+  {
+    "id": "NTA_PartVIII_Ch2",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "Part VIII (Ascertainment of Chargeable Gains), Chapter Two",
+    "part": "Chapter Two",
+    "category": "cgt",
+    "text": "Chargeable gains are computed under Part VIII of Chapter Two and folded into a company's or individual's total assessable profits/income for the year — there is no longer a separate standalone capital gains tax rate; gains are taxed as part of ordinary income tax at the applicable company or individual rate."
+  },
+  {
+    "id": "NTAA_s4_s7",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "4, 7",
+    "part": "Chapter One, Part II",
+    "category": "registration",
+    "text": "Every taxable person must register with the relevant tax authority and obtain a Taxpayer Identification (Tax ID). On request, the relevant tax authority must register and issue a Tax ID to every taxable person, and must give written reasons within five working days if it refuses."
+  },
+  {
+    "id": "NTAA_s11_5",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "11(5)",
+    "part": "Chapter Two, Part I",
+    "category": "procedure",
+    "text": "A company that has been in business more than 18 months must file its self-assessment return not more than six months after the end of its accounting year. A newly incorporated company must file within 18 months of incorporation, or not later than six months after the end of its first accounting period, whichever is earlier."
+  },
+  {
+    "id": "NTAA_s14",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "14",
+    "part": "Chapter Two, Part I",
+    "category": "procedure",
+    "text": "An employer must file a PAYE return with the relevant tax authority for all emoluments paid to employees, not later than 31st January of each year, covering all employees in its employment in the preceding year, disclosing gross emoluments, deductions, net emoluments and tax deducted per employee."
+  },
+  {
+    "id": "NTAA_s127",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "127",
+    "part": "Chapter Four",
+    "category": "penalties",
+    "text": "Any person who contravenes a provision of the Act for which no specific penalty is provided commits an offence and is liable to an administrative penalty of N1,000,000, or on conviction, to imprisonment for a term not exceeding three years, or a fine, or both."
+  },
+  {
+    "id": "NRSEA_s4",
+    "act": "Nigeria Revenue Service (Establishment) Act (NRSEA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "4",
+    "part": "Part II",
+    "category": "administration",
+    "text": "The Nigeria Revenue Service assesses taxable persons, collects and enforces payment of taxes and remits collections into designated accounts, accounts for all government revenue, investigates tax fraud and evasion, maintains taxpayer data and TIN records, and issues taxpayer identification in collaboration with state/local tax authorities and the Joint Revenue Board."
+  },
+  {
+    "id": "JRBA_s5",
+    "act": "Joint Revenue Board of Nigeria (Establishment) Act (JRBA) 2025",
+    "status": "current",
+    "effective_date": "2025-06-26",
+    "section": "5",
+    "part": "Part II",
+    "category": "administration",
+    "text": "The Joint Revenue Board integrates and maintains a national Taxpayer Identification Number database, resolves residency and inter-authority tax disputes, advises government on double taxation matters, promotes harmonisation of taxes and levies across Nigeria, and receives, collates and publishes periodic tax revenue and tax-expenditure data."
+  },
+  {
+    "id": "JRBA_s36_41",
+    "act": "Joint Revenue Board of Nigeria (Establishment) Act (JRBA) 2025",
+    "status": "current",
+    "effective_date": "2025-06-26",
+    "section": "36-41",
+    "part": "Part VI",
+    "category": "dispute_resolution",
+    "text": "The Act establishes the Office of the Tax Ombud, headed by a Tax Ombud appointed by the President on the Minister's recommendation for a four-year renewable term. The Tax Ombud reviews and resolves taxpayer complaints against tax officials/authorities through mediation, investigates complaints, and may refer matters of criminal conduct to law enforcement — but has no power to interpret tax legislation substantively, determine tax liability, or issue assessments."
+  },
+  {
+    "id": "WHT_Regs_2024_reg3",
+    "act": "Deduction of Tax at Source (Withholding) Regulations 2024",
+    "status": "current",
+    "effective_date": "2025-01-01",
+    "section": "3, First Schedule",
+    "part": "N/A",
+    "category": "withholding_tax",
+    "text": "Withholding tax rates vary by transaction and recipient type: dividends/interest/royalty at 10%; rent/hire/lease at 10%; commission/consultancy/technical/management/professional fees at 5% for resident corporate recipients and 10% for non-resident corporate/individual recipients; supply of goods or materials (other than by the manufacturer) at 2% for residents and 5% for non-residents. Recipients without a TIN are deducted at double the applicable rate on non-passive income transactions. Small companies (as defined under CITA-equivalent thresholds) are exempt from deducting WHT where the supplier has a valid TIN and the transaction value is N2,000,000 or less in the relevant month."
+  },
+  {
+    "id": "CITA_s40",
+    "act": "Companies Income Tax Act (CITA) — REPEALED",
+    "status": "repealed",
+    "effective_date": "N/A (repealed by NTA, effective 2026-01-01)",
+    "section": "40",
+    "part": "Part VII",
+    "category": "cit",
+    "text": "Under the old law, companies income tax used a three-tier structure: small companies taxed as provided under section 23(1)(o); medium-sized companies at 20 Kobo per Naira (20%); and large companies at 30 Kobo per Naira (30%)."
+  },
+  {
+    "id": "VATAct_s4",
+    "act": "Value Added Tax Act — REPEALED",
+    "status": "repealed",
+    "effective_date": "N/A (repealed by NTA, effective 2026-01-01)",
+    "section": "4",
+    "part": "N/A",
+    "category": "vat",
+    "text": "Under the old VAT Act, VAT was computed at 7.5% (effective from 1 February 2020) on the value of goods and services, with Part III First-Schedule items zero-rated."
+  },
+  {
+    "id": "CGTA_s1",
+    "act": "Capital Gains Tax Act (CGTA) — REPEALED",
+    "status": "repealed",
+    "effective_date": "N/A (repealed by NTA, effective 2026-01-01)",
+    "section": "1",
+    "part": "N/A",
+    "category": "cgt",
+    "text": "Under the old CGTA, capital gains tax was charged as a standalone flat rate of 10% on chargeable gains, separate from companies income tax or personal income tax."
+  },
+  {
+    "id": "PITA_s37_6thSched",
+    "act": "Personal Income Tax Act (PITA) — REPEALED",
+    "status": "repealed",
+    "effective_date": "N/A (repealed by NTA, effective 2026-01-01)",
+    "section": "37, Sixth Schedule",
+    "part": "N/A",
+    "category": "individual_income_tax",
+    "text": "Under the old PITA, individuals received a consolidated relief allowance of N200,000 plus 20% of gross income, then the balance was taxed on a graduated scale: first N300,000 at 7%; next N300,000 at 11%; next N500,000 at 15%; next N500,000 at 19%; next N1,600,000 at 21%; and anything above N3,200,000 at 24%, subject to a 1% minimum tax on gross income."
+  },
+  {
+    "id": "FIRSEA_2007",
+    "act": "Federal Inland Revenue Service (Establishment) Act No. 13, 2007 — REPEALED",
+    "status": "repealed",
+    "effective_date": "N/A (repealed by NRSEA, effective 2026-01-01)",
+    "section": "N/A",
+    "part": "N/A",
+    "category": "administration",
+    "text": "The old Act established the Federal Inland Revenue Service (FIRS) as the federal tax authority responsible for assessment, collection, and accounting of federal government revenue."
+  },
+  {
+    "id": "JointTaxBoard",
+    "act": "Joint Tax Board (pre-2025 arrangement) — SUPERSEDED",
+    "status": "repealed",
+    "effective_date": "N/A (superseded by JRBA, effective 2025-06-26)",
+    "section": "N/A",
+    "part": "N/A",
+    "category": "administration",
+    "text": "Before the 2025 reform, the Joint Tax Board was the body coordinating between federal and state tax authorities on matters like residency disputes and double taxation."
+  },
+  {
+    "id": "NTA_s59",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "59",
+    "part": "Chapter Two, Part IX",
+    "category": "development_levy",
+    "text": "A development levy of 4% is imposed on the assessable profits of companies (other than small companies and non-resident companies), to fund designated development purposes, and is administered together with income tax."
+  },
+  {
+    "id": "NTA_s64_3",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "64(3)-(4)",
+    "part": "Chapter Two, Part XI",
+    "category": "mining",
+    "text": "Royalty is imposed on any mineral obtained in the course of exploration or mining operations, at a rate prescribed under the Eighth Schedule, subject to the Nigeria Tax Administration Act; the royalty paid is tax-deductible in determining assessable profits, and the Service is the relevant tax authority for administering it."
+  },
+  {
+    "id": "NTA_s123",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "123, Ninth Schedule",
+    "part": "Chapter Five, Part I",
+    "category": "stamp_duty",
+    "text": "Duties are imposed on chargeable instruments at the rates specified in the relevant Schedule — e.g. an agreement for sale of real property or an irrevocable assignment on a sale is charged ad valorem at 1.5% (paid by the transferee); a bill of exchange at 0.10% (paid by the payee); a mortgage-related agreement or security assignment on property under N10,000,000 at 0.375% (paid by the mortgagee); and capital duty on nominal share capital at 0.75% (paid by the company)."
+  },
+  {
+    "id": "NTA_s158",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "158-159",
+    "part": "Chapter Seven",
+    "category": "surcharge",
+    "text": "A surcharge of 5% is imposed on chargeable fossil fuel products provided or produced in Nigeria, collected at the time of the chargeable transaction (supply, sale, or payment, whichever occurs first), and computed on the retail price of the product."
+  },
+  {
+    "id": "NTA_s162",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "162",
+    "part": "Chapter Eight, Part I",
+    "category": "exemptions",
+    "text": "Certain profits/gains are exempt from income tax under Chapter Two, including: profits of a registered friendly society or co-operative society not derived from trade or business; profits of a body engaged in educational, religious or charitable activities of a public character (again, not from trade or business); profits of a registered trade union not from trade or business; and profits of Federal, State or Local Government bodies (other than from trade/business activity)."
+  },
+  {
+    "id": "NTA_s185",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "185, Eleventh Schedule",
+    "part": "Chapter Eight, Part IV",
+    "category": "vat",
+    "text": "VAT-exempt supplies include: baby products; locally manufactured sanitary towels/pads/tampons; military hardware and locally manufactured uniforms supplied to Nigerian security agencies; shared passenger road-transport services; agricultural equipment (tractors, ploughs) purchase/hire/lease; supplies to diplomatic missions; land or buildings (including interests in them); money, stakes or securities; government licences; and assistive/disability devices such as hearing aids, wheelchairs and braille materials."
+  },
+  {
+    "id": "NTA_s186",
+    "act": "Nigeria Tax Act (NTA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "186, Tenth Schedule",
+    "part": "Chapter Eight, Part IV",
+    "category": "vat",
+    "text": "Certain taxable supplies are charged VAT at zero percent (0%) rather than being exempt outright — including basic food items, medical and pharmaceutical products, educational books and materials, fertilisers, locally produced agricultural chemicals/veterinary medicine/animal feeds, live cattle/goats/sheep/poultry, agricultural seeds and seedlings, and electricity supplied by generation companies to the National Grid."
+  },
+  {
+    "id": "NTAA_s100",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "100",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A taxable person who fails or refuses to register for tax is liable to an administrative penalty of N50,000 in the first month of failure and N25,000 for each subsequent month the failure continues. A statutory body or company that awards a contract to an unregistered person is liable to a N5,000,000 administrative penalty."
+  },
+  {
+    "id": "NTAA_s101",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "101",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A taxable person who fails, refuses, or knowingly files incomplete or inaccurate returns is liable to an administrative penalty of N100,000 in the first month of failure and N50,000 for each subsequent month the failure continues."
+  },
+  {
+    "id": "NTAA_s102",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "102",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A taxable person who fails to keep proper accounts/books/records, or fails to provide them on request, is liable to an administrative penalty of N10,000 (for a person other than a company) or N50,000 (for a company)."
+  },
+  {
+    "id": "NTAA_s103",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "103",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A person who refuses to grant the relevant tax authority access to deploy technology, after 30 days of receiving notice, is liable to an administrative penalty of N1,000,000 for the first day of default and N10,000 for each subsequent day of default."
+  },
+  {
+    "id": "NTAA_s104",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "104",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A taxable person who fails to process a taxable supply through the fiscalisation system is liable to an administrative penalty of N200,000 plus 100% of the tax due, plus interest at the prevailing Central Bank of Nigeria Monetary Policy Rate."
+  },
+  {
+    "id": "NTAA_s105",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "105",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A person obligated to collect, deduct or withhold tax who fails to do so is liable to an administrative penalty of 40% of the amount not deducted."
+  },
+  {
+    "id": "NTAA_s107",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "107",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A person who deducts, collects or withholds tax but fails to remit it by the 21st day of the month following deduction is liable to pay: the amount deducted but not remitted, plus an administrative penalty of 10% per annum of that amount."
+  },
+  {
+    "id": "NTAA_s121",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "121",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A person who receives a tax refund through a false or fictitious claim is liable, in addition to recovery of the amount, to a penalty of 50% of that amount plus interest at the prevailing Central Bank of Nigeria Monetary Policy Rate — and this does not prevent separate prosecution."
+  },
+  {
+    "id": "NTAA_s122",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "122",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "A person who receives a VAT refund through a false or fictitious claim is liable, in addition to recovery of the amount, to a penalty of 100% of that amount plus interest at the prevailing Central Bank of Nigeria Monetary Policy Rate — double the penalty rate that applies to a false claim of an ordinary tax refund under section 121."
+  },
+  {
+    "id": "NTAA_s123_royalty",
+    "act": "Nigeria Tax Administration Act (NTAA) 2025",
+    "status": "current",
+    "effective_date": "2026-01-01",
+    "section": "123",
+    "part": "Chapter Four, Part I",
+    "category": "penalties",
+    "text": "Where mineral royalty due remains unpaid for 30 days after the due date, it qualifies as a debt and attracts a penalty of 10% of the amount payable, which is added to the royalty due."
+  }
+]

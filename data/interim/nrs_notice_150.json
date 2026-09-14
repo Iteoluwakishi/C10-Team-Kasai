@@ -1,0 +1,19 @@
+{
+ "document_id": "nrs_notice_150",
+ "title": "Rev360 USER MANUAL - TAXPAYER SELF SERVICE PORTAL (TSSP)",
+ "document_type": "notice",
+ "legal_weight": "administrative_guidance",
+ "status": "in_force",
+ "source_file": "guidance\\nrs_news_releases_snapshot.json",
+ "source_url": "https://www.nrs.gov.ng/api/news-releases",
+ "retrieved": "2026-08-25T12:42:10.802Z",
+ "image": "/uploads/Rev360_Light_89b21801c4.png",
+ "n_pages": 1,
+ "pages": [
+  {
+   "page": 1,
+   "chars": 614,
+   "text": "Rev360 USER MANUAL - TAXPAYER SELF SERVICE PORTAL (TSSP)\n\nRev360 is a modern digital tax administration ecosystem designed to simplify how taxpayers interact with the Nigeria Revenue Service (NRS). It has features, such as, simplified registration, filings and payments, objections and appeals etc. that makes compliance easier, faster, and more transparent.\n\nWith Rev360, taxpayers can manage their obligations from one place. Whether you are registering for the first time, updating your profile, filing returns, or making payments, the platform is built to guide you every step of the way.\n\nDOWNLOAD MANUAL HERE"
+  }
+ ]
+}

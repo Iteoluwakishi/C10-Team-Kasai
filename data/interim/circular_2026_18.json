@@ -1,0 +1,8957 @@
+{
+ "document_id": "circular_2026_18",
+ "title": "NRS Information Circular No. 2026/18: Guidelines on the Withholding of Value Added Tax",
+ "document_type": "circular",
+ "legal_weight": "administrative_guidance",
+ "status": "in_force",
+ "source_file": "guidance\\circular_2026_18_vat_withholding_guidelines.pdf",
+ "n_pages": 4,
+ "pages": [
+  {
+   "page": 1,
+   "chars": 1924,
+   "text": "NIGERIA REVENUE SERVICE\nREVENUE HOUSE, PLOT 1241, KUR MOHAMMED AVENUE, CENTRAL AREA, ABUJA,\nNIGERIA\nINFORMATION CIRCULAR\nNO: 2026/18 PUBLICATION DATE: 29TH JUNE, 2026\nSubject: GUIDELINES ON THE WITHHOLDING OF VALUE ADDED\nTAX\n1.0 Introduction\nThese Guidelines are issued by the Nigeria Revenue Service (“the Service”)\nto provide clarity on the implementation of the provisions relating to\nWithholding of Value Added Tax (VAT). They set out the obligations,\nprocedures and compliance requirements for all relevant stakeholders\nincluding non-resident suppliers, taxable persons, appointed agents, and\ngovernment entities in respect of the deduction, remittance, and reporting\nof VAT on taxable supplies. This circular withdraws and replaces the earlier\nFIRS Information Circular No: 2023/14 of 29th December, 2023\n2.0 Legal Framework\nThe Nigeria Tax Act (NTA), 2025 provides as follows:\nSection 150 (3) empowers the Service to appoint any person including a\nnon-resident supplier of taxable goods to deduct or withhold VAT; and the\nperson so appointed is required to remit the VAT deducted or withheld to\nthe Service in the currency of transaction.\nSection 150(4) provides that where a person appointed as an agent for the\ncollection of VAT makes a taxable supply to a person in Nigeria, the taxable\nperson shall not have the obligation to withhold, except where the\nappointed agent fails to collect the VAT.\nSection 154 (1) mandates all Federal, State, Local Government and their\nrespective Ministries, Department & Agencies (MDAs) to collect or withhold\nVAT on taxable supplies (all payments) made to contractors and remit same\nto the Service.\nSection 154 (3) requires the persons obligated to withhold VAT to submit\nreturns, accompanied with a schedule showing the name, Tax ID and\naddress of the contractor or supplier, invoice number, gross amount of\ninvoice, amount of the VAT and the month to which the return relates.\n1",
+   "words": [
+    {
+     "t": "NIGERIA",
+     "x0": 198.7,
+     "x1": 248.9,
+     "top": 105.2,
+     "bottom": 115.2
+    },
+    {
+     "t": "REVENUE",
+     "x0": 252.6,
+     "x1": 305.4,
+     "top": 105.2,
+     "bottom": 115.2
+    },
+    {
+     "t": "SERVICE",
+     "x0": 309.1,
+     "x1": 357.4,
+     "top": 105.2,
+     "bottom": 115.2
+    },
+    {
+     "t": "REVENUE",
+     "x0": 72.0,
+     "x1": 124.8,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "HOUSE,",
+     "x0": 128.0,
+     "x1": 170.6,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "PLOT",
+     "x0": 173.7,
+     "x1": 202.9,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "1241,",
+     "x0": 206.1,
+     "x1": 237.7,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "KUR",
+     "x0": 240.6,
+     "x1": 263.9,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "MOHAMMED",
+     "x0": 267.1,
+     "x1": 335.9,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "AVENUE,",
+     "x0": 339.1,
+     "x1": 388.6,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "CENTRAL",
+     "x0": 391.5,
+     "x1": 442.9,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "AREA,",
+     "x0": 446.0,
+     "x1": 479.6,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "ABUJA,",
+     "x0": 482.5,
+     "x1": 523.2,
+     "top": 119.7,
+     "bottom": 129.7
+    },
+    {
+     "t": "NIGERIA",
+     "x0": 72.0,
+     "x1": 121.4,
+     "top": 132.2,
+     "bottom": 142.2
+    },
+    {
+     "t": "INFORMATION",
+     "x0": 250.2,
+     "x1": 323.6,
+     "top": 150.7,
+     "bottom": 160.7
+    },
+    {
+     "t": "CIRCULAR",
+     "x0": 327.1,
+     "x1": 379.1,
+     "top": 150.7,
+     "bottom": 160.7
+    },
+    {
+     "t": "NO:",
+     "x0": 77.6,
+     "x1": 97.6,
+     "top": 177.7,
+     "bottom": 187.7
+    },
+    {
+     "t": "2026/18",
+     "x0": 101.1,
+     "x1": 143.9,
+     "top": 177.7,
+     "bottom": 187.7
+    },
+    {
+     "t": "PUBLICATION",
+     "x0": 333.3,
+     "x1": 402.7,
+     "top": 177.7,
+     "bottom": 187.7
+    },
+    {
+     "t": "DATE:",
+     "x0": 406.2,
+     "x1": 437.8,
+     "top": 177.7,
+     "bottom": 187.7
+    },
+    {
+     "t": "29TH",
+     "x0": 441.4,
+     "x1": 463.8,
+     "top": 176.4,
+     "bottom": 187.7
+    },
+    {
+     "t": "JUNE,",
+     "x0": 466.9,
+     "x1": 496.5,
+     "top": 177.7,
+     "bottom": 187.7
+    },
+    {
+     "t": "2026",
+     "x0": 499.9,
+     "x1": 525.8,
+     "top": 177.7,
+     "bottom": 187.7
+    },
+    {
+     "t": "Subject:",
+     "x0": 72.0,
+     "x1": 125.2,
+     "top": 211.5,
+     "bottom": 223.0
+    },
+    {
+     "t": "GUIDELINES",
+     "x0": 129.1,
+     "x1": 214.2,
+     "top": 211.1,
+     "bottom": 223.1
+    },
+    {
+     "t": "ON",
+     "x0": 218.7,
+     "x1": 238.8,
+     "top": 211.1,
+     "bottom": 223.1
+    },
+    {
+     "t": "THE",
+     "x0": 243.2,
+     "x1": 269.4,
+     "top": 211.1,
+     "bottom": 223.1
+    },
+    {
+     "t": "WITHHOLDING",
+     "x0": 273.7,
+     "x1": 376.4,
+     "top": 211.1,
+     "bottom": 223.1
+    },
+    {
+     "t": "OF",
+     "x0": 380.3,
+     "x1": 398.1,
+     "top": 211.1,
+     "bottom": 223.1
+    },
+    {
+     "t": "VALUE",
+     "x0": 402.8,
+     "x1": 446.5,
+     "top": 211.1,
+     "bottom": 223.1
+    },
+    {
+     "t": "ADDED",
+     "x0": 450.9,
+     "x1": 498.3,
+     "top": 211.1,
+     "bottom": 223.1
+    },
+    {
+     "t": "TAX",
+     "x0": 249.2,
+     "x1": 275.9,
+     "top": 227.6,
+     "bottom": 239.6
+    },
+    {
+     "t": "1.0",
+     "x0": 72.0,
+     "x1": 93.6,
+     "top": 247.6,
+     "bottom": 259.6
+    },
+    {
+     "t": "Introduction",
+     "x0": 97.6,
+     "x1": 182.1,
+     "top": 247.6,
+     "bottom": 259.6
+    },
+    {
+     "t": "These",
+     "x0": 72.0,
+     "x1": 107.7,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "Guidelines",
+     "x0": 111.0,
+     "x1": 173.2,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "are",
+     "x0": 177.0,
+     "x1": 196.6,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "issued",
+     "x0": 200.7,
+     "x1": 238.6,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "by",
+     "x0": 242.2,
+     "x1": 256.7,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "the",
+     "x0": 260.7,
+     "x1": 280.3,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "Nigeria",
+     "x0": 283.6,
+     "x1": 326.3,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "Revenue",
+     "x0": 330.3,
+     "x1": 382.4,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "Service",
+     "x0": 386.2,
+     "x1": 430.4,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "(“the",
+     "x0": 433.7,
+     "x1": 464.3,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "Service”)",
+     "x0": 468.2,
+     "x1": 523.1,
+     "top": 267.2,
+     "bottom": 279.2
+    },
+    {
+     "t": "to",
+     "x0": 72.0,
+     "x1": 83.8,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "provide",
+     "x0": 91.5,
+     "x1": 136.7,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "clarity",
+     "x0": 144.5,
+     "x1": 181.5,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "on",
+     "x0": 188.9,
+     "x1": 204.0,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "the",
+     "x0": 212.4,
+     "x1": 231.6,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "implementation",
+     "x0": 239.4,
+     "x1": 333.4,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "of",
+     "x0": 341.3,
+     "x1": 353.0,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "the",
+     "x0": 360.8,
+     "x1": 380.4,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "provisions",
+     "x0": 388.2,
+     "x1": 448.9,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "relating",
+     "x0": 457.2,
+     "x1": 502.6,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "to",
+     "x0": 511.1,
+     "x1": 522.9,
+     "top": 283.2,
+     "bottom": 295.2
+    },
+    {
+     "t": "Withholding",
+     "x0": 72.0,
+     "x1": 143.0,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "of",
+     "x0": 151.0,
+     "x1": 162.8,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "Value",
+     "x0": 171.2,
+     "x1": 204.3,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "Added",
+     "x0": 212.6,
+     "x1": 250.1,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "Tax",
+     "x0": 258.1,
+     "x1": 279.7,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "(VAT).",
+     "x0": 287.6,
+     "x1": 327.1,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "They",
+     "x0": 335.2,
+     "x1": 364.3,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "set",
+     "x0": 372.2,
+     "x1": 390.9,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "out",
+     "x0": 398.7,
+     "x1": 418.4,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "the",
+     "x0": 426.4,
+     "x1": 446.0,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "obligations,",
+     "x0": 453.8,
+     "x1": 523.6,
+     "top": 298.7,
+     "bottom": 310.7
+    },
+    {
+     "t": "procedures",
+     "x0": 72.0,
+     "x1": 138.8,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "and",
+     "x0": 147.1,
+     "x1": 169.1,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "compliance",
+     "x0": 177.6,
+     "x1": 245.2,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "requirements",
+     "x0": 253.1,
+     "x1": 333.3,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "for",
+     "x0": 342.3,
+     "x1": 358.9,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "all",
+     "x0": 367.2,
+     "x1": 381.0,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "relevant",
+     "x0": 389.2,
+     "x1": 438.4,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "stakeholders",
+     "x0": 446.7,
+     "x1": 523.4,
+     "top": 314.7,
+     "bottom": 326.7
+    },
+    {
+     "t": "including",
+     "x0": 72.0,
+     "x1": 125.5,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "non-resident",
+     "x0": 131.1,
+     "x1": 208.3,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "suppliers,",
+     "x0": 213.6,
+     "x1": 272.1,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "taxable",
+     "x0": 278.2,
+     "x1": 322.4,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "persons,",
+     "x0": 327.7,
+     "x1": 380.2,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "appointed",
+     "x0": 385.8,
+     "x1": 444.8,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "agents,",
+     "x0": 450.8,
+     "x1": 495.8,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "and",
+     "x0": 501.4,
+     "x1": 523.3,
+     "top": 330.2,
+     "bottom": 342.2
+    },
+    {
+     "t": "government",
+     "x0": 72.0,
+     "x1": 144.7,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "entities",
+     "x0": 149.0,
+     "x1": 192.7,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "in",
+     "x0": 197.7,
+     "x1": 208.2,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "respect",
+     "x0": 212.6,
+     "x1": 256.8,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "of",
+     "x0": 260.6,
+     "x1": 272.3,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "the",
+     "x0": 276.6,
+     "x1": 296.2,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "deduction,",
+     "x0": 300.1,
+     "x1": 363.4,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "remittance,",
+     "x0": 368.0,
+     "x1": 436.8,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "and",
+     "x0": 441.5,
+     "x1": 463.4,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "reporting",
+     "x0": 467.9,
+     "x1": 522.9,
+     "top": 346.2,
+     "bottom": 358.2
+    },
+    {
+     "t": "of",
+     "x0": 72.0,
+     "x1": 83.8,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "VAT",
+     "x0": 87.5,
+     "x1": 110.9,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "on",
+     "x0": 115.0,
+     "x1": 130.1,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "taxable",
+     "x0": 134.0,
+     "x1": 178.1,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "supplies.",
+     "x0": 182.0,
+     "x1": 235.3,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "This",
+     "x0": 239.7,
+     "x1": 263.9,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "circular",
+     "x0": 268.2,
+     "x1": 311.8,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "withdraws",
+     "x0": 315.7,
+     "x1": 377.5,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "and",
+     "x0": 381.8,
+     "x1": 403.7,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "replaces",
+     "x0": 407.8,
+     "x1": 457.5,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "the",
+     "x0": 461.7,
+     "x1": 480.9,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "earlier",
+     "x0": 485.2,
+     "x1": 523.3,
+     "top": 361.7,
+     "bottom": 373.7
+    },
+    {
+     "t": "FIRS",
+     "x0": 72.0,
+     "x1": 100.7,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "Information",
+     "x0": 104.5,
+     "x1": 175.6,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "Circular",
+     "x0": 179.5,
+     "x1": 225.6,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "No:",
+     "x0": 230.0,
+     "x1": 252.1,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "2023/14",
+     "x0": 256.2,
+     "x1": 307.3,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "of",
+     "x0": 311.6,
+     "x1": 323.4,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "29th",
+     "x0": 327.1,
+     "x1": 354.7,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "December,",
+     "x0": 359.1,
+     "x1": 424.4,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "2023",
+     "x0": 429.1,
+     "x1": 459.2,
+     "top": 377.2,
+     "bottom": 389.2
+    },
+    {
+     "t": "2.0",
+     "x0": 71.0,
+     "x1": 92.6,
+     "top": 407.2,
+     "bottom": 419.2
+    },
+    {
+     "t": "Legal",
+     "x0": 96.6,
+     "x1": 132.7,
+     "top": 407.2,
+     "bottom": 419.2
+    },
+    {
+     "t": "Framework",
+     "x0": 136.6,
+     "x1": 213.1,
+     "top": 407.2,
+     "bottom": 419.2
+    },
+    {
+     "t": "The",
+     "x0": 72.0,
+     "x1": 94.2,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "Nigeria",
+     "x0": 98.0,
+     "x1": 140.7,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "Tax",
+     "x0": 144.5,
+     "x1": 166.6,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "Act",
+     "x0": 170.5,
+     "x1": 189.7,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "(NTA),",
+     "x0": 194.0,
+     "x1": 233.8,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "2025",
+     "x0": 237.9,
+     "x1": 268.5,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "provides",
+     "x0": 272.4,
+     "x1": 323.6,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "as",
+     "x0": 328.3,
+     "x1": 341.6,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "follows:",
+     "x0": 345.8,
+     "x1": 393.2,
+     "top": 422.2,
+     "bottom": 434.2
+    },
+    {
+     "t": "Section",
+     "x0": 72.0,
+     "x1": 116.1,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "150",
+     "x0": 121.6,
+     "x1": 144.8,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "(3)",
+     "x0": 149.6,
+     "x1": 168.1,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "empowers",
+     "x0": 173.6,
+     "x1": 235.8,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "the",
+     "x0": 241.0,
+     "x1": 260.7,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "Service",
+     "x0": 266.0,
+     "x1": 310.1,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "to",
+     "x0": 315.5,
+     "x1": 327.3,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "appoint",
+     "x0": 332.9,
+     "x1": 377.6,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "any",
+     "x0": 383.4,
+     "x1": 405.0,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "person",
+     "x0": 410.4,
+     "x1": 451.4,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "including",
+     "x0": 456.8,
+     "x1": 510.3,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "a",
+     "x0": 515.8,
+     "x1": 523.0,
+     "top": 446.3,
+     "bottom": 458.3
+    },
+    {
+     "t": "non-resident",
+     "x0": 72.0,
+     "x1": 148.3,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "supplier",
+     "x0": 152.6,
+     "x1": 200.6,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "of",
+     "x0": 204.5,
+     "x1": 216.2,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "taxable",
+     "x0": 221.0,
+     "x1": 265.1,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "goods",
+     "x0": 268.9,
+     "x1": 305.1,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "to",
+     "x0": 309.4,
+     "x1": 321.2,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "deduct",
+     "x0": 325.9,
+     "x1": 366.6,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "or",
+     "x0": 370.9,
+     "x1": 383.5,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "withhold",
+     "x0": 387.4,
+     "x1": 438.8,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "VAT;",
+     "x0": 443.3,
+     "x1": 472.3,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "and",
+     "x0": 476.8,
+     "x1": 498.8,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "the",
+     "x0": 503.8,
+     "x1": 522.9,
+     "top": 462.3,
+     "bottom": 474.3
+    },
+    {
+     "t": "person",
+     "x0": 72.0,
+     "x1": 113.1,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "so",
+     "x0": 117.5,
+     "x1": 131.3,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "appointed",
+     "x0": 136.0,
+     "x1": 195.4,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "is",
+     "x0": 201.2,
+     "x1": 210.4,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "required",
+     "x0": 215.2,
+     "x1": 265.6,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "to",
+     "x0": 270.6,
+     "x1": 282.4,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "remit",
+     "x0": 287.7,
+     "x1": 319.9,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "the",
+     "x0": 324.7,
+     "x1": 343.8,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "VAT",
+     "x0": 349.2,
+     "x1": 372.6,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "deducted",
+     "x0": 377.7,
+     "x1": 433.1,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "or",
+     "x0": 437.6,
+     "x1": 450.2,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "withheld",
+     "x0": 455.1,
+     "x1": 506.0,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "to",
+     "x0": 511.5,
+     "x1": 523.3,
+     "top": 477.8,
+     "bottom": 489.8
+    },
+    {
+     "t": "the",
+     "x0": 72.0,
+     "x1": 91.2,
+     "top": 493.8,
+     "bottom": 505.8
+    },
+    {
+     "t": "Service",
+     "x0": 95.5,
+     "x1": 139.7,
+     "top": 493.8,
+     "bottom": 505.8
+    },
+    {
+     "t": "in",
+     "x0": 144.0,
+     "x1": 154.6,
+     "top": 493.8,
+     "bottom": 505.8
+    },
+    {
+     "t": "the",
+     "x0": 159.0,
+     "x1": 178.6,
+     "top": 493.8,
+     "bottom": 505.8
+    },
+    {
+     "t": "currency",
+     "x0": 182.5,
+     "x1": 235.0,
+     "top": 493.8,
+     "bottom": 505.8
+    },
+    {
+     "t": "of",
+     "x0": 238.9,
+     "x1": 250.6,
+     "top": 493.8,
+     "bottom": 505.8
+    },
+    {
+     "t": "transaction.",
+     "x0": 254.9,
+     "x1": 326.2,
+     "top": 493.8,
+     "bottom": 505.8
+    },
+    {
+     "t": "Section",
+     "x0": 72.0,
+     "x1": 116.2,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "150(4)",
+     "x0": 120.1,
+     "x1": 161.6,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "provides",
+     "x0": 165.6,
+     "x1": 216.3,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "that",
+     "x0": 220.6,
+     "x1": 244.8,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "where",
+     "x0": 248.6,
+     "x1": 285.8,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "a",
+     "x0": 289.7,
+     "x1": 296.9,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "person",
+     "x0": 300.7,
+     "x1": 341.7,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "appointed",
+     "x0": 345.6,
+     "x1": 405.1,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "as",
+     "x0": 409.1,
+     "x1": 422.3,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "an",
+     "x0": 426.6,
+     "x1": 441.2,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "agent",
+     "x0": 445.1,
+     "x1": 479.3,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "for",
+     "x0": 483.1,
+     "x1": 499.7,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "the",
+     "x0": 504.0,
+     "x1": 523.2,
+     "top": 519.8,
+     "bottom": 531.8
+    },
+    {
+     "t": "collection",
+     "x0": 72.0,
+     "x1": 128.1,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "of",
+     "x0": 131.5,
+     "x1": 143.2,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "VAT",
+     "x0": 147.0,
+     "x1": 170.9,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "makes",
+     "x0": 174.5,
+     "x1": 213.9,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "a",
+     "x0": 217.7,
+     "x1": 224.9,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "taxable",
+     "x0": 228.7,
+     "x1": 272.8,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "supply",
+     "x0": 276.6,
+     "x1": 315.7,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "to",
+     "x0": 319.6,
+     "x1": 331.4,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "a",
+     "x0": 335.1,
+     "x1": 342.3,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "person",
+     "x0": 346.3,
+     "x1": 387.3,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "in",
+     "x0": 391.2,
+     "x1": 401.8,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "Nigeria,",
+     "x0": 405.2,
+     "x1": 452.1,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "the",
+     "x0": 456.2,
+     "x1": 475.4,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "taxable",
+     "x0": 479.4,
+     "x1": 523.5,
+     "top": 535.3,
+     "bottom": 547.3
+    },
+    {
+     "t": "person",
+     "x0": 72.0,
+     "x1": 113.1,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "shall",
+     "x0": 122.0,
+     "x1": 149.8,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "not",
+     "x0": 158.5,
+     "x1": 178.2,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "have",
+     "x0": 187.5,
+     "x1": 216.6,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "the",
+     "x0": 225.9,
+     "x1": 245.1,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "obligation",
+     "x0": 254.7,
+     "x1": 313.8,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "to",
+     "x0": 322.8,
+     "x1": 334.6,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "withhold,",
+     "x0": 343.7,
+     "x1": 399.7,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "except",
+     "x0": 408.8,
+     "x1": 449.0,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "where",
+     "x0": 457.9,
+     "x1": 495.0,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "the",
+     "x0": 504.3,
+     "x1": 523.5,
+     "top": 551.3,
+     "bottom": 563.3
+    },
+    {
+     "t": "appointed",
+     "x0": 72.0,
+     "x1": 131.0,
+     "top": 566.8,
+     "bottom": 578.8
+    },
+    {
+     "t": "agent",
+     "x0": 135.6,
+     "x1": 169.8,
+     "top": 566.8,
+     "bottom": 578.8
+    },
+    {
+     "t": "fails",
+     "x0": 174.1,
+     "x1": 198.3,
+     "top": 566.8,
+     "bottom": 578.8
+    },
+    {
+     "t": "to",
+     "x0": 202.5,
+     "x1": 214.3,
+     "top": 566.8,
+     "bottom": 578.8
+    },
+    {
+     "t": "collect",
+     "x0": 218.5,
+     "x1": 257.2,
+     "top": 566.8,
+     "bottom": 578.8
+    },
+    {
+     "t": "the",
+     "x0": 261.0,
+     "x1": 280.6,
+     "top": 566.8,
+     "bottom": 578.8
+    },
+    {
+     "t": "VAT.",
+     "x0": 285.0,
+     "x1": 312.8,
+     "top": 566.8,
+     "bottom": 578.8
+    },
+    {
+     "t": "Section",
+     "x0": 72.0,
+     "x1": 116.1,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "154",
+     "x0": 121.6,
+     "x1": 144.2,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "(1)",
+     "x0": 149.6,
+     "x1": 168.1,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "mandates",
+     "x0": 173.2,
+     "x1": 232.4,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "all",
+     "x0": 237.7,
+     "x1": 251.9,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "Federal,",
+     "x0": 256.7,
+     "x1": 305.5,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "State,",
+     "x0": 310.6,
+     "x1": 347.0,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "Local",
+     "x0": 352.1,
+     "x1": 382.8,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "Government",
+     "x0": 388.1,
+     "x1": 462.8,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "and",
+     "x0": 468.4,
+     "x1": 490.4,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "their",
+     "x0": 495.9,
+     "x1": 523.5,
+     "top": 596.8,
+     "bottom": 608.8
+    },
+    {
+     "t": "respective",
+     "x0": 72.0,
+     "x1": 133.2,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "Ministries,",
+     "x0": 137.5,
+     "x1": 198.8,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "Department",
+     "x0": 202.9,
+     "x1": 274.6,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "&",
+     "x0": 278.9,
+     "x1": 287.6,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "Agencies",
+     "x0": 291.4,
+     "x1": 344.6,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "(MDAs)",
+     "x0": 348.9,
+     "x1": 393.8,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "to",
+     "x0": 397.8,
+     "x1": 409.6,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "collect",
+     "x0": 413.8,
+     "x1": 452.0,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "or",
+     "x0": 455.8,
+     "x1": 468.4,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "withhold",
+     "x0": 472.2,
+     "x1": 522.7,
+     "top": 613.4,
+     "bottom": 625.4
+    },
+    {
+     "t": "VAT",
+     "x0": 72.0,
+     "x1": 95.4,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "on",
+     "x0": 98.6,
+     "x1": 113.7,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "taxable",
+     "x0": 117.1,
+     "x1": 161.2,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "supplies",
+     "x0": 164.1,
+     "x1": 212.8,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "(all",
+     "x0": 216.7,
+     "x1": 235.9,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "payments)",
+     "x0": 239.2,
+     "x1": 303.7,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "made",
+     "x0": 307.2,
+     "x1": 340.4,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "to",
+     "x0": 344.2,
+     "x1": 356.0,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "contractors",
+     "x0": 359.2,
+     "x1": 426.9,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "and",
+     "x0": 430.2,
+     "x1": 452.6,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "remit",
+     "x0": 455.7,
+     "x1": 487.9,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "same",
+     "x0": 491.1,
+     "x1": 523.3,
+     "top": 629.4,
+     "bottom": 641.4
+    },
+    {
+     "t": "to",
+     "x0": 72.0,
+     "x1": 83.8,
+     "top": 644.9,
+     "bottom": 656.9
+    },
+    {
+     "t": "the",
+     "x0": 88.0,
+     "x1": 107.2,
+     "top": 644.9,
+     "bottom": 656.9
+    },
+    {
+     "t": "Service.",
+     "x0": 111.5,
+     "x1": 160.3,
+     "top": 644.9,
+     "bottom": 656.9
+    },
+    {
+     "t": "Section",
+     "x0": 72.0,
+     "x1": 116.1,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "154",
+     "x0": 121.1,
+     "x1": 144.2,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "(3)",
+     "x0": 149.1,
+     "x1": 167.6,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "requires",
+     "x0": 172.7,
+     "x1": 221.4,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "the",
+     "x0": 226.6,
+     "x1": 246.3,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "persons",
+     "x0": 251.1,
+     "x1": 298.5,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "obligated",
+     "x0": 303.2,
+     "x1": 358.7,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "to",
+     "x0": 363.8,
+     "x1": 375.6,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "withhold",
+     "x0": 380.8,
+     "x1": 431.7,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "VAT",
+     "x0": 436.9,
+     "x1": 460.2,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "to",
+     "x0": 465.8,
+     "x1": 477.6,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "submit",
+     "x0": 482.3,
+     "x1": 523.5,
+     "top": 671.4,
+     "bottom": 683.4
+    },
+    {
+     "t": "returns,",
+     "x0": 72.0,
+     "x1": 119.9,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "accompanied",
+     "x0": 127.0,
+     "x1": 205.4,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "with",
+     "x0": 212.9,
+     "x1": 238.5,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "a",
+     "x0": 246.2,
+     "x1": 253.4,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "schedule",
+     "x0": 260.7,
+     "x1": 313.8,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "showing",
+     "x0": 321.1,
+     "x1": 370.6,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "the",
+     "x0": 378.3,
+     "x1": 397.5,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "name,",
+     "x0": 404.8,
+     "x1": 442.6,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "Tax",
+     "x0": 450.2,
+     "x1": 471.8,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "ID",
+     "x0": 479.2,
+     "x1": 493.4,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "and",
+     "x0": 501.2,
+     "x1": 523.1,
+     "top": 687.4,
+     "bottom": 699.4
+    },
+    {
+     "t": "address",
+     "x0": 72.0,
+     "x1": 118.8,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "of",
+     "x0": 125.5,
+     "x1": 137.2,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "the",
+     "x0": 143.5,
+     "x1": 162.6,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "contractor",
+     "x0": 169.2,
+     "x1": 230.7,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "or",
+     "x0": 237.1,
+     "x1": 249.7,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "supplier,",
+     "x0": 256.1,
+     "x1": 307.9,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "invoice",
+     "x0": 314.5,
+     "x1": 356.7,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "number,",
+     "x0": 363.0,
+     "x1": 413.9,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "gross",
+     "x0": 420.5,
+     "x1": 453.2,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "amount",
+     "x0": 459.9,
+     "x1": 505.7,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "of",
+     "x0": 511.9,
+     "x1": 523.6,
+     "top": 702.9,
+     "bottom": 714.9
+    },
+    {
+     "t": "invoice,",
+     "x0": 72.0,
+     "x1": 117.9,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "amount",
+     "x0": 122.5,
+     "x1": 168.2,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "of",
+     "x0": 172.5,
+     "x1": 184.2,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "the",
+     "x0": 188.4,
+     "x1": 207.6,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "VAT",
+     "x0": 212.2,
+     "x1": 235.6,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "and",
+     "x0": 240.2,
+     "x1": 262.1,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "the",
+     "x0": 266.7,
+     "x1": 285.8,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "month",
+     "x0": 290.1,
+     "x1": 329.2,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "to",
+     "x0": 333.6,
+     "x1": 345.4,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "which",
+     "x0": 349.6,
+     "x1": 384.2,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "the",
+     "x0": 388.6,
+     "x1": 407.7,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "return",
+     "x0": 412.0,
+     "x1": 449.1,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "relates.",
+     "x0": 453.5,
+     "x1": 499.2,
+     "top": 718.9,
+     "bottom": 730.9
+    },
+    {
+     "t": "1",
+     "x0": 295.2,
+     "x1": 300.8,
+     "top": 778.2,
+     "bottom": 789.2
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "chars": 2354,
+   "text": "3.0 Withholding of VAT on Taxable Supplies Received\nAn appointed agent having the obligation to withhold the VAT charged on\ninvoices of taxable supplies received (including works, services, goods,\netc.) shall withhold and remit same to the Service in line with these\nGuidelines. This is in addition to their existing obligation to collect and remit\nVAT on their taxable supplies.\nThe suppliers (service providers, contractors, vendors, etc.) must state\nseparately, the gross amount of taxable supplies, VAT rate, and the amount\nof VAT charged on each invoice (including bill, debit note or any such\ndocument employed to record the transaction).\n4.0 Obligation to Withhold VAT from Suppliers\nAn appointed agent shall have the following obligations:\na. deduct or withhold VAT stated on the invoice issued by their suppliers,\nvendors or contractors (the VAT shall not be paid to the supplier);\nb. prepare a schedule showing the name, Tax ID, and address of the\ncontractor or supplier, invoice number, gross amount of invoice,\namount of the VAT, and the month to which the return relates;\nc. remit the amount withheld to the Service on or before the 14th day\nof the month immediately following the month of the transaction; and\nd. file the returns of VAT withheld using the appropriate fields in NRS\ntax administration solution.\n4.1 Taxable supplies between companies having obligations to\nwithhold VAT\nWhere a company having the obligation to withhold VAT makes taxable\nsupplies to another company having a similar obligation to withhold VAT,\nthe recipient of the supplies (the purchaser) shall account for the VAT on\nthe transaction in line with these Guidelines.\nWhere a non-resident supplier, appointed pursuant to Section 150(3) of the\nNTA, makes a taxable supply to an appointed agent in Nigeria, the\nappointed non-resident supplier shall have the primary responsibility to\ncollect the tax due and remit same to the Service. However, where the\nappointed non-resident person fails to collect the tax, the Nigerian\nappointed agent shall withhold the VAT in line with these Guidelines and\nremit same to the Service.\nIn the case of supply by a non-resident person not appointed, the taxable\nperson to whom the supply is made in Nigeria, including an appointed agent\nin Nigeria, shall have the obligation to withhold the tax in line with these\nGuidelines.\n2",
+   "words": [
+    {
+     "t": "3.0",
+     "x0": 71.0,
+     "x1": 92.6,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "Withholding",
+     "x0": 96.1,
+     "x1": 177.4,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "of",
+     "x0": 181.5,
+     "x1": 194.6,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "VAT",
+     "x0": 199.0,
+     "x1": 225.7,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "on",
+     "x0": 229.5,
+     "x1": 246.5,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "Taxable",
+     "x0": 250.5,
+     "x1": 302.9,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "Supplies",
+     "x0": 307.0,
+     "x1": 364.5,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "Received",
+     "x0": 368.4,
+     "x1": 429.3,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "An",
+     "x0": 71.0,
+     "x1": 86.7,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "appointed",
+     "x0": 91.6,
+     "x1": 151.0,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "agent",
+     "x0": 156.0,
+     "x1": 190.2,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "having",
+     "x0": 195.2,
+     "x1": 235.6,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "the",
+     "x0": 240.7,
+     "x1": 259.9,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "obligation",
+     "x0": 264.7,
+     "x1": 323.8,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "to",
+     "x0": 328.7,
+     "x1": 340.5,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "withhold",
+     "x0": 345.6,
+     "x1": 396.6,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "the",
+     "x0": 401.6,
+     "x1": 421.2,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "VAT",
+     "x0": 426.1,
+     "x1": 449.9,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "charged",
+     "x0": 454.5,
+     "x1": 503.0,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "on",
+     "x0": 508.0,
+     "x1": 523.1,
+     "top": 53.5,
+     "bottom": 65.5
+    },
+    {
+     "t": "invoices",
+     "x0": 71.5,
+     "x1": 119.3,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "of",
+     "x0": 126.5,
+     "x1": 138.2,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "taxable",
+     "x0": 145.0,
+     "x1": 189.1,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "supplies",
+     "x0": 195.9,
+     "x1": 244.6,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "received",
+     "x0": 251.9,
+     "x1": 302.3,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "(including",
+     "x0": 309.3,
+     "x1": 368.8,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "works,",
+     "x0": 375.8,
+     "x1": 416.1,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "services,",
+     "x0": 423.2,
+     "x1": 476.0,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "goods,",
+     "x0": 483.1,
+     "x1": 523.5,
+     "top": 70.0,
+     "bottom": 82.0
+    },
+    {
+     "t": "etc.)",
+     "x0": 71.5,
+     "x1": 99.5,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "shall",
+     "x0": 107.0,
+     "x1": 134.7,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "withhold",
+     "x0": 142.1,
+     "x1": 193.1,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "and",
+     "x0": 201.1,
+     "x1": 223.0,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "remit",
+     "x0": 231.2,
+     "x1": 262.9,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "same",
+     "x0": 270.7,
+     "x1": 302.8,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "to",
+     "x0": 310.8,
+     "x1": 322.5,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "the",
+     "x0": 330.7,
+     "x1": 349.9,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "Service",
+     "x0": 357.7,
+     "x1": 401.8,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "in",
+     "x0": 409.7,
+     "x1": 420.3,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "line",
+     "x0": 428.2,
+     "x1": 449.3,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "with",
+     "x0": 457.1,
+     "x1": 482.2,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "these",
+     "x0": 490.4,
+     "x1": 523.5,
+     "top": 86.0,
+     "bottom": 98.0
+    },
+    {
+     "t": "Guidelines.",
+     "x0": 71.5,
+     "x1": 138.0,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "This",
+     "x0": 141.1,
+     "x1": 165.8,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "is",
+     "x0": 169.6,
+     "x1": 178.8,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "in",
+     "x0": 182.6,
+     "x1": 193.2,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "addition",
+     "x0": 197.1,
+     "x1": 245.1,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "to",
+     "x0": 248.5,
+     "x1": 260.3,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "their",
+     "x0": 264.0,
+     "x1": 291.6,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "existing",
+     "x0": 295.5,
+     "x1": 341.9,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "obligation",
+     "x0": 345.4,
+     "x1": 404.5,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "to",
+     "x0": 407.9,
+     "x1": 419.7,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "collect",
+     "x0": 423.4,
+     "x1": 461.6,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "and",
+     "x0": 465.4,
+     "x1": 487.3,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "remit",
+     "x0": 490.8,
+     "x1": 523.0,
+     "top": 102.1,
+     "bottom": 114.1
+    },
+    {
+     "t": "VAT",
+     "x0": 71.5,
+     "x1": 94.9,
+     "top": 118.1,
+     "bottom": 130.1
+    },
+    {
+     "t": "on",
+     "x0": 99.0,
+     "x1": 114.1,
+     "top": 118.1,
+     "bottom": 130.1
+    },
+    {
+     "t": "their",
+     "x0": 118.5,
+     "x1": 146.1,
+     "top": 118.1,
+     "bottom": 130.1
+    },
+    {
+     "t": "taxable",
+     "x0": 150.5,
+     "x1": 194.6,
+     "top": 118.1,
+     "bottom": 130.1
+    },
+    {
+     "t": "supplies.",
+     "x0": 198.5,
+     "x1": 251.8,
+     "top": 118.1,
+     "bottom": 130.1
+    },
+    {
+     "t": "The",
+     "x0": 71.0,
+     "x1": 93.2,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "suppliers",
+     "x0": 99.5,
+     "x1": 153.2,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "(service",
+     "x0": 160.5,
+     "x1": 208.1,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "providers,",
+     "x0": 214.9,
+     "x1": 276.1,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "contractors,",
+     "x0": 282.7,
+     "x1": 355.0,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "vendors,",
+     "x0": 361.6,
+     "x1": 414.5,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "etc.)",
+     "x0": 421.1,
+     "x1": 449.0,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "must",
+     "x0": 456.0,
+     "x1": 486.3,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "state",
+     "x0": 492.5,
+     "x1": 523.1,
+     "top": 143.1,
+     "bottom": 155.1
+    },
+    {
+     "t": "separately,",
+     "x0": 71.5,
+     "x1": 137.9,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "the",
+     "x0": 141.5,
+     "x1": 161.2,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "gross",
+     "x0": 164.5,
+     "x1": 197.2,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "amount",
+     "x0": 200.5,
+     "x1": 246.7,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "of",
+     "x0": 249.4,
+     "x1": 261.1,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "taxable",
+     "x0": 265.2,
+     "x1": 309.4,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "supplies,",
+     "x0": 312.7,
+     "x1": 366.0,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "VAT",
+     "x0": 369.1,
+     "x1": 393.0,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "rate,",
+     "x0": 396.1,
+     "x1": 424.9,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "and",
+     "x0": 428.6,
+     "x1": 450.5,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "the",
+     "x0": 454.1,
+     "x1": 473.7,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "amount",
+     "x0": 477.1,
+     "x1": 523.3,
+     "top": 159.6,
+     "bottom": 171.6
+    },
+    {
+     "t": "of",
+     "x0": 71.5,
+     "x1": 83.3,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "VAT",
+     "x0": 89.5,
+     "x1": 113.4,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "charged",
+     "x0": 120.0,
+     "x1": 168.4,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "on",
+     "x0": 175.5,
+     "x1": 190.5,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "each",
+     "x0": 197.4,
+     "x1": 225.5,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "invoice",
+     "x0": 232.4,
+     "x1": 274.5,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "(including",
+     "x0": 281.3,
+     "x1": 340.3,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "bill,",
+     "x0": 347.3,
+     "x1": 369.1,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "debit",
+     "x0": 375.8,
+     "x1": 406.5,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "note",
+     "x0": 413.2,
+     "x1": 439.9,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "or",
+     "x0": 446.7,
+     "x1": 459.3,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "any",
+     "x0": 466.2,
+     "x1": 487.8,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "such",
+     "x0": 494.6,
+     "x1": 522.7,
+     "top": 175.6,
+     "bottom": 187.6
+    },
+    {
+     "t": "document",
+     "x0": 71.5,
+     "x1": 131.2,
+     "top": 191.1,
+     "bottom": 203.1
+    },
+    {
+     "t": "employed",
+     "x0": 135.0,
+     "x1": 193.5,
+     "top": 191.1,
+     "bottom": 203.1
+    },
+    {
+     "t": "to",
+     "x0": 198.0,
+     "x1": 209.8,
+     "top": 191.1,
+     "bottom": 203.1
+    },
+    {
+     "t": "record",
+     "x0": 214.0,
+     "x1": 252.9,
+     "top": 191.1,
+     "bottom": 203.1
+    },
+    {
+     "t": "the",
+     "x0": 256.9,
+     "x1": 276.1,
+     "top": 191.1,
+     "bottom": 203.1
+    },
+    {
+     "t": "transaction).",
+     "x0": 280.4,
+     "x1": 357.2,
+     "top": 191.1,
+     "bottom": 203.1
+    },
+    {
+     "t": "4.0",
+     "x0": 72.0,
+     "x1": 93.6,
+     "top": 223.6,
+     "bottom": 235.6
+    },
+    {
+     "t": "Obligation",
+     "x0": 108.1,
+     "x1": 177.1,
+     "top": 223.6,
+     "bottom": 235.6
+    },
+    {
+     "t": "to",
+     "x0": 181.0,
+     "x1": 195.3,
+     "top": 223.6,
+     "bottom": 235.6
+    },
+    {
+     "t": "Withhold",
+     "x0": 199.0,
+     "x1": 259.9,
+     "top": 223.6,
+     "bottom": 235.6
+    },
+    {
+     "t": "VAT",
+     "x0": 264.0,
+     "x1": 290.7,
+     "top": 223.6,
+     "bottom": 235.6
+    },
+    {
+     "t": "from",
+     "x0": 295.0,
+     "x1": 326.7,
+     "top": 223.6,
+     "bottom": 235.6
+    },
+    {
+     "t": "Suppliers",
+     "x0": 331.0,
+     "x1": 394.0,
+     "top": 223.6,
+     "bottom": 235.6
+    },
+    {
+     "t": "An",
+     "x0": 72.0,
+     "x1": 87.7,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "appointed",
+     "x0": 91.6,
+     "x1": 151.0,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "agent",
+     "x0": 155.5,
+     "x1": 189.7,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "shall",
+     "x0": 194.2,
+     "x1": 221.9,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "have",
+     "x0": 225.6,
+     "x1": 254.8,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "the",
+     "x0": 259.1,
+     "x1": 278.7,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "following",
+     "x0": 283.2,
+     "x1": 336.2,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "obligations:",
+     "x0": 340.7,
+     "x1": 411.8,
+     "top": 239.6,
+     "bottom": 251.6
+    },
+    {
+     "t": "a.",
+     "x0": 90.1,
+     "x1": 101.4,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "deduct",
+     "x0": 108.1,
+     "x1": 148.8,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "or",
+     "x0": 151.6,
+     "x1": 164.2,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "withhold",
+     "x0": 167.6,
+     "x1": 218.5,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "VAT",
+     "x0": 222.0,
+     "x1": 245.4,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "stated",
+     "x0": 249.0,
+     "x1": 286.5,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "on",
+     "x0": 290.0,
+     "x1": 305.1,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "the",
+     "x0": 308.8,
+     "x1": 327.9,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "invoice",
+     "x0": 331.3,
+     "x1": 373.4,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "issued",
+     "x0": 376.8,
+     "x1": 414.8,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "by",
+     "x0": 417.9,
+     "x1": 432.4,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "their",
+     "x0": 436.3,
+     "x1": 464.0,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "suppliers,",
+     "x0": 467.3,
+     "x1": 525.8,
+     "top": 268.2,
+     "bottom": 280.2
+    },
+    {
+     "t": "vendors",
+     "x0": 108.1,
+     "x1": 155.8,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "or",
+     "x0": 160.1,
+     "x1": 172.7,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "contractors",
+     "x0": 176.7,
+     "x1": 244.4,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "(the",
+     "x0": 248.7,
+     "x1": 273.8,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "VAT",
+     "x0": 277.7,
+     "x1": 301.5,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "shall",
+     "x0": 305.8,
+     "x1": 333.5,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "not",
+     "x0": 337.7,
+     "x1": 357.4,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "be",
+     "x0": 361.2,
+     "x1": 376.3,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "paid",
+     "x0": 380.2,
+     "x1": 405.6,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "to",
+     "x0": 410.3,
+     "x1": 422.1,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "the",
+     "x0": 426.3,
+     "x1": 446.0,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "supplier);",
+     "x0": 449.8,
+     "x1": 508.8,
+     "top": 282.7,
+     "bottom": 294.7
+    },
+    {
+     "t": "b.",
+     "x0": 90.1,
+     "x1": 101.9,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "prepare",
+     "x0": 108.1,
+     "x1": 154.3,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "a",
+     "x0": 160.1,
+     "x1": 167.3,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "schedule",
+     "x0": 173.0,
+     "x1": 225.7,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "showing",
+     "x0": 231.7,
+     "x1": 281.1,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "the",
+     "x0": 287.2,
+     "x1": 306.3,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "name,",
+     "x0": 312.1,
+     "x1": 350.0,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "Tax",
+     "x0": 355.6,
+     "x1": 377.7,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "ID,",
+     "x0": 383.0,
+     "x1": 402.2,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "and",
+     "x0": 407.8,
+     "x1": 430.3,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "address",
+     "x0": 436.3,
+     "x1": 483.0,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "of",
+     "x0": 488.8,
+     "x1": 500.5,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "the",
+     "x0": 506.2,
+     "x1": 525.4,
+     "top": 309.7,
+     "bottom": 321.7
+    },
+    {
+     "t": "contractor",
+     "x0": 108.1,
+     "x1": 169.7,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "or",
+     "x0": 177.1,
+     "x1": 189.7,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "supplier,",
+     "x0": 197.0,
+     "x1": 248.9,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "invoice",
+     "x0": 257.0,
+     "x1": 299.1,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "number,",
+     "x0": 306.4,
+     "x1": 357.3,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "gross",
+     "x0": 365.4,
+     "x1": 398.1,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "amount",
+     "x0": 405.9,
+     "x1": 451.6,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "of",
+     "x0": 459.3,
+     "x1": 471.0,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "invoice,",
+     "x0": 478.8,
+     "x1": 525.1,
+     "top": 324.2,
+     "bottom": 336.2
+    },
+    {
+     "t": "amount",
+     "x0": 108.1,
+     "x1": 153.8,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "of",
+     "x0": 158.1,
+     "x1": 169.8,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "the",
+     "x0": 173.5,
+     "x1": 193.3,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "VAT,",
+     "x0": 197.7,
+     "x1": 225.5,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "and",
+     "x0": 230.2,
+     "x1": 252.2,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "the",
+     "x0": 256.7,
+     "x1": 275.8,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "month",
+     "x0": 280.2,
+     "x1": 318.7,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "to",
+     "x0": 323.1,
+     "x1": 334.9,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "which",
+     "x0": 339.1,
+     "x1": 374.2,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "the",
+     "x0": 378.1,
+     "x1": 397.7,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "return",
+     "x0": 401.6,
+     "x1": 439.1,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "relates;",
+     "x0": 443.0,
+     "x1": 489.8,
+     "top": 338.2,
+     "bottom": 350.2
+    },
+    {
+     "t": "c.",
+     "x0": 90.1,
+     "x1": 100.9,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "remit",
+     "x0": 108.1,
+     "x1": 139.8,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "the",
+     "x0": 144.6,
+     "x1": 164.2,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "amount",
+     "x0": 169.1,
+     "x1": 215.3,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "withheld",
+     "x0": 220.0,
+     "x1": 271.0,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "to",
+     "x0": 276.0,
+     "x1": 287.8,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "the",
+     "x0": 293.0,
+     "x1": 312.6,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "Service",
+     "x0": 317.4,
+     "x1": 361.6,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "on",
+     "x0": 365.8,
+     "x1": 380.9,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "or",
+     "x0": 385.8,
+     "x1": 398.4,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "before",
+     "x0": 403.3,
+     "x1": 441.4,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "the",
+     "x0": 446.7,
+     "x1": 465.9,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "14th",
+     "x0": 471.2,
+     "x1": 498.8,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "day",
+     "x0": 503.7,
+     "x1": 525.3,
+     "top": 365.2,
+     "bottom": 377.2
+    },
+    {
+     "t": "of",
+     "x0": 108.1,
+     "x1": 119.8,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "the",
+     "x0": 123.1,
+     "x1": 142.2,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "month",
+     "x0": 146.1,
+     "x1": 184.7,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "immediately",
+     "x0": 188.6,
+     "x1": 262.1,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "following",
+     "x0": 266.0,
+     "x1": 319.4,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "the",
+     "x0": 323.0,
+     "x1": 342.6,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "month",
+     "x0": 346.0,
+     "x1": 385.4,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "of",
+     "x0": 388.8,
+     "x1": 400.5,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "the",
+     "x0": 403.8,
+     "x1": 423.4,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "transaction;",
+     "x0": 426.8,
+     "x1": 499.8,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "and",
+     "x0": 503.4,
+     "x1": 525.4,
+     "top": 379.7,
+     "bottom": 391.7
+    },
+    {
+     "t": "d.",
+     "x0": 90.1,
+     "x1": 101.9,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "file",
+     "x0": 108.1,
+     "x1": 125.7,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "the",
+     "x0": 131.1,
+     "x1": 150.7,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "returns",
+     "x0": 156.0,
+     "x1": 199.8,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "of",
+     "x0": 205.5,
+     "x1": 217.2,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "VAT",
+     "x0": 222.5,
+     "x1": 245.9,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "withheld",
+     "x0": 251.4,
+     "x1": 302.4,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "using",
+     "x0": 307.9,
+     "x1": 339.8,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "the",
+     "x0": 345.8,
+     "x1": 365.0,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "appropriate",
+     "x0": 370.8,
+     "x1": 440.4,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "fields",
+     "x0": 446.4,
+     "x1": 478.1,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "in",
+     "x0": 483.8,
+     "x1": 494.5,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "NRS",
+     "x0": 499.9,
+     "x1": 525.6,
+     "top": 406.2,
+     "bottom": 418.2
+    },
+    {
+     "t": "tax",
+     "x0": 108.1,
+     "x1": 126.7,
+     "top": 420.7,
+     "bottom": 432.7
+    },
+    {
+     "t": "administration",
+     "x0": 131.1,
+     "x1": 217.6,
+     "top": 420.7,
+     "bottom": 432.7
+    },
+    {
+     "t": "solution.",
+     "x0": 221.5,
+     "x1": 273.4,
+     "top": 420.7,
+     "bottom": 432.7
+    },
+    {
+     "t": "4.1",
+     "x0": 71.5,
+     "x1": 93.1,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "Taxable",
+     "x0": 101.1,
+     "x1": 153.5,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "supplies",
+     "x0": 162.0,
+     "x1": 217.8,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "between",
+     "x0": 225.7,
+     "x1": 284.2,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "companies",
+     "x0": 292.1,
+     "x1": 364.2,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "having",
+     "x0": 372.6,
+     "x1": 417.9,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "obligations",
+     "x0": 426.5,
+     "x1": 501.1,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "to",
+     "x0": 509.0,
+     "x1": 523.2,
+     "top": 446.8,
+     "bottom": 458.8
+    },
+    {
+     "t": "withhold",
+     "x0": 71.5,
+     "x1": 130.4,
+     "top": 462.8,
+     "bottom": 474.8
+    },
+    {
+     "t": "VAT",
+     "x0": 134.5,
+     "x1": 161.2,
+     "top": 462.8,
+     "bottom": 474.8
+    },
+    {
+     "t": "Where",
+     "x0": 71.0,
+     "x1": 109.7,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "a",
+     "x0": 116.0,
+     "x1": 123.2,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "company",
+     "x0": 129.0,
+     "x1": 183.6,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "having",
+     "x0": 190.0,
+     "x1": 229.9,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "the",
+     "x0": 236.7,
+     "x1": 256.3,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "obligation",
+     "x0": 262.2,
+     "x1": 321.3,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "to",
+     "x0": 327.7,
+     "x1": 339.4,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "withhold",
+     "x0": 345.6,
+     "x1": 396.6,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "VAT",
+     "x0": 403.1,
+     "x1": 427.0,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "makes",
+     "x0": 433.1,
+     "x1": 472.3,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "taxable",
+     "x0": 479.0,
+     "x1": 523.1,
+     "top": 478.8,
+     "bottom": 490.8
+    },
+    {
+     "t": "supplies",
+     "x0": 71.5,
+     "x1": 119.8,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "to",
+     "x0": 125.0,
+     "x1": 136.8,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "another",
+     "x0": 142.5,
+     "x1": 189.1,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "company",
+     "x0": 194.0,
+     "x1": 248.5,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "having",
+     "x0": 253.9,
+     "x1": 293.9,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "a",
+     "x0": 299.8,
+     "x1": 307.0,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "similar",
+     "x0": 311.8,
+     "x1": 352.3,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "obligation",
+     "x0": 357.2,
+     "x1": 416.3,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "to",
+     "x0": 421.6,
+     "x1": 433.4,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "withhold",
+     "x0": 438.6,
+     "x1": 489.6,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "VAT,",
+     "x0": 495.1,
+     "x1": 522.9,
+     "top": 495.3,
+     "bottom": 507.3
+    },
+    {
+     "t": "the",
+     "x0": 71.5,
+     "x1": 90.7,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "recipient",
+     "x0": 95.5,
+     "x1": 147.7,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "of",
+     "x0": 152.5,
+     "x1": 164.2,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "the",
+     "x0": 169.5,
+     "x1": 189.1,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "supplies",
+     "x0": 193.9,
+     "x1": 242.7,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "(the",
+     "x0": 247.9,
+     "x1": 272.5,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "purchaser)",
+     "x0": 277.4,
+     "x1": 342.8,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "shall",
+     "x0": 347.8,
+     "x1": 375.6,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "account",
+     "x0": 380.8,
+     "x1": 428.0,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "for",
+     "x0": 432.7,
+     "x1": 449.3,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "the",
+     "x0": 454.2,
+     "x1": 473.9,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "VAT",
+     "x0": 478.7,
+     "x1": 502.6,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "on",
+     "x0": 507.7,
+     "x1": 522.7,
+     "top": 511.3,
+     "bottom": 523.3
+    },
+    {
+     "t": "the",
+     "x0": 71.5,
+     "x1": 90.7,
+     "top": 526.8,
+     "bottom": 538.8
+    },
+    {
+     "t": "transaction",
+     "x0": 95.0,
+     "x1": 162.1,
+     "top": 526.8,
+     "bottom": 538.8
+    },
+    {
+     "t": "in",
+     "x0": 166.5,
+     "x1": 177.1,
+     "top": 526.8,
+     "bottom": 538.8
+    },
+    {
+     "t": "line",
+     "x0": 181.5,
+     "x1": 202.6,
+     "top": 526.8,
+     "bottom": 538.8
+    },
+    {
+     "t": "with",
+     "x0": 206.9,
+     "x1": 232.5,
+     "top": 526.8,
+     "bottom": 538.8
+    },
+    {
+     "t": "these",
+     "x0": 236.4,
+     "x1": 269.9,
+     "top": 526.8,
+     "bottom": 538.8
+    },
+    {
+     "t": "Guidelines.",
+     "x0": 273.7,
+     "x1": 340.6,
+     "top": 526.8,
+     "bottom": 538.8
+    },
+    {
+     "t": "Where",
+     "x0": 71.0,
+     "x1": 109.7,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "a",
+     "x0": 113.1,
+     "x1": 120.3,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "non-resident",
+     "x0": 124.1,
+     "x1": 200.9,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "supplier,",
+     "x0": 204.2,
+     "x1": 256.0,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "appointed",
+     "x0": 259.6,
+     "x1": 319.1,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "pursuant",
+     "x0": 322.6,
+     "x1": 376.3,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "to",
+     "x0": 380.1,
+     "x1": 391.8,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "Section",
+     "x0": 395.6,
+     "x1": 440.1,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "150(3)",
+     "x0": 443.9,
+     "x1": 485.3,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "of",
+     "x0": 488.9,
+     "x1": 500.6,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "the",
+     "x0": 503.9,
+     "x1": 523.5,
+     "top": 553.8,
+     "bottom": 565.8
+    },
+    {
+     "t": "NTA,",
+     "x0": 71.5,
+     "x1": 100.4,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "makes",
+     "x0": 109.0,
+     "x1": 147.8,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "a",
+     "x0": 157.0,
+     "x1": 164.2,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "taxable",
+     "x0": 172.5,
+     "x1": 216.6,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "supply",
+     "x0": 224.9,
+     "x1": 264.5,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "to",
+     "x0": 273.4,
+     "x1": 285.2,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "an",
+     "x0": 293.9,
+     "x1": 308.5,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "appointed",
+     "x0": 317.4,
+     "x1": 376.8,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "agent",
+     "x0": 385.3,
+     "x1": 419.5,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "in",
+     "x0": 428.3,
+     "x1": 438.9,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "Nigeria,",
+     "x0": 447.7,
+     "x1": 494.6,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "the",
+     "x0": 503.9,
+     "x1": 523.5,
+     "top": 569.8,
+     "bottom": 581.8
+    },
+    {
+     "t": "appointed",
+     "x0": 71.5,
+     "x1": 130.5,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "non-resident",
+     "x0": 137.5,
+     "x1": 214.3,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "supplier",
+     "x0": 220.6,
+     "x1": 268.7,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "shall",
+     "x0": 275.2,
+     "x1": 303.0,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "have",
+     "x0": 309.7,
+     "x1": 338.3,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "the",
+     "x0": 345.2,
+     "x1": 364.8,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "primary",
+     "x0": 371.2,
+     "x1": 418.2,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "responsibility",
+     "x0": 424.6,
+     "x1": 504.2,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "to",
+     "x0": 511.0,
+     "x1": 522.8,
+     "top": 585.8,
+     "bottom": 597.8
+    },
+    {
+     "t": "collect",
+     "x0": 71.5,
+     "x1": 109.7,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "the",
+     "x0": 115.5,
+     "x1": 135.2,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "tax",
+     "x0": 141.0,
+     "x1": 160.1,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "due",
+     "x0": 166.0,
+     "x1": 188.1,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "and",
+     "x0": 194.4,
+     "x1": 216.4,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "remit",
+     "x0": 222.4,
+     "x1": 254.6,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "same",
+     "x0": 260.4,
+     "x1": 293.0,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "to",
+     "x0": 298.8,
+     "x1": 310.6,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "the",
+     "x0": 317.3,
+     "x1": 336.5,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "Service.",
+     "x0": 342.8,
+     "x1": 391.1,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "However,",
+     "x0": 397.8,
+     "x1": 454.7,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "where",
+     "x0": 460.9,
+     "x1": 498.0,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "the",
+     "x0": 503.8,
+     "x1": 523.5,
+     "top": 602.4,
+     "bottom": 614.4
+    },
+    {
+     "t": "appointed",
+     "x0": 71.5,
+     "x1": 130.5,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "non-resident",
+     "x0": 140.5,
+     "x1": 217.4,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "person",
+     "x0": 227.1,
+     "x1": 268.2,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "fails",
+     "x0": 277.6,
+     "x1": 301.8,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "to",
+     "x0": 311.5,
+     "x1": 323.3,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "collect",
+     "x0": 333.0,
+     "x1": 371.7,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "the",
+     "x0": 381.5,
+     "x1": 400.6,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "tax,",
+     "x0": 410.4,
+     "x1": 433.8,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "the",
+     "x0": 443.4,
+     "x1": 463.1,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "Nigerian",
+     "x0": 472.4,
+     "x1": 522.9,
+     "top": 618.4,
+     "bottom": 630.4
+    },
+    {
+     "t": "appointed",
+     "x0": 71.5,
+     "x1": 130.5,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "agent",
+     "x0": 136.5,
+     "x1": 170.7,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "shall",
+     "x0": 176.0,
+     "x1": 203.7,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "withhold",
+     "x0": 209.2,
+     "x1": 260.1,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "the",
+     "x0": 266.2,
+     "x1": 285.4,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "VAT",
+     "x0": 291.2,
+     "x1": 314.6,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "in",
+     "x0": 320.8,
+     "x1": 331.4,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "line",
+     "x0": 336.8,
+     "x1": 357.9,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "with",
+     "x0": 363.2,
+     "x1": 388.8,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "these",
+     "x0": 394.8,
+     "x1": 427.5,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "Guidelines",
+     "x0": 432.9,
+     "x1": 495.2,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "and",
+     "x0": 500.9,
+     "x1": 523.4,
+     "top": 634.4,
+     "bottom": 646.4
+    },
+    {
+     "t": "remit",
+     "x0": 71.5,
+     "x1": 103.3,
+     "top": 650.4,
+     "bottom": 662.4
+    },
+    {
+     "t": "same",
+     "x0": 107.0,
+     "x1": 139.7,
+     "top": 650.4,
+     "bottom": 662.4
+    },
+    {
+     "t": "to",
+     "x0": 144.0,
+     "x1": 155.8,
+     "top": 650.4,
+     "bottom": 662.4
+    },
+    {
+     "t": "the",
+     "x0": 160.0,
+     "x1": 179.6,
+     "top": 650.4,
+     "bottom": 662.4
+    },
+    {
+     "t": "Service.",
+     "x0": 184.0,
+     "x1": 232.3,
+     "top": 650.4,
+     "bottom": 662.4
+    },
+    {
+     "t": "In",
+     "x0": 71.0,
+     "x1": 83.7,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "the",
+     "x0": 88.0,
+     "x1": 107.7,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "case",
+     "x0": 112.0,
+     "x1": 139.1,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "of",
+     "x0": 143.5,
+     "x1": 155.2,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "supply",
+     "x0": 159.5,
+     "x1": 199.0,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "by",
+     "x0": 203.4,
+     "x1": 218.0,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "a",
+     "x0": 222.9,
+     "x1": 230.1,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "non-resident",
+     "x0": 234.4,
+     "x1": 311.9,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "person",
+     "x0": 316.2,
+     "x1": 357.3,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "not",
+     "x0": 361.6,
+     "x1": 381.4,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "appointed,",
+     "x0": 386.1,
+     "x1": 449.9,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "the",
+     "x0": 454.5,
+     "x1": 474.2,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "taxable",
+     "x0": 479.0,
+     "x1": 523.2,
+     "top": 672.4,
+     "bottom": 684.4
+    },
+    {
+     "t": "person",
+     "x0": 71.5,
+     "x1": 112.6,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "to",
+     "x0": 115.5,
+     "x1": 127.3,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "whom",
+     "x0": 130.5,
+     "x1": 167.2,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "the",
+     "x0": 170.5,
+     "x1": 190.1,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "supply",
+     "x0": 193.0,
+     "x1": 232.6,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "is",
+     "x0": 235.9,
+     "x1": 245.2,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "made",
+     "x0": 248.9,
+     "x1": 282.1,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "in",
+     "x0": 285.9,
+     "x1": 296.5,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "Nigeria,",
+     "x0": 299.9,
+     "x1": 346.8,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "including",
+     "x0": 350.4,
+     "x1": 403.8,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "an",
+     "x0": 407.4,
+     "x1": 421.9,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "appointed",
+     "x0": 425.8,
+     "x1": 485.3,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "agent",
+     "x0": 488.8,
+     "x1": 523.0,
+     "top": 688.4,
+     "bottom": 700.4
+    },
+    {
+     "t": "in",
+     "x0": 71.5,
+     "x1": 82.1,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "Nigeria,",
+     "x0": 87.0,
+     "x1": 133.9,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "shall",
+     "x0": 139.0,
+     "x1": 166.7,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "have",
+     "x0": 172.0,
+     "x1": 201.1,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "the",
+     "x0": 205.9,
+     "x1": 225.6,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "obligation",
+     "x0": 230.4,
+     "x1": 289.5,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "to",
+     "x0": 294.8,
+     "x1": 306.6,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "withhold",
+     "x0": 311.8,
+     "x1": 362.8,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "the",
+     "x0": 368.3,
+     "x1": 387.4,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "tax",
+     "x0": 392.8,
+     "x1": 411.4,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "in",
+     "x0": 416.7,
+     "x1": 427.3,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "line",
+     "x0": 432.7,
+     "x1": 453.9,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "with",
+     "x0": 459.2,
+     "x1": 484.8,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "these",
+     "x0": 490.4,
+     "x1": 523.6,
+     "top": 704.9,
+     "bottom": 716.9
+    },
+    {
+     "t": "Guidelines.",
+     "x0": 71.5,
+     "x1": 138.0,
+     "top": 720.4,
+     "bottom": 732.4
+    },
+    {
+     "t": "2",
+     "x0": 295.2,
+     "x1": 300.8,
+     "top": 778.2,
+     "bottom": 789.2
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "chars": 1984,
+   "text": "5.0 Accounting for VAT Withheld\nA taxable person having the obligation to withhold VAT shall:\na. maintain an account, referred to as “VAT Withheld Account” in its\nbook or ledger, separate from its VAT Accounts;\nb. record to the credit of the “VAT Withheld Account” all VAT withheld\nfrom suppliers;\nc. record to the debit of the “VAT Withheld Account” all sums remitted\nto the Service, being VAT withheld from suppliers; and\nd. make the statement of the “VAT Withheld Account” available for\naudit, from time to time, as may be required by the Service.\n6.0 Error or omission on remittance schedule\nA taxable person having obligation to withhold VAT shall ensure that the\nfield to be populated on the schedules of suppliers to be uploaded on the\nNRS tax administration solution are done accurately and correctly, to avoid\ngiving unintended credit to a wrong person (i.e. suppliers).\nA taxable person or appointed agent can revisit the uploaded schedule of\nsuppliers to effect corrections where necessary.\n7.0 VAT Returns\n7.1 Filing Obligation\nAn appointed agent shall file a separate VAT return in respect of the VAT\nwithheld to the Service on or before the 14th day of the following month in\nthe currency of the transaction.\n7.2 Mode of Filing Returns\nThe returns for VAT withheld should be filed using the relevant module on\nthe NRS tax administration solution or any format as may be prescribed by\nthe Service.\nTaxpayers are to be on-boarded on the VAT e-invoicing when required by\nthe Service.\n7.3 Remittance of VAT withheld\na. VAT withheld should be remitted separately from VAT collected on\nsupplies; and\nb. VAT should be remitted in the currency in which it was assessed.\n8.0 Input Tax of Withheld Output Tax\nlnput VAT incurred on taxable supplies can be deducted from the output\nVAT or tax payable in line with the provisions of Section 155 (5) of NTA.\nIn the event that the output tax has been withheld by a company covered\nunder paragraph 2.0 of this Guideline, the supplier:\n3",
+   "words": [
+    {
+     "t": "5.0",
+     "x0": 71.0,
+     "x1": 92.6,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "Accounting",
+     "x0": 96.1,
+     "x1": 170.9,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "for",
+     "x0": 175.0,
+     "x1": 194.0,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "VAT",
+     "x0": 198.0,
+     "x1": 224.7,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "Withheld",
+     "x0": 229.0,
+     "x1": 289.4,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "A",
+     "x0": 75.0,
+     "x1": 83.3,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "taxable",
+     "x0": 87.6,
+     "x1": 131.7,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "person",
+     "x0": 135.5,
+     "x1": 177.1,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "having",
+     "x0": 181.2,
+     "x1": 221.1,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "the",
+     "x0": 225.7,
+     "x1": 244.8,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "obligation",
+     "x0": 249.2,
+     "x1": 308.3,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "to",
+     "x0": 312.2,
+     "x1": 323.9,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "withhold",
+     "x0": 328.1,
+     "x1": 379.6,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "VAT",
+     "x0": 383.6,
+     "x1": 407.5,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "shall:",
+     "x0": 411.6,
+     "x1": 444.8,
+     "top": 53.0,
+     "bottom": 65.0
+    },
+    {
+     "t": "a.",
+     "x0": 90.1,
+     "x1": 101.4,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "maintain",
+     "x0": 108.1,
+     "x1": 160.2,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "an",
+     "x0": 166.6,
+     "x1": 181.1,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "account,",
+     "x0": 187.5,
+     "x1": 238.9,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "referred",
+     "x0": 245.0,
+     "x1": 293.4,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "to",
+     "x0": 299.4,
+     "x1": 311.2,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "as",
+     "x0": 317.9,
+     "x1": 331.2,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "“VAT",
+     "x0": 337.4,
+     "x1": 366.8,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "Withheld",
+     "x0": 372.9,
+     "x1": 425.8,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "Account”",
+     "x0": 432.3,
+     "x1": 485.8,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "in",
+     "x0": 491.8,
+     "x1": 502.4,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "its",
+     "x0": 508.8,
+     "x1": 523.0,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "book",
+     "x0": 108.1,
+     "x1": 137.7,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "or",
+     "x0": 141.6,
+     "x1": 154.2,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "ledger,",
+     "x0": 158.1,
+     "x1": 199.4,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "separate",
+     "x0": 203.5,
+     "x1": 256.1,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "from",
+     "x0": 260.5,
+     "x1": 288.6,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "its",
+     "x0": 292.9,
+     "x1": 307.2,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "VAT",
+     "x0": 311.4,
+     "x1": 334.8,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "Accounts;",
+     "x0": 339.4,
+     "x1": 399.3,
+     "top": 93.0,
+     "bottom": 105.0
+    },
+    {
+     "t": "b.",
+     "x0": 90.1,
+     "x1": 101.9,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "record",
+     "x0": 108.1,
+     "x1": 146.6,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "to",
+     "x0": 151.6,
+     "x1": 163.4,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "the",
+     "x0": 168.6,
+     "x1": 187.7,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "credit",
+     "x0": 193.0,
+     "x1": 227.2,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "of",
+     "x0": 232.0,
+     "x1": 243.7,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "the",
+     "x0": 249.0,
+     "x1": 268.1,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "“VAT",
+     "x0": 273.0,
+     "x1": 302.4,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "Withheld",
+     "x0": 307.4,
+     "x1": 360.4,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "Account”",
+     "x0": 365.9,
+     "x1": 419.4,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "all",
+     "x0": 424.4,
+     "x1": 438.1,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "VAT",
+     "x0": 443.3,
+     "x1": 466.7,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "withheld",
+     "x0": 471.8,
+     "x1": 522.8,
+     "top": 117.1,
+     "bottom": 129.1
+    },
+    {
+     "t": "from",
+     "x0": 108.1,
+     "x1": 136.3,
+     "top": 131.6,
+     "bottom": 143.6
+    },
+    {
+     "t": "suppliers;",
+     "x0": 140.1,
+     "x1": 199.5,
+     "top": 131.6,
+     "bottom": 143.6
+    },
+    {
+     "t": "c.",
+     "x0": 90.1,
+     "x1": 100.9,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "record",
+     "x0": 108.1,
+     "x1": 146.6,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "to",
+     "x0": 151.1,
+     "x1": 162.9,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "the",
+     "x0": 167.5,
+     "x1": 187.2,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "debit",
+     "x0": 191.5,
+     "x1": 221.7,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "of",
+     "x0": 226.5,
+     "x1": 238.2,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "the",
+     "x0": 243.0,
+     "x1": 262.1,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "“VAT",
+     "x0": 266.9,
+     "x1": 295.8,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "Withheld",
+     "x0": 300.9,
+     "x1": 353.9,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "Account”",
+     "x0": 359.3,
+     "x1": 412.8,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "all",
+     "x0": 417.3,
+     "x1": 431.0,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "sums",
+     "x0": 435.2,
+     "x1": 467.5,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "remitted",
+     "x0": 472.2,
+     "x1": 523.1,
+     "top": 156.1,
+     "bottom": 168.1
+    },
+    {
+     "t": "to",
+     "x0": 108.1,
+     "x1": 119.9,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "the",
+     "x0": 124.1,
+     "x1": 143.2,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "Service,",
+     "x0": 147.6,
+     "x1": 196.4,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "being",
+     "x0": 200.5,
+     "x1": 233.5,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "VAT",
+     "x0": 237.5,
+     "x1": 261.6,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "withheld",
+     "x0": 265.7,
+     "x1": 316.6,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "from",
+     "x0": 321.1,
+     "x1": 349.3,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "suppliers;",
+     "x0": 353.1,
+     "x1": 413.0,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "and",
+     "x0": 417.1,
+     "x1": 439.0,
+     "top": 170.6,
+     "bottom": 182.6
+    },
+    {
+     "t": "d.",
+     "x0": 90.1,
+     "x1": 101.9,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "make",
+     "x0": 108.1,
+     "x1": 140.7,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "the",
+     "x0": 148.1,
+     "x1": 167.7,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "statement",
+     "x0": 174.5,
+     "x1": 236.2,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "of",
+     "x0": 243.0,
+     "x1": 254.7,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "the",
+     "x0": 261.9,
+     "x1": 281.6,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "“VAT",
+     "x0": 288.4,
+     "x1": 317.8,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "Withheld",
+     "x0": 324.9,
+     "x1": 377.8,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "Account”",
+     "x0": 385.3,
+     "x1": 438.8,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "available",
+     "x0": 445.8,
+     "x1": 498.9,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "for",
+     "x0": 506.2,
+     "x1": 522.8,
+     "top": 195.1,
+     "bottom": 207.1
+    },
+    {
+     "t": "audit,",
+     "x0": 108.1,
+     "x1": 142.5,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "from",
+     "x0": 146.6,
+     "x1": 174.7,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "time",
+     "x0": 179.0,
+     "x1": 205.7,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "to",
+     "x0": 210.0,
+     "x1": 221.8,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "time,",
+     "x0": 226.5,
+     "x1": 257.3,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "as",
+     "x0": 262.0,
+     "x1": 275.2,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "may",
+     "x0": 279.4,
+     "x1": 305.5,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "be",
+     "x0": 309.4,
+     "x1": 324.0,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "required",
+     "x0": 328.4,
+     "x1": 378.4,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "by",
+     "x0": 382.9,
+     "x1": 397.5,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "the",
+     "x0": 401.9,
+     "x1": 421.0,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "Service.",
+     "x0": 425.3,
+     "x1": 474.2,
+     "top": 209.1,
+     "bottom": 221.1
+    },
+    {
+     "t": "6.0",
+     "x0": 71.0,
+     "x1": 92.6,
+     "top": 240.6,
+     "bottom": 252.6
+    },
+    {
+     "t": "Error",
+     "x0": 96.1,
+     "x1": 130.0,
+     "top": 240.6,
+     "bottom": 252.6
+    },
+    {
+     "t": "or",
+     "x0": 134.1,
+     "x1": 148.0,
+     "top": 240.6,
+     "bottom": 252.6
+    },
+    {
+     "t": "omission",
+     "x0": 152.1,
+     "x1": 212.1,
+     "top": 240.6,
+     "bottom": 252.6
+    },
+    {
+     "t": "on",
+     "x0": 216.5,
+     "x1": 233.1,
+     "top": 240.6,
+     "bottom": 252.6
+    },
+    {
+     "t": "remittance",
+     "x0": 237.0,
+     "x1": 310.5,
+     "top": 240.6,
+     "bottom": 252.6
+    },
+    {
+     "t": "schedule",
+     "x0": 314.5,
+     "x1": 373.9,
+     "top": 240.6,
+     "bottom": 252.6
+    },
+    {
+     "t": "A",
+     "x0": 71.0,
+     "x1": 79.3,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "taxable",
+     "x0": 84.6,
+     "x1": 128.7,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "person",
+     "x0": 134.0,
+     "x1": 175.1,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "having",
+     "x0": 180.7,
+     "x1": 220.6,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "obligation",
+     "x0": 226.1,
+     "x1": 285.2,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "to",
+     "x0": 291.1,
+     "x1": 302.8,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "withhold",
+     "x0": 308.5,
+     "x1": 359.0,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "VAT",
+     "x0": 365.0,
+     "x1": 388.4,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "shall",
+     "x0": 394.0,
+     "x1": 421.7,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "ensure",
+     "x0": 427.4,
+     "x1": 468.1,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "that",
+     "x0": 473.9,
+     "x1": 498.1,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "the",
+     "x0": 503.4,
+     "x1": 523.0,
+     "top": 256.1,
+     "bottom": 268.1
+    },
+    {
+     "t": "field",
+     "x0": 71.5,
+     "x1": 96.5,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "to",
+     "x0": 101.5,
+     "x1": 113.3,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "be",
+     "x0": 118.5,
+     "x1": 133.1,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "populated",
+     "x0": 138.0,
+     "x1": 197.9,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "on",
+     "x0": 202.9,
+     "x1": 218.0,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "the",
+     "x0": 222.9,
+     "x1": 242.1,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "schedules",
+     "x0": 247.4,
+     "x1": 306.1,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "of",
+     "x0": 311.4,
+     "x1": 323.1,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "suppliers",
+     "x0": 327.8,
+     "x1": 381.6,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "to",
+     "x0": 386.8,
+     "x1": 398.6,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "be",
+     "x0": 403.8,
+     "x1": 418.4,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "uploaded",
+     "x0": 423.3,
+     "x1": 478.2,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "on",
+     "x0": 483.2,
+     "x1": 498.3,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "the",
+     "x0": 503.2,
+     "x1": 522.9,
+     "top": 272.7,
+     "bottom": 284.7
+    },
+    {
+     "t": "NRS",
+     "x0": 71.5,
+     "x1": 97.2,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "tax",
+     "x0": 100.6,
+     "x1": 119.7,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "administration",
+     "x0": 123.6,
+     "x1": 210.1,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "solution",
+     "x0": 214.0,
+     "x1": 261.6,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "are",
+     "x0": 265.7,
+     "x1": 284.9,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "done",
+     "x0": 288.7,
+     "x1": 318.4,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "accurately",
+     "x0": 322.2,
+     "x1": 384.3,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "and",
+     "x0": 388.2,
+     "x1": 410.1,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "correctly,",
+     "x0": 414.1,
+     "x1": 471.2,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "to",
+     "x0": 475.4,
+     "x1": 487.1,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "avoid",
+     "x0": 490.9,
+     "x1": 523.3,
+     "top": 288.7,
+     "bottom": 300.7
+    },
+    {
+     "t": "giving",
+     "x0": 71.5,
+     "x1": 107.5,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "unintended",
+     "x0": 111.6,
+     "x1": 179.1,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "credit",
+     "x0": 183.6,
+     "x1": 217.8,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "to",
+     "x0": 222.0,
+     "x1": 233.8,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "a",
+     "x0": 238.0,
+     "x1": 245.2,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "wrong",
+     "x0": 249.0,
+     "x1": 286.7,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "person",
+     "x0": 290.7,
+     "x1": 332.3,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "(i.e.",
+     "x0": 336.2,
+     "x1": 360.5,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "suppliers).",
+     "x0": 364.6,
+     "x1": 429.0,
+     "top": 304.7,
+     "bottom": 316.7
+    },
+    {
+     "t": "A",
+     "x0": 71.0,
+     "x1": 79.3,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "taxable",
+     "x0": 84.1,
+     "x1": 128.2,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "person",
+     "x0": 133.0,
+     "x1": 174.6,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "or",
+     "x0": 179.7,
+     "x1": 192.3,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "appointed",
+     "x0": 197.1,
+     "x1": 256.6,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "agent",
+     "x0": 261.6,
+     "x1": 295.8,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "can",
+     "x0": 300.6,
+     "x1": 321.6,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "revisit",
+     "x0": 327.0,
+     "x1": 363.7,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "the",
+     "x0": 369.0,
+     "x1": 388.6,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "uploaded",
+     "x0": 393.5,
+     "x1": 448.4,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "schedule",
+     "x0": 453.4,
+     "x1": 506.1,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "of",
+     "x0": 511.4,
+     "x1": 523.1,
+     "top": 329.2,
+     "bottom": 341.2
+    },
+    {
+     "t": "suppliers",
+     "x0": 71.5,
+     "x1": 124.8,
+     "top": 345.7,
+     "bottom": 357.7
+    },
+    {
+     "t": "to",
+     "x0": 129.5,
+     "x1": 141.3,
+     "top": 345.7,
+     "bottom": 357.7
+    },
+    {
+     "t": "effect",
+     "x0": 145.5,
+     "x1": 179.2,
+     "top": 345.7,
+     "bottom": 357.7
+    },
+    {
+     "t": "corrections",
+     "x0": 183.4,
+     "x1": 249.7,
+     "top": 345.7,
+     "bottom": 357.7
+    },
+    {
+     "t": "where",
+     "x0": 253.9,
+     "x1": 290.5,
+     "top": 345.7,
+     "bottom": 357.7
+    },
+    {
+     "t": "necessary.",
+     "x0": 294.9,
+     "x1": 359.2,
+     "top": 345.7,
+     "bottom": 357.7
+    },
+    {
+     "t": "7.0",
+     "x0": 72.0,
+     "x1": 93.6,
+     "top": 373.7,
+     "bottom": 385.7
+    },
+    {
+     "t": "VAT",
+     "x0": 97.6,
+     "x1": 124.2,
+     "top": 373.7,
+     "bottom": 385.7
+    },
+    {
+     "t": "Returns",
+     "x0": 128.1,
+     "x1": 181.2,
+     "top": 373.7,
+     "bottom": 385.7
+    },
+    {
+     "t": "7.1",
+     "x0": 71.0,
+     "x1": 92.6,
+     "top": 393.7,
+     "bottom": 405.7
+    },
+    {
+     "t": "Filing",
+     "x0": 96.6,
+     "x1": 133.4,
+     "top": 393.7,
+     "bottom": 405.7
+    },
+    {
+     "t": "Obligation",
+     "x0": 137.5,
+     "x1": 206.5,
+     "top": 393.7,
+     "bottom": 405.7
+    },
+    {
+     "t": "An",
+     "x0": 72.0,
+     "x1": 87.7,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "appointed",
+     "x0": 92.6,
+     "x1": 152.0,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "agent",
+     "x0": 157.5,
+     "x1": 191.7,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "shall",
+     "x0": 196.5,
+     "x1": 224.2,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "file",
+     "x0": 229.5,
+     "x1": 247.1,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "a",
+     "x0": 252.4,
+     "x1": 259.6,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "separate",
+     "x0": 264.4,
+     "x1": 316.5,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "VAT",
+     "x0": 321.9,
+     "x1": 345.3,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "return",
+     "x0": 350.3,
+     "x1": 387.9,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "in",
+     "x0": 393.3,
+     "x1": 403.9,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "respect",
+     "x0": 408.8,
+     "x1": 453.0,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "of",
+     "x0": 458.4,
+     "x1": 470.1,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "the",
+     "x0": 475.3,
+     "x1": 494.5,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "VAT",
+     "x0": 499.8,
+     "x1": 523.2,
+     "top": 409.7,
+     "bottom": 421.7
+    },
+    {
+     "t": "withheld",
+     "x0": 72.0,
+     "x1": 122.5,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "to",
+     "x0": 127.0,
+     "x1": 138.8,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "the",
+     "x0": 143.5,
+     "x1": 162.6,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "Service",
+     "x0": 167.0,
+     "x1": 211.1,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "on",
+     "x0": 215.4,
+     "x1": 230.5,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "or",
+     "x0": 234.4,
+     "x1": 247.0,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "before",
+     "x0": 251.4,
+     "x1": 289.5,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "the",
+     "x0": 293.9,
+     "x1": 313.5,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "14th",
+     "x0": 318.2,
+     "x1": 341.8,
+     "top": 424.4,
+     "bottom": 437.7
+    },
+    {
+     "t": "day",
+     "x0": 345.8,
+     "x1": 367.9,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "of",
+     "x0": 371.8,
+     "x1": 383.5,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "the",
+     "x0": 387.8,
+     "x1": 407.4,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "following",
+     "x0": 411.7,
+     "x1": 464.7,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "month",
+     "x0": 469.2,
+     "x1": 508.2,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "in",
+     "x0": 512.9,
+     "x1": 523.5,
+     "top": 425.7,
+     "bottom": 437.7
+    },
+    {
+     "t": "the",
+     "x0": 72.0,
+     "x1": 91.2,
+     "top": 441.8,
+     "bottom": 453.8
+    },
+    {
+     "t": "currency",
+     "x0": 95.1,
+     "x1": 147.6,
+     "top": 441.8,
+     "bottom": 453.8
+    },
+    {
+     "t": "of",
+     "x0": 151.5,
+     "x1": 163.2,
+     "top": 441.8,
+     "bottom": 453.8
+    },
+    {
+     "t": "the",
+     "x0": 167.5,
+     "x1": 187.2,
+     "top": 441.8,
+     "bottom": 453.8
+    },
+    {
+     "t": "transaction.",
+     "x0": 191.0,
+     "x1": 262.8,
+     "top": 441.8,
+     "bottom": 453.8
+    },
+    {
+     "t": "7.2",
+     "x0": 71.0,
+     "x1": 92.6,
+     "top": 467.8,
+     "bottom": 479.8
+    },
+    {
+     "t": "Mode",
+     "x0": 96.6,
+     "x1": 132.5,
+     "top": 467.8,
+     "bottom": 479.8
+    },
+    {
+     "t": "of",
+     "x0": 136.5,
+     "x1": 149.6,
+     "top": 467.8,
+     "bottom": 479.8
+    },
+    {
+     "t": "Filing",
+     "x0": 153.5,
+     "x1": 190.4,
+     "top": 467.8,
+     "bottom": 479.8
+    },
+    {
+     "t": "Returns",
+     "x0": 194.5,
+     "x1": 247.6,
+     "top": 467.8,
+     "bottom": 479.8
+    },
+    {
+     "t": "The",
+     "x0": 72.0,
+     "x1": 94.2,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "returns",
+     "x0": 98.5,
+     "x1": 141.8,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "for",
+     "x0": 146.5,
+     "x1": 163.1,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "VAT",
+     "x0": 167.7,
+     "x1": 191.5,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "withheld",
+     "x0": 196.1,
+     "x1": 247.1,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "should",
+     "x0": 251.7,
+     "x1": 291.2,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "be",
+     "x0": 295.7,
+     "x1": 310.3,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "filed",
+     "x0": 314.7,
+     "x1": 340.1,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "using",
+     "x0": 344.6,
+     "x1": 376.6,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "the",
+     "x0": 381.6,
+     "x1": 400.7,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "relevant",
+     "x0": 405.6,
+     "x1": 454.8,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "module",
+     "x0": 459.5,
+     "x1": 503.7,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "on",
+     "x0": 508.0,
+     "x1": 523.1,
+     "top": 483.3,
+     "bottom": 495.3
+    },
+    {
+     "t": "the",
+     "x0": 72.5,
+     "x1": 91.7,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "NRS",
+     "x0": 95.6,
+     "x1": 121.3,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "tax",
+     "x0": 125.0,
+     "x1": 144.1,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "administration",
+     "x0": 148.0,
+     "x1": 234.6,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "solution",
+     "x0": 238.7,
+     "x1": 286.3,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "or",
+     "x0": 289.7,
+     "x1": 302.3,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "any",
+     "x0": 306.2,
+     "x1": 328.3,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "format",
+     "x0": 332.2,
+     "x1": 372.4,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "as",
+     "x0": 376.1,
+     "x1": 389.4,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "may",
+     "x0": 393.6,
+     "x1": 419.7,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "be",
+     "x0": 423.1,
+     "x1": 438.3,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "prescribed",
+     "x0": 442.1,
+     "x1": 504.6,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "by",
+     "x0": 508.6,
+     "x1": 523.2,
+     "top": 499.8,
+     "bottom": 511.8
+    },
+    {
+     "t": "the",
+     "x0": 72.5,
+     "x1": 91.7,
+     "top": 515.3,
+     "bottom": 527.3
+    },
+    {
+     "t": "Service.",
+     "x0": 96.0,
+     "x1": 144.4,
+     "top": 515.3,
+     "bottom": 527.3
+    },
+    {
+     "t": "Taxpayers",
+     "x0": 71.0,
+     "x1": 132.8,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "are",
+     "x0": 137.5,
+     "x1": 157.1,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "to",
+     "x0": 162.1,
+     "x1": 173.9,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "be",
+     "x0": 178.6,
+     "x1": 193.2,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "on-boarded",
+     "x0": 198.2,
+     "x1": 267.6,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "on",
+     "x0": 272.6,
+     "x1": 287.7,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "the",
+     "x0": 292.6,
+     "x1": 311.8,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "VAT",
+     "x0": 317.1,
+     "x1": 340.5,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "e-invoicing",
+     "x0": 345.8,
+     "x1": 411.2,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "when",
+     "x0": 416.2,
+     "x1": 448.3,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "required",
+     "x0": 453.2,
+     "x1": 503.7,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "by",
+     "x0": 508.2,
+     "x1": 523.3,
+     "top": 544.3,
+     "bottom": 556.3
+    },
+    {
+     "t": "the",
+     "x0": 71.5,
+     "x1": 90.7,
+     "top": 559.8,
+     "bottom": 571.8
+    },
+    {
+     "t": "Service.",
+     "x0": 95.0,
+     "x1": 143.5,
+     "top": 559.8,
+     "bottom": 571.8
+    },
+    {
+     "t": "7.3",
+     "x0": 72.0,
+     "x1": 93.6,
+     "top": 587.3,
+     "bottom": 599.3
+    },
+    {
+     "t": "Remittance",
+     "x0": 108.1,
+     "x1": 184.5,
+     "top": 587.3,
+     "bottom": 599.3
+    },
+    {
+     "t": "of",
+     "x0": 188.6,
+     "x1": 201.6,
+     "top": 587.3,
+     "bottom": 599.3
+    },
+    {
+     "t": "VAT",
+     "x0": 206.1,
+     "x1": 232.7,
+     "top": 587.3,
+     "bottom": 599.3
+    },
+    {
+     "t": "withheld",
+     "x0": 236.7,
+     "x1": 295.6,
+     "top": 587.3,
+     "bottom": 599.3
+    },
+    {
+     "t": "a.",
+     "x0": 110.6,
+     "x1": 122.0,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "VAT",
+     "x0": 128.6,
+     "x1": 152.0,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "withheld",
+     "x0": 155.6,
+     "x1": 206.5,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "should",
+     "x0": 210.1,
+     "x1": 249.5,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "be",
+     "x0": 253.1,
+     "x1": 267.7,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "remitted",
+     "x0": 271.5,
+     "x1": 322.5,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "separately",
+     "x0": 326.0,
+     "x1": 388.6,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "from",
+     "x0": 392.5,
+     "x1": 420.6,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "VAT",
+     "x0": 424.4,
+     "x1": 447.8,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "collected",
+     "x0": 451.4,
+     "x1": 504.4,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "on",
+     "x0": 507.9,
+     "x1": 523.0,
+     "top": 602.9,
+     "bottom": 614.9
+    },
+    {
+     "t": "supplies;",
+     "x0": 128.6,
+     "x1": 182.6,
+     "top": 619.4,
+     "bottom": 631.4
+    },
+    {
+     "t": "and",
+     "x0": 186.7,
+     "x1": 209.1,
+     "top": 619.4,
+     "bottom": 631.4
+    },
+    {
+     "t": "b.",
+     "x0": 110.6,
+     "x1": 122.5,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "VAT",
+     "x0": 128.6,
+     "x1": 152.0,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "should",
+     "x0": 156.1,
+     "x1": 195.5,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "be",
+     "x0": 199.6,
+     "x1": 214.7,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "remitted",
+     "x0": 218.6,
+     "x1": 270.0,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "in",
+     "x0": 274.5,
+     "x1": 285.1,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "the",
+     "x0": 289.5,
+     "x1": 308.6,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "currency",
+     "x0": 313.0,
+     "x1": 365.1,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "in",
+     "x0": 369.8,
+     "x1": 380.4,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "which",
+     "x0": 384.8,
+     "x1": 419.4,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "it",
+     "x0": 423.8,
+     "x1": 431.5,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "was",
+     "x0": 435.8,
+     "x1": 459.0,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "assessed.",
+     "x0": 463.2,
+     "x1": 522.3,
+     "top": 634.9,
+     "bottom": 646.9
+    },
+    {
+     "t": "8.0",
+     "x0": 72.0,
+     "x1": 93.6,
+     "top": 667.4,
+     "bottom": 679.4
+    },
+    {
+     "t": "Input",
+     "x0": 97.6,
+     "x1": 135.0,
+     "top": 667.4,
+     "bottom": 679.4
+    },
+    {
+     "t": "Tax",
+     "x0": 139.1,
+     "x1": 163.1,
+     "top": 667.4,
+     "bottom": 679.4
+    },
+    {
+     "t": "of",
+     "x0": 167.1,
+     "x1": 180.1,
+     "top": 667.4,
+     "bottom": 679.4
+    },
+    {
+     "t": "Withheld",
+     "x0": 184.5,
+     "x1": 244.9,
+     "top": 667.4,
+     "bottom": 679.4
+    },
+    {
+     "t": "Output",
+     "x0": 249.5,
+     "x1": 296.0,
+     "top": 667.4,
+     "bottom": 679.4
+    },
+    {
+     "t": "Tax",
+     "x0": 300.0,
+     "x1": 324.0,
+     "top": 667.4,
+     "bottom": 679.4
+    },
+    {
+     "t": "lnput",
+     "x0": 72.0,
+     "x1": 102.3,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "VAT",
+     "x0": 108.0,
+     "x1": 131.4,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "incurred",
+     "x0": 137.5,
+     "x1": 187.0,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "on",
+     "x0": 192.5,
+     "x1": 207.6,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "taxable",
+     "x0": 212.9,
+     "x1": 257.1,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "supplies",
+     "x0": 262.4,
+     "x1": 311.1,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "can",
+     "x0": 316.8,
+     "x1": 337.9,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "be",
+     "x0": 343.3,
+     "x1": 357.9,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "deducted",
+     "x0": 363.8,
+     "x1": 418.7,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "from",
+     "x0": 424.8,
+     "x1": 452.9,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "the",
+     "x0": 458.7,
+     "x1": 477.9,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "output",
+     "x0": 483.2,
+     "x1": 522.9,
+     "top": 683.4,
+     "bottom": 695.4
+    },
+    {
+     "t": "VAT",
+     "x0": 72.0,
+     "x1": 95.4,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "or",
+     "x0": 99.5,
+     "x1": 112.2,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "tax",
+     "x0": 116.5,
+     "x1": 135.1,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "payable",
+     "x0": 139.5,
+     "x1": 186.6,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "in",
+     "x0": 191.2,
+     "x1": 201.7,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "line",
+     "x0": 206.1,
+     "x1": 227.3,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "with",
+     "x0": 231.1,
+     "x1": 256.7,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "the",
+     "x0": 261.1,
+     "x1": 280.7,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "provisions",
+     "x0": 284.6,
+     "x1": 345.8,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "of",
+     "x0": 350.0,
+     "x1": 361.7,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "Section",
+     "x0": 365.5,
+     "x1": 410.1,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "155",
+     "x0": 414.9,
+     "x1": 437.5,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "(5)",
+     "x0": 441.4,
+     "x1": 460.3,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "of",
+     "x0": 464.3,
+     "x1": 476.0,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "NTA.",
+     "x0": 479.8,
+     "x1": 509.3,
+     "top": 698.9,
+     "bottom": 710.9
+    },
+    {
+     "t": "In",
+     "x0": 71.0,
+     "x1": 83.7,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "the",
+     "x0": 88.0,
+     "x1": 107.2,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "event",
+     "x0": 112.0,
+     "x1": 145.7,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "that",
+     "x0": 150.0,
+     "x1": 174.2,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "the",
+     "x0": 179.0,
+     "x1": 198.1,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "output",
+     "x0": 202.9,
+     "x1": 242.2,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "tax",
+     "x0": 246.9,
+     "x1": 265.5,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "has",
+     "x0": 270.4,
+     "x1": 291.1,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "been",
+     "x0": 295.9,
+     "x1": 325.0,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "withheld",
+     "x0": 329.8,
+     "x1": 380.8,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "by",
+     "x0": 385.3,
+     "x1": 399.9,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "a",
+     "x0": 404.3,
+     "x1": 411.5,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "company",
+     "x0": 415.8,
+     "x1": 470.9,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "covered",
+     "x0": 475.8,
+     "x1": 523.3,
+     "top": 714.9,
+     "bottom": 726.9
+    },
+    {
+     "t": "under",
+     "x0": 71.5,
+     "x1": 106.2,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "paragraph",
+     "x0": 110.0,
+     "x1": 172.1,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "2.0",
+     "x0": 176.5,
+     "x1": 196.3,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "of",
+     "x0": 200.1,
+     "x1": 211.8,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "this",
+     "x0": 216.1,
+     "x1": 237.9,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "Guideline,",
+     "x0": 242.2,
+     "x1": 302.6,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "the",
+     "x0": 307.2,
+     "x1": 326.4,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "supplier:",
+     "x0": 330.7,
+     "x1": 383.6,
+     "top": 730.4,
+     "bottom": 742.4
+    },
+    {
+     "t": "3",
+     "x0": 295.2,
+     "x1": 300.8,
+     "top": 778.2,
+     "bottom": 789.2
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "chars": 1539,
+   "text": "a. shall disclose the total output tax collectible on all its supplies in the\nVAT returns for the relevant month;\nb. shall deduct output tax withheld at source from the total output tax\nreported in its VAT return for the relevant month to arrive at a net\noutput tax (i.e., output tax collected);\nc. shall, in arriving at the VAT payable, deduct input tax on all supplies\nfrom the net output tax, including input tax relating to the supplies\nfor which output tax was withheld; and\nd. where the input VAT exceeds the net output VAT, may utilise the\namount refundable to offset future VAT liability or request for a\nrefund.\n9.0 Refund of Input Tax\nWhere a taxpayer covered under paragraph 2.0 of this Guideline requests\nfor a refund, the Service shall treat the request in accordance with the\nGuidelines on Tax Refund.\n10.0 Offences and Penalties\nThe penalties stipulated under the relevant provisions of the Nigeria Tax\nAdministration Act shall apply to any person who fails to comply with the\nobligations set out in these Guidelines.\n10.0 Amendment or Revision of the Circular\nThe Service may, at any time, withdraw, amend or update this Guideline.\n11.0 Enquiries\nAll Enquiries on any aspect of this publication should be directed to:\nExecutive Chairman,\nNigeria Revenue Service,\nRevenue House,\nPlot 1241 Kur Mohammed Avenue,\nCentral Area, Abuja.\nOr\nDirector,\nTax Policy and Advisory Department,\nNigeria Revenue Service,\nRevenue House,\nPlot 1241 Kur Mohammed Avenue,\nCentral Area, Abuja.\nOr\nEmail: tpad@firs.gov.ng\nOr\nEmail: tpld@firs.gov\n4",
+   "words": [
+    {
+     "t": "a.",
+     "x0": 90.1,
+     "x1": 101.4,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "shall",
+     "x0": 114.6,
+     "x1": 141.9,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "disclose",
+     "x0": 145.6,
+     "x1": 193.7,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "the",
+     "x0": 197.0,
+     "x1": 216.7,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "total",
+     "x0": 220.5,
+     "x1": 247.8,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "output",
+     "x0": 251.5,
+     "x1": 291.2,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "tax",
+     "x0": 295.0,
+     "x1": 314.1,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "collectible",
+     "x0": 317.5,
+     "x1": 377.1,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "on",
+     "x0": 380.9,
+     "x1": 396.0,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "all",
+     "x0": 399.9,
+     "x1": 414.1,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "its",
+     "x0": 417.9,
+     "x1": 432.1,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "supplies",
+     "x0": 435.9,
+     "x1": 484.6,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "in",
+     "x0": 488.8,
+     "x1": 499.4,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "the",
+     "x0": 503.8,
+     "x1": 522.9,
+     "top": 38.0,
+     "bottom": 50.0
+    },
+    {
+     "t": "VAT",
+     "x0": 114.6,
+     "x1": 138.0,
+     "top": 52.5,
+     "bottom": 64.5
+    },
+    {
+     "t": "returns",
+     "x0": 142.1,
+     "x1": 185.8,
+     "top": 52.5,
+     "bottom": 64.5
+    },
+    {
+     "t": "for",
+     "x0": 190.0,
+     "x1": 206.7,
+     "top": 52.5,
+     "bottom": 64.5
+    },
+    {
+     "t": "the",
+     "x0": 211.0,
+     "x1": 230.2,
+     "top": 52.5,
+     "bottom": 64.5
+    },
+    {
+     "t": "relevant",
+     "x0": 234.5,
+     "x1": 283.7,
+     "top": 52.5,
+     "bottom": 64.5
+    },
+    {
+     "t": "month;",
+     "x0": 288.0,
+     "x1": 332.4,
+     "top": 52.5,
+     "bottom": 64.5
+    },
+    {
+     "t": "b.",
+     "x0": 90.1,
+     "x1": 101.9,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "shall",
+     "x0": 114.6,
+     "x1": 141.9,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "deduct",
+     "x0": 146.1,
+     "x1": 186.8,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "output",
+     "x0": 190.6,
+     "x1": 230.3,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "tax",
+     "x0": 234.6,
+     "x1": 253.7,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "withheld",
+     "x0": 257.6,
+     "x1": 308.5,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "at",
+     "x0": 313.0,
+     "x1": 324.7,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "source",
+     "x0": 329.0,
+     "x1": 369.1,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "from",
+     "x0": 373.0,
+     "x1": 401.1,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "the",
+     "x0": 405.4,
+     "x1": 424.6,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "total",
+     "x0": 428.9,
+     "x1": 456.2,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "output",
+     "x0": 460.4,
+     "x1": 500.1,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "tax",
+     "x0": 503.9,
+     "x1": 523.0,
+     "top": 78.0,
+     "bottom": 90.0
+    },
+    {
+     "t": "reported",
+     "x0": 114.6,
+     "x1": 165.6,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "in",
+     "x0": 170.6,
+     "x1": 181.2,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "its",
+     "x0": 186.1,
+     "x1": 200.3,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "VAT",
+     "x0": 205.0,
+     "x1": 228.4,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "return",
+     "x0": 233.5,
+     "x1": 270.6,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "for",
+     "x0": 275.5,
+     "x1": 292.1,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "the",
+     "x0": 297.0,
+     "x1": 316.1,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "relevant",
+     "x0": 321.0,
+     "x1": 370.2,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "month",
+     "x0": 374.9,
+     "x1": 414.0,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "to",
+     "x0": 418.4,
+     "x1": 430.2,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "arrive",
+     "x0": 435.3,
+     "x1": 470.0,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "at",
+     "x0": 474.8,
+     "x1": 487.0,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "a",
+     "x0": 492.4,
+     "x1": 499.6,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "net",
+     "x0": 503.9,
+     "x1": 523.6,
+     "top": 92.5,
+     "bottom": 104.5
+    },
+    {
+     "t": "output",
+     "x0": 114.6,
+     "x1": 153.8,
+     "top": 107.1,
+     "bottom": 119.1
+    },
+    {
+     "t": "tax",
+     "x0": 158.1,
+     "x1": 176.7,
+     "top": 107.1,
+     "bottom": 119.1
+    },
+    {
+     "t": "(i.e.,",
+     "x0": 181.1,
+     "x1": 210.5,
+     "top": 107.1,
+     "bottom": 119.1
+    },
+    {
+     "t": "output",
+     "x0": 214.7,
+     "x1": 253.9,
+     "top": 107.1,
+     "bottom": 119.1
+    },
+    {
+     "t": "tax",
+     "x0": 258.2,
+     "x1": 276.8,
+     "top": 107.1,
+     "bottom": 119.1
+    },
+    {
+     "t": "collected);",
+     "x0": 281.1,
+     "x1": 345.5,
+     "top": 107.1,
+     "bottom": 119.1
+    },
+    {
+     "t": "c.",
+     "x0": 90.1,
+     "x1": 100.9,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "shall,",
+     "x0": 114.6,
+     "x1": 146.0,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "in",
+     "x0": 150.1,
+     "x1": 160.7,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "arriving",
+     "x0": 164.6,
+     "x1": 210.5,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "at",
+     "x0": 214.6,
+     "x1": 226.8,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "the",
+     "x0": 230.5,
+     "x1": 249.7,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "VAT",
+     "x0": 253.5,
+     "x1": 277.4,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "payable,",
+     "x0": 281.0,
+     "x1": 332.4,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "deduct",
+     "x0": 336.0,
+     "x1": 377.2,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "input",
+     "x0": 381.0,
+     "x1": 411.7,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "tax",
+     "x0": 415.4,
+     "x1": 434.0,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "on",
+     "x0": 437.9,
+     "x1": 453.0,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "all",
+     "x0": 456.9,
+     "x1": 470.7,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "supplies",
+     "x0": 473.9,
+     "x1": 522.6,
+     "top": 132.6,
+     "bottom": 144.6
+    },
+    {
+     "t": "from",
+     "x0": 114.6,
+     "x1": 142.8,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "the",
+     "x0": 147.1,
+     "x1": 166.2,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "net",
+     "x0": 171.2,
+     "x1": 190.4,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "output",
+     "x0": 194.6,
+     "x1": 234.3,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "tax,",
+     "x0": 239.1,
+     "x1": 262.1,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "including",
+     "x0": 266.7,
+     "x1": 320.6,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "input",
+     "x0": 325.3,
+     "x1": 356.0,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "tax",
+     "x0": 360.2,
+     "x1": 379.3,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "relating",
+     "x0": 383.7,
+     "x1": 429.7,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "to",
+     "x0": 434.2,
+     "x1": 446.0,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "the",
+     "x0": 450.7,
+     "x1": 469.8,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "supplies",
+     "x0": 474.1,
+     "x1": 522.9,
+     "top": 147.6,
+     "bottom": 159.6
+    },
+    {
+     "t": "for",
+     "x0": 114.6,
+     "x1": 131.2,
+     "top": 162.1,
+     "bottom": 174.1
+    },
+    {
+     "t": "which",
+     "x0": 135.1,
+     "x1": 169.7,
+     "top": 162.1,
+     "bottom": 174.1
+    },
+    {
+     "t": "output",
+     "x0": 173.6,
+     "x1": 213.3,
+     "top": 162.1,
+     "bottom": 174.1
+    },
+    {
+     "t": "tax",
+     "x0": 217.5,
+     "x1": 236.6,
+     "top": 162.1,
+     "bottom": 174.1
+    },
+    {
+     "t": "was",
+     "x0": 240.5,
+     "x1": 263.7,
+     "top": 162.1,
+     "bottom": 174.1
+    },
+    {
+     "t": "withheld;",
+     "x0": 268.0,
+     "x1": 324.7,
+     "top": 162.1,
+     "bottom": 174.1
+    },
+    {
+     "t": "and",
+     "x0": 329.2,
+     "x1": 351.2,
+     "top": 162.1,
+     "bottom": 174.1
+    },
+    {
+     "t": "d.",
+     "x0": 90.1,
+     "x1": 101.9,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "where",
+     "x0": 114.6,
+     "x1": 151.2,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "the",
+     "x0": 156.6,
+     "x1": 176.2,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "input",
+     "x0": 182.0,
+     "x1": 212.8,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "VAT",
+     "x0": 218.0,
+     "x1": 241.9,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "exceeds",
+     "x0": 247.5,
+     "x1": 295.7,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "the",
+     "x0": 301.9,
+     "x1": 321.1,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "net",
+     "x0": 326.9,
+     "x1": 346.1,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "output",
+     "x0": 351.9,
+     "x1": 391.1,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "VAT,",
+     "x0": 396.9,
+     "x1": 424.7,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "may",
+     "x0": 431.4,
+     "x1": 456.9,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "utilise",
+     "x0": 462.8,
+     "x1": 498.4,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "the",
+     "x0": 504.4,
+     "x1": 523.6,
+     "top": 184.1,
+     "bottom": 196.1
+    },
+    {
+     "t": "amount",
+     "x0": 114.6,
+     "x1": 160.3,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "refundable",
+     "x0": 167.1,
+     "x1": 231.2,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "to",
+     "x0": 238.0,
+     "x1": 249.8,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "offset",
+     "x0": 256.5,
+     "x1": 290.7,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "future",
+     "x0": 297.8,
+     "x1": 334.4,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "VAT",
+     "x0": 341.2,
+     "x1": 364.6,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "liability",
+     "x0": 371.7,
+     "x1": 414.3,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "or",
+     "x0": 421.1,
+     "x1": 433.7,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "request",
+     "x0": 440.1,
+     "x1": 485.8,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "for",
+     "x0": 492.6,
+     "x1": 509.2,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "a",
+     "x0": 516.0,
+     "x1": 523.2,
+     "top": 198.6,
+     "bottom": 210.6
+    },
+    {
+     "t": "refund.",
+     "x0": 114.6,
+     "x1": 157.5,
+     "top": 212.6,
+     "bottom": 224.6
+    },
+    {
+     "t": "9.0",
+     "x0": 71.0,
+     "x1": 92.6,
+     "top": 244.1,
+     "bottom": 256.1
+    },
+    {
+     "t": "Refund",
+     "x0": 96.6,
+     "x1": 144.4,
+     "top": 244.1,
+     "bottom": 256.1
+    },
+    {
+     "t": "of",
+     "x0": 148.5,
+     "x1": 161.6,
+     "top": 244.1,
+     "bottom": 256.1
+    },
+    {
+     "t": "Input",
+     "x0": 165.6,
+     "x1": 203.1,
+     "top": 244.1,
+     "bottom": 256.1
+    },
+    {
+     "t": "Tax",
+     "x0": 207.1,
+     "x1": 231.6,
+     "top": 244.1,
+     "bottom": 256.1
+    },
+    {
+     "t": "Where",
+     "x0": 71.0,
+     "x1": 109.7,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "a",
+     "x0": 114.5,
+     "x1": 121.7,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "taxpayer",
+     "x0": 126.5,
+     "x1": 179.7,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "covered",
+     "x0": 184.1,
+     "x1": 231.5,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "under",
+     "x0": 236.5,
+     "x1": 271.7,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "paragraph",
+     "x0": 276.0,
+     "x1": 338.1,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "2.0",
+     "x0": 343.0,
+     "x1": 362.9,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "of",
+     "x0": 367.2,
+     "x1": 379.0,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "this",
+     "x0": 383.7,
+     "x1": 405.5,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "Guideline",
+     "x0": 410.3,
+     "x1": 466.9,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "requests",
+     "x0": 471.4,
+     "x1": 523.1,
+     "top": 260.1,
+     "bottom": 272.1
+    },
+    {
+     "t": "for",
+     "x0": 71.5,
+     "x1": 88.2,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "a",
+     "x0": 94.0,
+     "x1": 101.2,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "refund,",
+     "x0": 107.5,
+     "x1": 150.8,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "the",
+     "x0": 157.5,
+     "x1": 176.6,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "Service",
+     "x0": 182.9,
+     "x1": 227.6,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "shall",
+     "x0": 233.4,
+     "x1": 261.1,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "treat",
+     "x0": 267.9,
+     "x1": 296.6,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "the",
+     "x0": 302.8,
+     "x1": 322.0,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "request",
+     "x0": 328.3,
+     "x1": 374.0,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "in",
+     "x0": 380.2,
+     "x1": 390.8,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "accordance",
+     "x0": 397.2,
+     "x1": 465.3,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "with",
+     "x0": 471.2,
+     "x1": 496.7,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "the",
+     "x0": 503.1,
+     "x1": 522.8,
+     "top": 276.2,
+     "bottom": 288.2
+    },
+    {
+     "t": "Guidelines",
+     "x0": 71.5,
+     "x1": 133.3,
+     "top": 292.2,
+     "bottom": 304.2
+    },
+    {
+     "t": "on",
+     "x0": 137.5,
+     "x1": 152.6,
+     "top": 292.2,
+     "bottom": 304.2
+    },
+    {
+     "t": "Tax",
+     "x0": 156.5,
+     "x1": 178.6,
+     "top": 292.2,
+     "bottom": 304.2
+    },
+    {
+     "t": "Refund.",
+     "x0": 182.5,
+     "x1": 229.5,
+     "top": 292.2,
+     "bottom": 304.2
+    },
+    {
+     "t": "10.0",
+     "x0": 71.0,
+     "x1": 101.1,
+     "top": 324.7,
+     "bottom": 336.7
+    },
+    {
+     "t": "Offences",
+     "x0": 105.1,
+     "x1": 163.7,
+     "top": 324.7,
+     "bottom": 336.7
+    },
+    {
+     "t": "and",
+     "x0": 167.6,
+     "x1": 192.5,
+     "top": 324.7,
+     "bottom": 336.7
+    },
+    {
+     "t": "Penalties",
+     "x0": 196.6,
+     "x1": 259.1,
+     "top": 324.7,
+     "bottom": 336.7
+    },
+    {
+     "t": "The",
+     "x0": 71.0,
+     "x1": 93.2,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "penalties",
+     "x0": 98.5,
+     "x1": 152.2,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "stipulated",
+     "x0": 158.1,
+     "x1": 217.6,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "under",
+     "x0": 223.1,
+     "x1": 258.2,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "the",
+     "x0": 264.1,
+     "x1": 283.2,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "relevant",
+     "x0": 289.2,
+     "x1": 338.4,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "provisions",
+     "x0": 344.2,
+     "x1": 404.9,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "of",
+     "x0": 410.6,
+     "x1": 422.3,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "the",
+     "x0": 428.4,
+     "x1": 447.5,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "Nigeria",
+     "x0": 453.4,
+     "x1": 496.1,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "Tax",
+     "x0": 501.3,
+     "x1": 523.4,
+     "top": 340.7,
+     "bottom": 352.7
+    },
+    {
+     "t": "Administration",
+     "x0": 71.5,
+     "x1": 159.1,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "Act",
+     "x0": 164.0,
+     "x1": 183.2,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "shall",
+     "x0": 188.0,
+     "x1": 215.7,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "apply",
+     "x0": 220.9,
+     "x1": 253.5,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "to",
+     "x0": 258.4,
+     "x1": 270.2,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "any",
+     "x0": 275.4,
+     "x1": 297.5,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "person",
+     "x0": 302.4,
+     "x1": 343.4,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "who",
+     "x0": 348.3,
+     "x1": 373.1,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "fails",
+     "x0": 378.3,
+     "x1": 402.0,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "to",
+     "x0": 407.8,
+     "x1": 419.5,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "comply",
+     "x0": 424.7,
+     "x1": 467.8,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "with",
+     "x0": 472.7,
+     "x1": 498.3,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "the",
+     "x0": 503.2,
+     "x1": 522.8,
+     "top": 356.7,
+     "bottom": 368.7
+    },
+    {
+     "t": "obligations",
+     "x0": 71.5,
+     "x1": 136.3,
+     "top": 372.2,
+     "bottom": 384.2
+    },
+    {
+     "t": "set",
+     "x0": 140.5,
+     "x1": 158.7,
+     "top": 372.2,
+     "bottom": 384.2
+    },
+    {
+     "t": "out",
+     "x0": 162.5,
+     "x1": 182.7,
+     "top": 372.2,
+     "bottom": 384.2
+    },
+    {
+     "t": "in",
+     "x0": 187.0,
+     "x1": 197.6,
+     "top": 372.2,
+     "bottom": 384.2
+    },
+    {
+     "t": "these",
+     "x0": 202.2,
+     "x1": 234.8,
+     "top": 372.2,
+     "bottom": 384.2
+    },
+    {
+     "t": "Guidelines.",
+     "x0": 239.2,
+     "x1": 306.1,
+     "top": 372.2,
+     "bottom": 384.2
+    },
+    {
+     "t": "10.0",
+     "x0": 72.0,
+     "x1": 102.1,
+     "top": 402.7,
+     "bottom": 414.7
+    },
+    {
+     "t": "Amendment",
+     "x0": 106.1,
+     "x1": 187.5,
+     "top": 402.7,
+     "bottom": 414.7
+    },
+    {
+     "t": "or",
+     "x0": 191.6,
+     "x1": 205.5,
+     "top": 402.7,
+     "bottom": 414.7
+    },
+    {
+     "t": "Revision",
+     "x0": 209.6,
+     "x1": 267.1,
+     "top": 402.7,
+     "bottom": 414.7
+    },
+    {
+     "t": "of",
+     "x0": 271.0,
+     "x1": 284.1,
+     "top": 402.7,
+     "bottom": 414.7
+    },
+    {
+     "t": "the",
+     "x0": 288.5,
+     "x1": 310.5,
+     "top": 402.7,
+     "bottom": 414.7
+    },
+    {
+     "t": "Circular",
+     "x0": 314.5,
+     "x1": 366.9,
+     "top": 402.7,
+     "bottom": 414.7
+    },
+    {
+     "t": "The",
+     "x0": 71.0,
+     "x1": 93.2,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "Service",
+     "x0": 97.0,
+     "x1": 141.2,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "may,",
+     "x0": 145.5,
+     "x1": 175.8,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "at",
+     "x0": 180.0,
+     "x1": 192.2,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "any",
+     "x0": 196.4,
+     "x1": 218.0,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "time,",
+     "x0": 222.4,
+     "x1": 253.3,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "withdraw,",
+     "x0": 257.4,
+     "x1": 317.6,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "amend",
+     "x0": 321.7,
+     "x1": 362.7,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "or",
+     "x0": 366.7,
+     "x1": 379.3,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "update",
+     "x0": 383.8,
+     "x1": 425.4,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "this",
+     "x0": 429.9,
+     "x1": 451.1,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "Guideline.",
+     "x0": 455.4,
+     "x1": 516.3,
+     "top": 417.7,
+     "bottom": 429.7
+    },
+    {
+     "t": "11.0",
+     "x0": 71.0,
+     "x1": 101.1,
+     "top": 443.8,
+     "bottom": 455.8
+    },
+    {
+     "t": "Enquiries",
+     "x0": 105.1,
+     "x1": 167.6,
+     "top": 443.8,
+     "bottom": 455.8
+    },
+    {
+     "t": "All",
+     "x0": 71.0,
+     "x1": 85.8,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "Enquiries",
+     "x0": 89.5,
+     "x1": 144.8,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "on",
+     "x0": 149.0,
+     "x1": 164.1,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "any",
+     "x0": 168.5,
+     "x1": 190.1,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "aspect",
+     "x0": 194.5,
+     "x1": 233.7,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "of",
+     "x0": 237.4,
+     "x1": 249.1,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "this",
+     "x0": 253.4,
+     "x1": 275.1,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "publication",
+     "x0": 279.4,
+     "x1": 344.9,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "should",
+     "x0": 348.8,
+     "x1": 388.3,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "be",
+     "x0": 392.8,
+     "x1": 407.4,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "directed",
+     "x0": 411.3,
+     "x1": 460.2,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "to:",
+     "x0": 464.3,
+     "x1": 481.7,
+     "top": 458.3,
+     "bottom": 470.3
+    },
+    {
+     "t": "Executive",
+     "x0": 72.0,
+     "x1": 137.0,
+     "top": 480.3,
+     "bottom": 492.3
+    },
+    {
+     "t": "Chairman,",
+     "x0": 141.1,
+     "x1": 210.0,
+     "top": 480.3,
+     "bottom": 492.3
+    },
+    {
+     "t": "Nigeria",
+     "x0": 72.0,
+     "x1": 114.2,
+     "top": 496.8,
+     "bottom": 508.8
+    },
+    {
+     "t": "Revenue",
+     "x0": 118.0,
+     "x1": 170.6,
+     "top": 496.8,
+     "bottom": 508.8
+    },
+    {
+     "t": "Service,",
+     "x0": 174.5,
+     "x1": 223.3,
+     "top": 496.8,
+     "bottom": 508.8
+    },
+    {
+     "t": "Revenue",
+     "x0": 72.0,
+     "x1": 123.7,
+     "top": 513.3,
+     "bottom": 525.3
+    },
+    {
+     "t": "House,",
+     "x0": 128.0,
+     "x1": 169.8,
+     "top": 513.3,
+     "bottom": 525.3
+    },
+    {
+     "t": "Plot",
+     "x0": 72.0,
+     "x1": 94.3,
+     "top": 529.8,
+     "bottom": 541.8
+    },
+    {
+     "t": "1241",
+     "x0": 98.5,
+     "x1": 129.1,
+     "top": 529.8,
+     "bottom": 541.8
+    },
+    {
+     "t": "Kur",
+     "x0": 133.0,
+     "x1": 154.1,
+     "top": 529.8,
+     "bottom": 541.8
+    },
+    {
+     "t": "Mohammed",
+     "x0": 158.5,
+     "x1": 228.4,
+     "top": 529.8,
+     "bottom": 541.8
+    },
+    {
+     "t": "Avenue,",
+     "x0": 232.9,
+     "x1": 281.8,
+     "top": 529.8,
+     "bottom": 541.8
+    },
+    {
+     "t": "Central",
+     "x0": 72.0,
+     "x1": 115.3,
+     "top": 546.3,
+     "bottom": 558.3
+    },
+    {
+     "t": "Area,",
+     "x0": 119.5,
+     "x1": 151.4,
+     "top": 546.3,
+     "bottom": 558.3
+    },
+    {
+     "t": "Abuja.",
+     "x0": 155.5,
+     "x1": 194.3,
+     "top": 546.3,
+     "bottom": 558.3
+    },
+    {
+     "t": "Or",
+     "x0": 147.1,
+     "x1": 163.1,
+     "top": 578.8,
+     "bottom": 590.8
+    },
+    {
+     "t": "Director,",
+     "x0": 72.0,
+     "x1": 130.8,
+     "top": 607.4,
+     "bottom": 619.4
+    },
+    {
+     "t": "Tax",
+     "x0": 72.0,
+     "x1": 93.6,
+     "top": 623.4,
+     "bottom": 635.4
+    },
+    {
+     "t": "Policy",
+     "x0": 97.5,
+     "x1": 132.1,
+     "top": 623.4,
+     "bottom": 635.4
+    },
+    {
+     "t": "and",
+     "x0": 136.5,
+     "x1": 158.4,
+     "top": 623.4,
+     "bottom": 635.4
+    },
+    {
+     "t": "Advisory",
+     "x0": 163.0,
+     "x1": 214.5,
+     "top": 623.4,
+     "bottom": 635.4
+    },
+    {
+     "t": "Department,",
+     "x0": 218.4,
+     "x1": 294.8,
+     "top": 623.4,
+     "bottom": 635.4
+    },
+    {
+     "t": "Nigeria",
+     "x0": 72.0,
+     "x1": 114.2,
+     "top": 639.9,
+     "bottom": 651.9
+    },
+    {
+     "t": "Revenue",
+     "x0": 118.0,
+     "x1": 170.6,
+     "top": 639.9,
+     "bottom": 651.9
+    },
+    {
+     "t": "Service,",
+     "x0": 174.5,
+     "x1": 223.3,
+     "top": 639.9,
+     "bottom": 651.9
+    },
+    {
+     "t": "Revenue",
+     "x0": 72.0,
+     "x1": 123.7,
+     "top": 656.4,
+     "bottom": 668.4
+    },
+    {
+     "t": "House,",
+     "x0": 128.0,
+     "x1": 169.8,
+     "top": 656.4,
+     "bottom": 668.4
+    },
+    {
+     "t": "Plot",
+     "x0": 72.0,
+     "x1": 94.3,
+     "top": 672.9,
+     "bottom": 684.9
+    },
+    {
+     "t": "1241",
+     "x0": 98.5,
+     "x1": 129.1,
+     "top": 672.9,
+     "bottom": 684.9
+    },
+    {
+     "t": "Kur",
+     "x0": 133.0,
+     "x1": 154.1,
+     "top": 672.9,
+     "bottom": 684.9
+    },
+    {
+     "t": "Mohammed",
+     "x0": 158.5,
+     "x1": 228.4,
+     "top": 672.9,
+     "bottom": 684.9
+    },
+    {
+     "t": "Avenue,",
+     "x0": 232.9,
+     "x1": 281.8,
+     "top": 672.9,
+     "bottom": 684.9
+    },
+    {
+     "t": "Central",
+     "x0": 72.0,
+     "x1": 115.3,
+     "top": 689.4,
+     "bottom": 701.4
+    },
+    {
+     "t": "Area,",
+     "x0": 119.5,
+     "x1": 151.4,
+     "top": 689.4,
+     "bottom": 701.4
+    },
+    {
+     "t": "Abuja.",
+     "x0": 155.5,
+     "x1": 194.3,
+     "top": 689.4,
+     "bottom": 701.4
+    },
+    {
+     "t": "Or",
+     "x0": 139.1,
+     "x1": 155.1,
+     "top": 705.9,
+     "bottom": 717.9
+    },
+    {
+     "t": "Email:",
+     "x0": 72.0,
+     "x1": 110.0,
+     "top": 721.9,
+     "bottom": 733.9
+    },
+    {
+     "t": "tpad@firs.gov.ng",
+     "x0": 114.5,
+     "x1": 218.0,
+     "top": 721.9,
+     "bottom": 733.9
+    },
+    {
+     "t": "Or",
+     "x0": 79.1,
+     "x1": 93.7,
+     "top": 738.9,
+     "bottom": 750.9
+    },
+    {
+     "t": "Email:",
+     "x0": 72.0,
+     "x1": 110.0,
+     "top": 754.9,
+     "bottom": 766.9
+    },
+    {
+     "t": "tpld@firs.gov",
+     "x0": 114.6,
+     "x1": 195.2,
+     "top": 754.9,
+     "bottom": 766.9
+    },
+    {
+     "t": "4",
+     "x0": 295.2,
+     "x1": 300.8,
+     "top": 778.2,
+     "bottom": 789.2
+    }
+   ]
+  }
+ ]
+}
